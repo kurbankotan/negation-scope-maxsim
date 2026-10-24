@@ -1,0 +1,61 @@
+[
+ {
+  "timestamp_utc": "2026-10-22T06:39:16.198811+00:00",
+  "python": "3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "torch": "2.11.0+cu130",
+  "cuda_available": true,
+  "cuda_version": "13.0",
+  "gpu": "NVIDIA L4, 23034 MiB, 580.82.07",
+  "packages": {
+   "transformers": "5.20.1",
+   "tokenizers": "0.23.3",
+   "spacy": "3.8.16",
+   "wordfreq": null,
+   "scipy": "1.16.3",
+   "numpy": "2.1.3",
+   "datasets": "4.8.5",
+   "huggingface_hub": "1.33.0"
+  },
+  "run_name": "finetune_li",
+  "cacsa2_version": "0.3.5",
+  "package_zip_sha256": "2aa6d4ffc1e9d6595478743b04705cd7bf2d70ada88c04b3705e04977562fdbf",
+  "config": {
+   "models": [
+    {
+     "name": "colbertv2",
+     "repo": "colbert-ir/colbertv2.0",
+     "revision": "c1e84128e85ef755c096a95bdb06b47793b13acf",
+     "lr": 1e-05,
+     "batch": 16,
+     "label": "ColBERTv2"
+    },
+    {
+     "name": "answerai-colbert-small-v1",
+     "repo": "answerdotai/answerai-colbert-small-v1",
+     "lr": 2e-05,
+     "batch": 16,
+     "label": "answerai-colbert-small-v1"
+    }
+   ],
+   "train_sets": [
+    "negpairs",
+    "nevir"
+   ],
+   "seeds": [
+    13,
+    42,
+    71
+   ],
+   "epochs": 5,
+   "patience": 2,
+   "warmup": 0.06,
+   "scifact": true,
+   "n_boot": 2000,
+   "nevir": {
+    "dataset": "orionweller/NevIR",
+    "revision": "6263585072ce3b435ed09658613553fbf4e74184"
+   }
+  }
+ }
+]

@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max",
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 42,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 768,
+  "parameter_counts": {
+    "scorer": 918146,
+    "aggregator": 1,
+    "total": 918147
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6597204084373817,
+      "train_acc": 57.505910165484636,
+      "dev_loss": 0.6466294163749331,
+      "dev_acc": 61.42857142857143,
+      "lambda": 0.5197993516921997,
+      "beta": 1.0121406316757202,
+      "tau": null,
+      "elapsed_s": 5.1
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.5941548160063741,
+      "train_acc": 64.47990543735224,
+      "dev_loss": 0.6449911378678821,
+      "dev_acc": 59.04761904761905,
+      "lambda": 0.5189839005470276,
+      "beta": 0.9842625260353088,
+      "tau": null,
+      "elapsed_s": 10.6
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.5455163997679455,
+      "train_acc": 69.14893617021276,
+      "dev_loss": 0.7604872252259935,
+      "dev_acc": 60.714285714285715,
+      "lambda": 0.5188448429107666,
+      "beta": 1.0007097721099854,
+      "tau": null,
+      "elapsed_s": 15.7
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.5014989269681575,
+      "train_acc": 71.5130023640662,
+      "dev_loss": 0.7296650301842462,
+      "dev_acc": 62.61904761904762,
+      "lambda": 0.5186578035354614,
+      "beta": 0.9950095415115356,
+      "tau": null,
+      "elapsed_s": 20.8
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.47739381556251653,
+      "train_acc": 74.23167848699764,
+      "dev_loss": 0.735931190422603,
+      "dev_acc": 60.95238095238095,
+      "lambda": 0.5189136266708374,
+      "beta": 0.9869254231452942,
+      "tau": null,
+      "elapsed_s": 26.2
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.437622939229857,
+      "train_acc": 78.07328605200945,
+      "dev_loss": 0.8894377827644349,
+      "dev_acc": 63.80952380952381,
+      "lambda": 0.518840491771698,
+      "beta": 1.000917673110962,
+      "tau": null,
+      "elapsed_s": 31.3
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.40643533197700554,
+      "train_acc": 80.61465721040189,
+      "dev_loss": 0.8451069990793864,
+      "dev_acc": 62.61904761904762,
+      "lambda": 0.5160424113273621,
+      "beta": 0.9986010789871216,
+      "tau": null,
+      "elapsed_s": 37.3
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.37223900886292155,
+      "train_acc": 82.26950354609929,
+      "dev_loss": 1.1574040560495287,
+      "dev_acc": 63.57142857142857,
+      "lambda": 0.514396071434021,
+      "beta": 1.0039048194885254,
+      "tau": null,
+      "elapsed_s": 42.5
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.34694068919400517,
+      "train_acc": 84.81087470449172,
+      "dev_loss": 1.0522491772969564,
+      "dev_acc": 59.523809523809526,
+      "lambda": 0.5228554010391235,
+      "beta": 1.0111714601516724,
+      "tau": null,
+      "elapsed_s": 47.5
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.3221199074958233,
+      "train_acc": 84.39716312056737,
+      "dev_loss": 1.4122899577731178,
+      "dev_acc": 60.23809523809524,
+      "lambda": 0.5259710550308228,
+      "beta": 1.0107768774032593,
+      "tau": null,
+      "elapsed_s": 52.6
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.2865727867922321,
+      "train_acc": 87.52955082742317,
+      "dev_loss": 1.3737012857482547,
+      "dev_acc": 63.80952380952381,
+      "lambda": 0.526030957698822,
+      "beta": 1.0178227424621582,
+      "tau": null,
+      "elapsed_s": 57.7
+    }
+  ],
+  "train_time_s": 58.3,
+  "dev": {
+    "accuracy": 63.80952380952381,
+    "loss": 0.8894377827644349
+  },
+  "condition": "signed_max_sentence",
+  "encoder": "E2-deberta"
+}

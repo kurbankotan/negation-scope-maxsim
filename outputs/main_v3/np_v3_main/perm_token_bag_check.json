@@ -1,0 +1,37 @@
+{
+ "E0-hash": {
+  "n_equal": 274,
+  "n_scenarios": 274,
+  "unequal": []
+ },
+ "E3-glove": {
+  "n_equal": 274,
+  "n_scenarios": 274,
+  "unequal": []
+ },
+ "E1-minilm": {
+  "n_equal": 274,
+  "n_scenarios": 274,
+  "unequal": []
+ },
+ "E2-deberta": {
+  "n_equal": 274,
+  "n_scenarios": 274,
+  "unequal": []
+ },
+ "E4-mpnet": {
+  "n_equal": 274,
+  "n_scenarios": 274,
+  "unequal": []
+ },
+ "E5-bge": {
+  "n_equal": 274,
+  "n_scenarios": 274,
+  "unequal": []
+ },
+ "E6-colbertv2": {
+  "n_equal": 274,
+  "n_scenarios": 274,
+  "unequal": []
+ }
+}

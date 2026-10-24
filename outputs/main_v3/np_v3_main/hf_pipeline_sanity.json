@@ -1,0 +1,227 @@
+{
+ "E1-minilm": {
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+  "head": "base",
+  "tokenizer_class": "TokenizersBackend",
+  "texts": 200,
+  "tokens": 6086,
+  "unk_tokens": 0,
+  "unk_rate": 0.0,
+  "example_tokens": [
+   "<s>",
+   "\u2581The",
+   "\u2581bak",
+   "ery",
+   "\u2581on",
+   "\u2581El",
+   "m",
+   "\u2581Street",
+   "\u2581is",
+   "\u2581not",
+   "\u2581open",
+   "\u2581today",
+   ".",
+   "</s>"
+  ],
+  "missing_keys": [],
+  "unexpected_keys_n": 0,
+  "unexpected_keys_head": [],
+  "mismatched_keys": [],
+  "parameters": 117653760,
+  "param_dtypes": [
+   "torch.float32"
+  ]
+ },
+ "E2-deberta": {
+  "model": "microsoft/deberta-v3-base",
+  "revision": "8ccc9b6f36199bec6961081d44eb72fb3f7353f3",
+  "head": "base",
+  "tokenizer_class": "DebertaV2Tokenizer",
+  "texts": 200,
+  "tokens": 5187,
+  "unk_tokens": 0,
+  "unk_rate": 0.0,
+  "example_tokens": [
+   "[CLS]",
+   "\u2581The",
+   "\u2581bakery",
+   "\u2581on",
+   "\u2581Elm",
+   "\u2581Street",
+   "\u2581is",
+   "\u2581not",
+   "\u2581open",
+   "\u2581today",
+   ".",
+   "[SEP]"
+  ],
+  "missing_keys": [],
+  "unexpected_keys_n": 11,
+  "unexpected_keys_head": [
+   "lm_predictions.lm_head.LayerNorm.bias",
+   "lm_predictions.lm_head.LayerNorm.weight",
+   "lm_predictions.lm_head.bias",
+   "lm_predictions.lm_head.dense.bias",
+   "lm_predictions.lm_head.dense.weight",
+   "mask_predictions.LayerNorm.bias",
+   "mask_predictions.LayerNorm.weight",
+   "mask_predictions.classifier.bias",
+   "mask_predictions.classifier.weight",
+   "mask_predictions.dense.bias",
+   "mask_predictions.dense.weight"
+  ],
+  "mismatched_keys": [],
+  "parameters": 183831552,
+  "param_dtypes": [
+   "torch.float32"
+  ]
+ },
+ "E4-mpnet": {
+  "model": "sentence-transformers/all-mpnet-base-v2",
+  "revision": "e8c3b32edf5434bc2275fc9bab85f82640a19130",
+  "head": "base",
+  "tokenizer_class": "MPNetTokenizer",
+  "texts": 200,
+  "tokens": 5406,
+  "unk_tokens": 0,
+  "unk_rate": 0.0,
+  "example_tokens": [
+   "<s>",
+   "the",
+   "bakery",
+   "on",
+   "elm",
+   "street",
+   "is",
+   "not",
+   "open",
+   "today",
+   ".",
+   "</s>"
+  ],
+  "missing_keys": [],
+  "unexpected_keys_n": 0,
+  "unexpected_keys_head": [],
+  "mismatched_keys": [],
+  "parameters": 109486464,
+  "param_dtypes": [
+   "torch.float32"
+  ]
+ },
+ "E5-bge": {
+  "model": "BAAI/bge-base-en-v1.5",
+  "revision": "a5beb1e3e68b9ab74eb54cfd186867f64f240e1a",
+  "head": "base",
+  "tokenizer_class": "BertTokenizer",
+  "texts": 200,
+  "tokens": 5406,
+  "unk_tokens": 0,
+  "unk_rate": 0.0,
+  "example_tokens": [
+   "[CLS]",
+   "the",
+   "bakery",
+   "on",
+   "elm",
+   "street",
+   "is",
+   "not",
+   "open",
+   "today",
+   ".",
+   "[SEP]"
+  ],
+  "missing_keys": [],
+  "unexpected_keys_n": 0,
+  "unexpected_keys_head": [],
+  "mismatched_keys": [],
+  "parameters": 109482240,
+  "param_dtypes": [
+   "torch.float32"
+  ]
+ },
+ "E6-colbertv2": {
+  "model": "colbert-ir/colbertv2.0",
+  "revision": "c1e84128e85ef755c096a95bdb06b47793b13acf",
+  "head": "base",
+  "tokenizer_class": "BertTokenizer",
+  "texts": 200,
+  "tokens": 5406,
+  "unk_tokens": 0,
+  "unk_rate": 0.0,
+  "example_tokens": [
+   "[CLS]",
+   "the",
+   "bakery",
+   "on",
+   "elm",
+   "street",
+   "is",
+   "not",
+   "open",
+   "today",
+   ".",
+   "[SEP]"
+  ],
+  "missing_keys": [],
+  "unexpected_keys_n": 1,
+  "unexpected_keys_head": [
+   "linear.weight"
+  ],
+  "mismatched_keys": [],
+  "parameters": 109482240,
+  "param_dtypes": [
+   "torch.float32"
+  ]
+ },
+ "C1_mc_head": {
+  "model": "microsoft/deberta-v3-base",
+  "revision": "8ccc9b6f36199bec6961081d44eb72fb3f7353f3",
+  "head": "mc",
+  "tokenizer_class": "DebertaV2Tokenizer",
+  "texts": 0,
+  "tokens": 0,
+  "unk_tokens": 0,
+  "unk_rate": null,
+  "example_tokens": [
+   "[CLS]",
+   "\u2581The",
+   "\u2581bakery",
+   "\u2581on",
+   "\u2581Elm",
+   "\u2581Street",
+   "\u2581is",
+   "\u2581not",
+   "\u2581open",
+   "\u2581today",
+   ".",
+   "[SEP]"
+  ],
+  "missing_keys": [
+   "classifier.bias",
+   "classifier.weight",
+   "pooler.dense.bias",
+   "pooler.dense.weight"
+  ],
+  "unexpected_keys_n": 11,
+  "unexpected_keys_head": [
+   "lm_predictions.lm_head.LayerNorm.bias",
+   "lm_predictions.lm_head.LayerNorm.weight",
+   "lm_predictions.lm_head.bias",
+   "lm_predictions.lm_head.dense.bias",
+   "lm_predictions.lm_head.dense.weight",
+   "mask_predictions.LayerNorm.bias",
+   "mask_predictions.LayerNorm.weight",
+   "mask_predictions.classifier.bias",
+   "mask_predictions.classifier.weight",
+   "mask_predictions.dense.bias",
+   "mask_predictions.dense.weight"
+  ],
+  "mismatched_keys": [],
+  "parameters": 184422913,
+  "param_dtypes": [
+   "torch.float32"
+  ]
+ }
+}

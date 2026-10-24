@@ -1,0 +1,16 @@
+10:00:50 w3 E1-minilm    max                  seed    13 | dev 70.00 | ep 9/14 | 71s
+10:02:52 w3 E1-minilm    max                  seed    42 | dev 72.86 | ep 21/26 | 123s
+10:04:02 w3 E2-deberta   max                  seed    71 | dev 62.86 | ep 9/14 | 69s
+10:06:13 w3 E2-deberta   max                  seed    13 | dev 69.05 | ep 22/27 | 132s
+10:06:47 w3 E4-mpnet     max                  seed    42 | dev 59.52 | ep 2/7 | 34s
+10:07:41 w3 E4-mpnet     max                  seed    71 | dev 65.71 | ep 6/11 | 53s
+10:09:05 w3 E5-bge       max                  seed    13 | dev 68.33 | ep 12/17 | 84s
+10:10:17 w3 E5-bge       max                  seed    42 | dev 68.10 | ep 10/15 | 72s
+10:11:25 w3 E5-bge       max                  seed    71 | dev 69.29 | ep 9/14 | 68s
+10:13:06 w3 E6-colbertv2 max                  seed    13 | dev 68.57 | ep 17/22 | 101s
+10:13:49 w3 E6-colbertv2 max                  seed    42 | dev 70.00 | ep 4/9 | 42s
+10:14:34 w3 E0-hash      max                  seed    71 | dev 60.71 | ep 4/9 | 44s
+10:15:08 w3 E0-hash      max                  seed    13 | dev 61.90 | ep 3/8 | 34s
+10:15:44 w3 E3-glove     max                  seed    42 | dev 60.24 | ep 4/9 | 35s
+10:16:04 w3 E3-glove     max                  seed    71 | dev 59.29 | ep 1/6 | 20s
+10:16:04 w3 finished

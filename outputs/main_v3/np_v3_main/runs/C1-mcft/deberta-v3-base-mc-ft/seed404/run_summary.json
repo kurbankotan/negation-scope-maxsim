@@ -1,0 +1,58 @@
+{
+  "config": {
+    "model_name": "microsoft/deberta-v3-base",
+    "revision": "8ccc9b6f36199bec6961081d44eb72fb3f7353f3",
+    "lr": 2e-05,
+    "epochs": 5,
+    "batch_size": 16,
+    "max_length": 128,
+    "seed": 404,
+    "aggregator": "deberta-v3-base-mc-ft"
+  },
+  "parameter_counts": {
+    "total": 184422913
+  },
+  "selected_epoch": 5,
+  "epochs_run": 5,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6871357367112,
+      "dev_acc": 68.57142857142857,
+      "elapsed_s": 14.0
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.32357454402086017,
+      "dev_acc": 90.95238095238095,
+      "elapsed_s": 28.1
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.09412631955235562,
+      "dev_acc": 93.33333333333333,
+      "elapsed_s": 42.3
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.02402197671107437,
+      "dev_acc": 92.61904761904762,
+      "elapsed_s": 56.8
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.015070816752556976,
+      "dev_acc": 93.57142857142857,
+      "elapsed_s": 70.8
+    }
+  ],
+  "dev": {
+    "accuracy": 93.57142857142857
+  },
+  "test": {
+    "accuracy": null
+  },
+  "train_time_s": 72.1,
+  "model_state_sha256": "3e2a04194a76aa3693aec89b158ec89b115671e9384a1cf2b5c3e9a099d72b58",
+  "model_state_bytes": 737762075
+}

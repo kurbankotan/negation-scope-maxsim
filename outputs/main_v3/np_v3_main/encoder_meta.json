@@ -1,0 +1,89 @@
+{
+ "E0-hash": {
+  "kind": "hash",
+  "dim": 384,
+  "truncated_train_dev": 0,
+  "nevir_truncated_docs": 0,
+  "truncated_texts_all": 0
+ },
+ "E3-glove": {
+  "kind": "glove",
+  "dim": 300,
+  "repo": "stanfordnlp/glove",
+  "file": "glove.6B.zip",
+  "member": "glove.6B.300d.txt",
+  "revision": "1db2080b2d94def6e5b0386a523102f9d8849e9d",
+  "vocabulary": 400001,
+  "source_zip_sha256": "6471382cdd837544bf3ac72497a38715e845897d265b2b424b4761832009c837",
+  "truncated_train_dev": 0,
+  "oov_rate_train_dev": 0.0008545109633756601,
+  "oov_examples": [
+   "12gb",
+   "40gb",
+   "50am",
+   "50gb",
+   "breakroom",
+   "refolded",
+   "smartwatch",
+   "waitlist"
+  ],
+  "nevir_truncated_docs": 0,
+  "truncated_texts_all": 0,
+  "oov_rate_all": 0.011000509334101025
+ },
+ "E1-minilm": {
+  "kind": "hf",
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+  "dim": 384,
+  "normalize": true,
+  "truncated_train_dev": 0,
+  "nevir_truncated_docs": 0,
+  "truncated_texts_all": 0
+ },
+ "E2-deberta": {
+  "kind": "hf",
+  "model": "microsoft/deberta-v3-base",
+  "revision": "8ccc9b6f36199bec6961081d44eb72fb3f7353f3",
+  "dim": 768,
+  "normalize": true,
+  "truncated_train_dev": 0,
+  "nevir_truncated_docs": 0,
+  "truncated_texts_all": 0
+ },
+ "E4-mpnet": {
+  "kind": "hf",
+  "model": "sentence-transformers/all-mpnet-base-v2",
+  "revision": "e8c3b32edf5434bc2275fc9bab85f82640a19130",
+  "dim": 768,
+  "normalize": true,
+  "truncated_train_dev": 0,
+  "nevir_truncated_docs": 0,
+  "truncated_texts_all": 0
+ },
+ "E5-bge": {
+  "kind": "hf",
+  "model": "BAAI/bge-base-en-v1.5",
+  "revision": "a5beb1e3e68b9ab74eb54cfd186867f64f240e1a",
+  "dim": 768,
+  "normalize": true,
+  "truncated_train_dev": 0,
+  "nevir_truncated_docs": 0,
+  "truncated_texts_all": 0
+ },
+ "E6-colbertv2": {
+  "kind": "colbert",
+  "model": "colbert-ir/colbertv2.0",
+  "revision": "c1e84128e85ef755c096a95bdb06b47793b13acf",
+  "dim": 128,
+  "projection_shape": [
+   128,
+   768
+  ],
+  "doc_marker": "[unused1]",
+  "normalize": true,
+  "truncated_train_dev": 0,
+  "nevir_truncated_docs": 0,
+  "truncated_texts_all": 0
+ }
+}

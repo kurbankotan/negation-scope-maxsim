@@ -1,0 +1,147 @@
+[
+ {
+  "timestamp_utc": "2026-10-07T09:56:13.102374+00:00",
+  "python": "3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "torch": "2.11.0+cu130",
+  "cuda_available": true,
+  "cuda_version": "13.0",
+  "gpu": "NVIDIA A100-SXM4-40GB, 40960 MiB, 580.82.07",
+  "packages": {
+   "transformers": "5.18.0",
+   "tokenizers": "0.23.2",
+   "spacy": "3.8.16",
+   "wordfreq": "3.1.1",
+   "scipy": "1.16.3",
+   "numpy": "2.1.3",
+   "datasets": "4.8.5",
+   "huggingface_hub": "1.33.0"
+  },
+  "run_name": "np_v3_main",
+  "cacsa2_version": "0.3.1",
+  "package_zip_sha256": "56720bcd4297dab34b1589ba6e98367e731e5cea7a229683ea28a81def43388e",
+  "config": {
+   "seeds": [
+    13,
+    42,
+    71,
+    7595,
+    1676,
+    101,
+    202,
+    303,
+    404,
+    505
+   ],
+   "conditions": [
+    "max",
+    "mean",
+    "lse",
+    "signed_max",
+    "signed_max_gate",
+    "signed_max_sentence",
+    "signed_max_oracle",
+    "m1"
+   ],
+   "controls": [
+    "head_only",
+    "option_only"
+   ],
+   "encoders": {
+    "E0-hash": {
+     "kind": "hash",
+     "dim": 384
+    },
+    "E3-glove": {
+     "kind": "glove",
+     "dim": 300,
+     "repo": "stanfordnlp/glove",
+     "file": "glove.6B.zip",
+     "member": "glove.6B.300d.txt",
+     "revision": "1db2080b2d94def6e5b0386a523102f9d8849e9d"
+    },
+    "E1-minilm": {
+     "kind": "hf",
+     "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+     "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42"
+    },
+    "E2-deberta": {
+     "kind": "hf",
+     "model": "microsoft/deberta-v3-base",
+     "revision": "8ccc9b6f36199bec6961081d44eb72fb3f7353f3"
+    },
+    "E4-mpnet": {
+     "kind": "hf",
+     "model": "sentence-transformers/all-mpnet-base-v2",
+     "revision": "e8c3b32edf5434bc2275fc9bab85f82640a19130"
+    },
+    "E5-bge": {
+     "kind": "hf",
+     "model": "BAAI/bge-base-en-v1.5",
+     "revision": "a5beb1e3e68b9ab74eb54cfd186867f64f240e1a"
+    },
+    "E6-colbertv2": {
+     "kind": "colbert",
+     "model": "colbert-ir/colbertv2.0",
+     "revision": "c1e84128e85ef755c096a95bdb06b47793b13acf"
+    }
+   },
+   "epochs": 30,
+   "patience": 5,
+   "batch": 16,
+   "lr_grid": [
+    0.0003,
+    0.001,
+    0.003
+   ],
+   "lr_seeds": [
+    13,
+    42,
+    71
+   ],
+   "thresholds": {
+    "gate_SS_seen_dev": 20.0,
+    "R2_min_gain_unseen_SS": 15.0,
+    "R3_min_gain_flipS": 10.0,
+    "R8_min_SS_perm_bal_seen": 10.0,
+    "min_positive_seeds": 9,
+    "n_seeds_required": 10,
+    "family_alpha": 0.05,
+    "min_scenarios_R2": 80,
+    "min_scenarios_R3": 100,
+    "min_scenarios_R8_per_order": 40,
+    "exact_tolerance": 1e-09,
+    "R1_max_unseen_SS_descriptive": 5.0
+   },
+   "thresholds_accuracy_secondary": {
+    "gate_acc_OP": 70.0,
+    "gate_incongruent_acc_OP": 50.0,
+    "gate_margin_fallback": 10.0,
+    "min_stratum_scenarios": 30,
+    "R1_min_unseen_negation_gap": 20.0,
+    "R2_min_gain_N": 15.0,
+    "R2_max_loss_OP": -2.0,
+    "R3_min_gain_S": 10.0,
+    "R3_min_items": 100
+   },
+   "c1": {
+    "model": "microsoft/deberta-v3-base",
+    "lr": 2e-05,
+    "epochs": 5,
+    "batch_size": 16,
+    "max_length": 128
+   },
+   "nevir": {
+    "dataset": "orionweller/NevIR",
+    "split": "test"
+   },
+   "qwen": {
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "revision": "a09a35458c702b33eeacc393d103063234e8bc28"
+   },
+   "n_workers": 4,
+   "max_len_negpairs": 128,
+   "max_len_nevir": 512
+  }
+ }
+]

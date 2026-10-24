@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "lse",
+    "lr": 0.001,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 71,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 128,
+  "parameter_counts": {
+    "scorer": 180866,
+    "aggregator": 1,
+    "total": 180867
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6832145628636047,
+      "train_acc": 57.801418439716315,
+      "dev_loss": 0.6766990650267828,
+      "dev_acc": 55.23809523809524,
+      "lambda": 0.5123709440231323,
+      "beta": null,
+      "tau": 0.9932376742362976,
+      "elapsed_s": 4.2
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.6513492891974483,
+      "train_acc": 63.002364066193856,
+      "dev_loss": 0.6646929740905761,
+      "dev_acc": 58.333333333333336,
+      "lambda": 0.5186867117881775,
+      "beta": null,
+      "tau": 0.9574101567268372,
+      "elapsed_s": 8.7
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.620217365857839,
+      "train_acc": 66.78486997635933,
+      "dev_loss": 0.6481890928177606,
+      "dev_acc": 59.04761904761905,
+      "lambda": 0.529379665851593,
+      "beta": null,
+      "tau": 0.8926361203193665,
+      "elapsed_s": 13.4
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.568695567389752,
+      "train_acc": 71.15839243498817,
+      "dev_loss": 0.6479715738977705,
+      "dev_acc": 63.333333333333336,
+      "lambda": 0.5491665005683899,
+      "beta": null,
+      "tau": 0.8811402916908264,
+      "elapsed_s": 17.9
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.5172019049912762,
+      "train_acc": 74.40898345153664,
+      "dev_loss": 0.6332331611996606,
+      "dev_acc": 64.76190476190476,
+      "lambda": 0.5737823843955994,
+      "beta": null,
+      "tau": 0.8877747654914856,
+      "elapsed_s": 22.4
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.4538545459861169,
+      "train_acc": 80.79196217494089,
+      "dev_loss": 0.6481465314115796,
+      "dev_acc": 66.42857142857143,
+      "lambda": 0.6023898720741272,
+      "beta": null,
+      "tau": 0.8835350871086121,
+      "elapsed_s": 26.9
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.39088019094568616,
+      "train_acc": 84.33806146572104,
+      "dev_loss": 0.692035752818698,
+      "dev_acc": 65.95238095238095,
+      "lambda": 0.6294346451759338,
+      "beta": null,
+      "tau": 0.8832710385322571,
+      "elapsed_s": 31.3
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.33021178439999305,
+      "train_acc": 87.23404255319149,
+      "dev_loss": 0.7649404735792251,
+      "dev_acc": 64.04761904761905,
+      "lambda": 0.6532385945320129,
+      "beta": null,
+      "tau": 0.8828571438789368,
+      "elapsed_s": 35.7
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.28321403173408327,
+      "train_acc": 89.47990543735224,
+      "dev_loss": 0.7724630571547009,
+      "dev_acc": 65.0,
+      "lambda": 0.6743699908256531,
+      "beta": null,
+      "tau": 0.8853878974914551,
+      "elapsed_s": 40.1
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.24523620473013985,
+      "train_acc": 90.89834515366431,
+      "dev_loss": 0.8094518576349531,
+      "dev_acc": 61.666666666666664,
+      "lambda": 0.6924629211425781,
+      "beta": null,
+      "tau": 0.8879896998405457,
+      "elapsed_s": 44.4
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.20846800918274738,
+      "train_acc": 93.43971631205673,
+      "dev_loss": 0.8369863826604117,
+      "dev_acc": 64.76190476190476,
+      "lambda": 0.7090348601341248,
+      "beta": null,
+      "tau": 0.8926630020141602,
+      "elapsed_s": 48.7
+    }
+  ],
+  "train_time_s": 49.3,
+  "dev": {
+    "accuracy": 66.42857142857143,
+    "loss": 0.6481465314115796
+  },
+  "condition": "lse",
+  "encoder": "E6-colbertv2"
+}

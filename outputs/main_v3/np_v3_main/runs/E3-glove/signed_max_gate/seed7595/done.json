@@ -1,0 +1,1 @@
+{"encoder": "E3-glove", "condition": "signed_max_gate", "seed": 7595, "selected_epoch": 3, "epochs_run": 8, "dev_acc": 58.80952380952381, "train_time_s": 45.5, "tests": ["v1test", "fresh", "perm"]}

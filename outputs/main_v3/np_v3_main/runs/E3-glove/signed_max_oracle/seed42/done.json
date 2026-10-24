@@ -1,0 +1,1 @@
+{"encoder": "E3-glove", "condition": "signed_max_oracle", "seed": 42, "selected_epoch": 14, "epochs_run": 19, "dev_acc": 67.14285714285714, "train_time_s": 69.5, "tests": ["v1test", "fresh", "perm"]}

@@ -1,0 +1,201 @@
+{
+ "runs": 718,
+ "compared": 206092,
+ "mismatches": [],
+ "max_abs_diff": 0.0,
+ "missing_keys": 0,
+ "gate": {
+  "E0-hash": {
+   "recomputed": 24.285714285714285,
+   "notebook": 24.285714285714285,
+   "passed_recomputed": true,
+   "passed_notebook": true
+  },
+  "E1-minilm": {
+   "recomputed": 54.28571428571429,
+   "notebook": 54.28571428571429,
+   "passed_recomputed": true,
+   "passed_notebook": true
+  },
+  "E2-deberta": {
+   "recomputed": 31.61904761904762,
+   "notebook": 31.61904761904762,
+   "passed_recomputed": true,
+   "passed_notebook": true
+  },
+  "E3-glove": {
+   "recomputed": 11.714285714285714,
+   "notebook": 11.714285714285714,
+   "passed_recomputed": false,
+   "passed_notebook": false
+  },
+  "E4-mpnet": {
+   "recomputed": 48.0,
+   "notebook": 48.0,
+   "passed_recomputed": true,
+   "passed_notebook": true
+  },
+  "E5-bge": {
+   "recomputed": 45.04761904761905,
+   "notebook": 45.04761904761905,
+   "passed_recomputed": true,
+   "passed_notebook": true
+  },
+  "E6-colbertv2": {
+   "recomputed": 60.0,
+   "notebook": 60.0,
+   "passed_recomputed": true,
+   "passed_notebook": true
+  }
+ },
+ "rules_t_intervals": {
+  "E1-minilm": {
+   "R2": {
+    "mean": -3.166666666666669,
+    "low": -15.313741282733606,
+    "high": 8.980407949400266,
+    "positive": 3,
+    "notebook_mean": -3.166666666666669
+   },
+   "R3": {
+    "mean": -6.969696969696971,
+    "low": -11.73334437333468,
+    "high": -2.206049566059262,
+    "positive": 0,
+    "notebook_mean": -6.969696969696971
+   },
+   "R8": {
+    "mean": 9.802631578947366,
+    "low": 4.324234131325009,
+    "high": 15.281029026569723,
+    "positive": 10,
+    "notebook_mean": 9.802631578947366
+   }
+  },
+  "E2-deberta": {
+   "R2": {
+    "mean": 19.833333333333336,
+    "low": -3.431048664865269,
+    "high": 43.097715331531944,
+    "positive": 8,
+    "notebook_mean": 19.833333333333336
+   },
+   "R3": {
+    "mean": 17.4025974025974,
+    "low": 2.668737008255901,
+    "high": 32.1364577969389,
+    "positive": 9,
+    "notebook_mean": 17.4025974025974
+   },
+   "R8": {
+    "mean": 7.894736842105263,
+    "low": 0.6547731211181347,
+    "high": 15.134700563092391,
+    "positive": 8,
+    "notebook_mean": 7.894736842105263
+   }
+  },
+  "E4-mpnet": {
+   "R2": {
+    "mean": 1.5833333333333328,
+    "low": -7.177581955225318,
+    "high": 10.344248621891984,
+    "positive": 4,
+    "notebook_mean": 1.5833333333333328
+   },
+   "R3": {
+    "mean": 3.5930735930735933,
+    "low": -10.56366439315794,
+    "high": 17.749811579305124,
+    "positive": 5,
+    "notebook_mean": 3.5930735930735933
+   },
+   "R8": {
+    "mean": 19.736842105263158,
+    "low": 13.564824260657145,
+    "high": 25.908859949869168,
+    "positive": 10,
+    "notebook_mean": 19.736842105263158
+   }
+  },
+  "E5-bge": {
+   "R2": {
+    "mean": 5.750000000000002,
+    "low": -8.772096708462415,
+    "high": 20.27209670846242,
+    "positive": 8,
+    "notebook_mean": 5.750000000000002
+   },
+   "R3": {
+    "mean": 9.783549783549784,
+    "low": -4.694409246504648,
+    "high": 24.261508813604216,
+    "positive": 7,
+    "notebook_mean": 9.783549783549784
+   },
+   "R8": {
+    "mean": 10.460526315789474,
+    "low": 5.066215674795953,
+    "high": 15.854836956782997,
+    "positive": 10,
+    "notebook_mean": 10.460526315789474
+   }
+  },
+  "E6-colbertv2": {
+   "R2": {
+    "mean": 14.25,
+    "low": 6.527493097062482,
+    "high": 21.972506902937518,
+    "positive": 10,
+    "notebook_mean": 14.25
+   },
+   "R3": {
+    "mean": 11.774891774891774,
+    "low": -5.79938530367528,
+    "high": 29.349168853458828,
+    "positive": 8,
+    "notebook_mean": 11.774891774891774
+   },
+   "R8": {
+    "mean": 14.078947368421051,
+    "low": 11.278546592359062,
+    "high": 16.87934814448304,
+    "positive": 10,
+    "notebook_mean": 14.078947368421051
+   }
+  },
+  "E0-hash": {
+   "R2": {
+    "mean": 18.0,
+    "low": 9.883279548069648,
+    "high": 26.11672045193035,
+    "positive": 10,
+    "notebook_mean": 18.0
+   },
+   "R3": {
+    "mean": 10.086580086580087,
+    "low": -10.229640869675288,
+    "high": 30.402801042835463,
+    "positive": 8,
+    "notebook_mean": 10.086580086580087
+   }
+  },
+  "E3-glove": {
+   "R2": {
+    "mean": 23.583333333333336,
+    "low": 17.412088279381322,
+    "high": 29.75457838728535,
+    "positive": 10,
+    "notebook_mean": 23.583333333333336
+   },
+   "R3": {
+    "mean": -7.748917748917748,
+    "low": -15.31158436379447,
+    "high": -0.18625113404102667,
+    "positive": 2,
+    "notebook_mean": -7.748917748917748
+   }
+  }
+ },
+ "n_mismatches": 0
+}

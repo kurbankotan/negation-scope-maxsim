@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max",
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 202,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 300,
+  "parameter_counts": {
+    "scorer": 379010,
+    "aggregator": 1,
+    "total": 379011
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6467170770286669,
+      "train_acc": 63.593380614657214,
+      "dev_loss": 0.6850772869019282,
+      "dev_acc": 60.476190476190474,
+      "lambda": 0.5309805870056152,
+      "beta": 1.0182592868804932,
+      "tau": null,
+      "elapsed_s": 4.7
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.5403314365280999,
+      "train_acc": 72.39952718676123,
+      "dev_loss": 0.7200726100376674,
+      "dev_acc": 60.23809523809524,
+      "lambda": 0.5659173727035522,
+      "beta": 1.0435481071472168,
+      "tau": null,
+      "elapsed_s": 9.4
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.46117136847606505,
+      "train_acc": 78.95981087470449,
+      "dev_loss": 0.8580292088644845,
+      "dev_acc": 62.142857142857146,
+      "lambda": 0.5807993412017822,
+      "beta": 1.044028401374817,
+      "tau": null,
+      "elapsed_s": 14.1
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.4173966234739227,
+      "train_acc": 80.96926713947991,
+      "dev_loss": 0.8762601903506688,
+      "dev_acc": 64.04761904761905,
+      "lambda": 0.5835334658622742,
+      "beta": 1.0375657081604004,
+      "tau": null,
+      "elapsed_s": 18.7
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.361403565598436,
+      "train_acc": 84.10165484633569,
+      "dev_loss": 1.0426357155754453,
+      "dev_acc": 60.714285714285715,
+      "lambda": 0.5950389504432678,
+      "beta": 1.0408059358596802,
+      "tau": null,
+      "elapsed_s": 23.5
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.33886180553875916,
+      "train_acc": 85.87470449172577,
+      "dev_loss": 0.9529544705436344,
+      "dev_acc": 64.28571428571429,
+      "lambda": 0.5995780825614929,
+      "beta": 1.047797679901123,
+      "tau": null,
+      "elapsed_s": 28.2
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.29856142581354644,
+      "train_acc": 86.99763593380615,
+      "dev_loss": 1.2254388457252865,
+      "dev_acc": 63.80952380952381,
+      "lambda": 0.6039052605628967,
+      "beta": 1.0577774047851562,
+      "tau": null,
+      "elapsed_s": 32.5
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.29181283747614417,
+      "train_acc": 87.05673758865248,
+      "dev_loss": 1.2251847743988038,
+      "dev_acc": 61.904761904761905,
+      "lambda": 0.6193032264709473,
+      "beta": 1.08212411403656,
+      "tau": null,
+      "elapsed_s": 36.2
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.26300257125574367,
+      "train_acc": 89.06619385342789,
+      "dev_loss": 1.1472556375321887,
+      "dev_acc": 59.76190476190476,
+      "lambda": 0.6442810893058777,
+      "beta": 1.097054362297058,
+      "tau": null,
+      "elapsed_s": 40.0
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.2554291910172636,
+      "train_acc": 88.88888888888889,
+      "dev_loss": 1.1975932938711984,
+      "dev_acc": 62.61904761904762,
+      "lambda": 0.6643400192260742,
+      "beta": 1.0930652618408203,
+      "tau": null,
+      "elapsed_s": 43.6
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.22193442154719756,
+      "train_acc": 90.48463356973996,
+      "dev_loss": 1.6543226264771962,
+      "dev_acc": 58.80952380952381,
+      "lambda": 0.6849778890609741,
+      "beta": 1.106083869934082,
+      "tau": null,
+      "elapsed_s": 47.3
+    }
+  ],
+  "train_time_s": 47.7,
+  "dev": {
+    "accuracy": 64.28571428571429,
+    "loss": 0.9529544705436344
+  },
+  "condition": "signed_max",
+  "encoder": "E3-glove"
+}

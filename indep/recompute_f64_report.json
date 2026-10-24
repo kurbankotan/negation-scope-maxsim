@@ -1,0 +1,42 @@
+{
+ "files": {
+  "main_manifest_entries": 6076,
+  "followup_manifest_entries": 6282,
+  "main_entries_changed_in_followup": [],
+  "main_entries_missing_in_followup": [],
+  "present": 206,
+  "hash_ok": 206,
+  "hash_bad": 0,
+  "unlisted": 0,
+  "f64_prediction_files_in_manifest": 202
+ },
+ "compared": 43834,
+ "mismatches": [],
+ "max_abs_diff": 0.0,
+ "seed_means_compared": 4774,
+ "seed_means_max_abs_diff": 0.0,
+ "gpu_vs_f64": {
+  "total_recounted": 1282,
+  "runs_with_disagreements": 137,
+  "notebook_total": 1282,
+  "notebook_runs_with_disagreements": 137,
+  "by_run_equal": true,
+  "seed_mean_differences_recounted": 44,
+  "seed_mean_differences_notebook": 44,
+  "largest_seed_mean_difference_pp": 1.3157894736842195
+ },
+ "propA": {
+  "E0-hash": {
+   "scenario_checks": 19454,
+   "max_abs_score_diff_N_vs_S": 0.0,
+   "decision_disagreements_N_vs_S": 0
+  },
+  "E3-glove": {
+   "scenario_checks": 19454,
+   "max_abs_score_diff_N_vs_S": 0.0,
+   "decision_disagreements_N_vs_S": 0
+  }
+ },
+ "runs": 202,
+ "n_mismatches": 0
+}

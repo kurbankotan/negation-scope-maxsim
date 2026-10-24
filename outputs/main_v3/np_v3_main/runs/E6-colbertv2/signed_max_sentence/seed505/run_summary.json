@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max",
+    "lr": 0.001,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 505,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 128,
+  "parameter_counts": {
+    "scorer": 180866,
+    "aggregator": 1,
+    "total": 180867
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.669100549345039,
+      "train_acc": 56.146572104018915,
+      "dev_loss": 0.6854688638732547,
+      "dev_acc": 57.38095238095238,
+      "lambda": 0.5221375226974487,
+      "beta": 1.0027213096618652,
+      "tau": null,
+      "elapsed_s": 5.2
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.6068331262462247,
+      "train_acc": 60.22458628841608,
+      "dev_loss": 0.6785617612657093,
+      "dev_acc": 55.23809523809524,
+      "lambda": 0.527197003364563,
+      "beta": 0.9868948459625244,
+      "tau": null,
+      "elapsed_s": 10.0
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.5575712328825154,
+      "train_acc": 64.00709219858156,
+      "dev_loss": 0.7245759487152099,
+      "dev_acc": 57.857142857142854,
+      "lambda": 0.5383736491203308,
+      "beta": 0.9697589874267578,
+      "tau": null,
+      "elapsed_s": 15.0
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.5129286880752437,
+      "train_acc": 67.19858156028369,
+      "dev_loss": 0.7913100566182818,
+      "dev_acc": 59.04761904761905,
+      "lambda": 0.547586977481842,
+      "beta": 0.9636746644973755,
+      "tau": null,
+      "elapsed_s": 19.9
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.4800040899439061,
+      "train_acc": 70.39007092198581,
+      "dev_loss": 0.8700330217679342,
+      "dev_acc": 57.38095238095238,
+      "lambda": 0.557122528553009,
+      "beta": 0.9567943811416626,
+      "tau": null,
+      "elapsed_s": 24.9
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.44785424926038614,
+      "train_acc": 71.45390070921985,
+      "dev_loss": 0.8843785422188896,
+      "dev_acc": 60.95238095238095,
+      "lambda": 0.5664697289466858,
+      "beta": 0.9609441757202148,
+      "tau": null,
+      "elapsed_s": 30.1
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.42927011382495256,
+      "train_acc": 74.05437352245863,
+      "dev_loss": 0.9193804065386454,
+      "dev_acc": 58.57142857142857,
+      "lambda": 0.577197790145874,
+      "beta": 0.9605910778045654,
+      "tau": null,
+      "elapsed_s": 35.3
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.42319090625636685,
+      "train_acc": 74.52718676122932,
+      "dev_loss": 0.9667325984864008,
+      "dev_acc": 56.42857142857143,
+      "lambda": 0.5840978622436523,
+      "beta": 0.9580374956130981,
+      "tau": null,
+      "elapsed_s": 40.3
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.40096692765576336,
+      "train_acc": 76.24113475177305,
+      "dev_loss": 1.017279196920849,
+      "dev_acc": 57.61904761904762,
+      "lambda": 0.5925543904304504,
+      "beta": 0.9618039727210999,
+      "tau": null,
+      "elapsed_s": 45.4
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.39279908745001396,
+      "train_acc": 76.89125295508275,
+      "dev_loss": 1.1156833853040422,
+      "dev_acc": 56.666666666666664,
+      "lambda": 0.6022691130638123,
+      "beta": 0.9601550102233887,
+      "tau": null,
+      "elapsed_s": 50.4
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.37686857066819573,
+      "train_acc": 77.77777777777777,
+      "dev_loss": 1.0622690081596375,
+      "dev_acc": 60.0,
+      "lambda": 0.6150953769683838,
+      "beta": 0.963517963886261,
+      "tau": null,
+      "elapsed_s": 55.4
+    }
+  ],
+  "train_time_s": 55.9,
+  "dev": {
+    "accuracy": 60.95238095238095,
+    "loss": 0.8843785422188896
+  },
+  "condition": "signed_max_sentence",
+  "encoder": "E6-colbertv2"
+}

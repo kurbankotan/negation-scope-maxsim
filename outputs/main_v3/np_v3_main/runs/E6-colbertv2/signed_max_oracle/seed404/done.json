@@ -1,0 +1,1 @@
+{"encoder": "E6-colbertv2", "condition": "signed_max_oracle", "seed": 404, "selected_epoch": 5, "epochs_run": 10, "dev_acc": 69.76190476190476, "train_time_s": 51.5, "tests": ["v1test", "fresh", "perm"]}

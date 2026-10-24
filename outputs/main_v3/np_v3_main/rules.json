@@ -1,0 +1,1751 @@
+{
+ "thresholds": {
+  "gate_SS_seen_dev": 20.0,
+  "R2_min_gain_unseen_SS": 15.0,
+  "R3_min_gain_flipS": 10.0,
+  "R8_min_SS_perm_bal_seen": 10.0,
+  "min_positive_seeds": 9,
+  "n_seeds_required": 10,
+  "family_alpha": 0.05,
+  "min_scenarios_R2": 80,
+  "min_scenarios_R3": 100,
+  "min_scenarios_R8_per_order": 40,
+  "exact_tolerance": 1e-09,
+  "R1_max_unseen_SS_descriptive": 5.0
+ },
+ "gate": {
+  "threshold": 20.0,
+  "encoders": {
+   "E1-minilm": {
+    "A1_dev_SS_by_seed": [
+     52.38095238095239,
+     54.28571428571429,
+     43.8095238095238,
+     58.095238095238095,
+     64.76190476190476,
+     59.047619047619044,
+     55.23809523809524,
+     57.142857142857146,
+     40.0,
+     58.0952380952381
+    ],
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "A1_seed_mean_dev_SS": 54.28571428571429,
+    "passed": true
+   },
+   "E2-deberta": {
+    "A1_dev_SS_by_seed": [
+     51.42857142857143,
+     0.9523809523809523,
+     33.333333333333336,
+     64.76190476190476,
+     0.0,
+     40.952380952380956,
+     0.9523809523809523,
+     48.57142857142857,
+     37.142857142857146,
+     38.095238095238095
+    ],
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "A1_seed_mean_dev_SS": 31.61904761904762,
+    "passed": true
+   },
+   "E4-mpnet": {
+    "A1_dev_SS_by_seed": [
+     49.52380952380952,
+     51.42857142857143,
+     59.047619047619044,
+     43.80952380952381,
+     49.52380952380952,
+     47.61904761904762,
+     48.57142857142857,
+     39.04761904761905,
+     49.523809523809526,
+     41.90476190476191
+    ],
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "A1_seed_mean_dev_SS": 48.0,
+    "passed": true
+   },
+   "E5-bge": {
+    "A1_dev_SS_by_seed": [
+     48.57142857142858,
+     41.904761904761905,
+     36.19047619047619,
+     51.42857142857142,
+     54.28571428571429,
+     38.095238095238095,
+     43.80952380952381,
+     53.33333333333333,
+     40.0,
+     42.857142857142854
+    ],
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "A1_seed_mean_dev_SS": 45.04761904761905,
+    "passed": true
+   },
+   "E6-colbertv2": {
+    "A1_dev_SS_by_seed": [
+     61.904761904761905,
+     59.04761904761905,
+     61.904761904761905,
+     59.04761904761905,
+     58.095238095238095,
+     59.04761904761905,
+     61.904761904761905,
+     59.04761904761905,
+     59.047619047619044,
+     60.95238095238095
+    ],
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "A1_seed_mean_dev_SS": 60.0,
+    "passed": true
+   },
+   "E0-hash": {
+    "A1_dev_SS_by_seed": [
+     -2.857142857142857,
+     40.0,
+     47.61904761904761,
+     40.0,
+     40.952380952380956,
+     -0.9523809523809523,
+     0.0,
+     37.142857142857146,
+     40.95238095238095,
+     0.0
+    ],
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "A1_seed_mean_dev_SS": 24.285714285714285,
+    "passed": true
+   },
+   "E3-glove": {
+    "A1_dev_SS_by_seed": [
+     0.0,
+     42.85714285714286,
+     -2.8571428571428568,
+     -0.9523809523809523,
+     0.9523809523809523,
+     46.66666666666666,
+     36.19047619047619,
+     0.0,
+     0.0,
+     -5.714285714285714
+    ],
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "A1_seed_mean_dev_SS": 11.714285714285714,
+    "passed": false
+   }
+  },
+  "passed": [
+   "E1-minilm",
+   "E2-deberta",
+   "E4-mpnet",
+   "E5-bge",
+   "E6-colbertv2",
+   "E0-hash"
+  ],
+  "k_R2_R3": 6,
+  "k_R8": 5,
+  "computed_utc": "2026-10-07T13:50:25.972106+00:00"
+ },
+ "R2": {
+  "E1-minilm": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_unseen_fresh_scenarios": 120,
+   "contrast": "A4 - A1, unseen-family SS, NegPairs-Fresh",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    -28.333333333333336,
+    -6.666666666666671,
+    -2.5000000000000036,
+    -2.5,
+    -1.6666666666666714,
+    -1.6666666666666679,
+    -11.666666666666664,
+    15.0,
+    6.666666666666664,
+    1.6666666666666572
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": -3.166666666666669,
+    "sd": 11.417984514369003,
+    "low": -15.313741282733606,
+    "high": 8.980407949400266,
+    "positive_count": 3
+   },
+   "cluster_interval": {
+    "point": -3.166666666666668,
+    "low": -11.749999999999996,
+    "high": 5.583333333333333,
+    "n_clusters": [
+     120
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "SS",
+    "subset": "unseen",
+    "conf": 0.9916666666666667,
+    "by_order": false,
+    "contrast": "signed_max - max"
+   },
+   "conf": 0.9916666666666667,
+   "k": 6,
+   "threshold": 15.0,
+   "conditions": {
+    "a_mean_ge_threshold": false,
+    "b_positive_seeds": false,
+    "c_t_interval_above_zero": false,
+    "d_cluster_interval_above_zero": false
+   },
+   "met": false
+  },
+  "E2-deberta": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_unseen_fresh_scenarios": 120,
+   "contrast": "A4 - A1, unseen-family SS, NegPairs-Fresh",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    -25.833333333333332,
+    47.5,
+    41.666666666666664,
+    20.833333333333332,
+    27.5,
+    -3.333333333333332,
+    9.999999999999998,
+    28.333333333333336,
+    34.16666666666667,
+    17.5
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 19.833333333333336,
+    "sd": 21.86801034715344,
+    "low": -3.431048664865269,
+    "high": 43.097715331531944,
+    "positive_count": 8
+   },
+   "cluster_interval": {
+    "point": 19.833333333333336,
+    "low": 10.25,
+    "high": 29.25,
+    "n_clusters": [
+     120
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "SS",
+    "subset": "unseen",
+    "conf": 0.9916666666666667,
+    "by_order": false,
+    "contrast": "signed_max - max"
+   },
+   "conf": 0.9916666666666667,
+   "k": 6,
+   "threshold": 15.0,
+   "conditions": {
+    "a_mean_ge_threshold": true,
+    "b_positive_seeds": false,
+    "c_t_interval_above_zero": false,
+    "d_cluster_interval_above_zero": true
+   },
+   "met": false
+  },
+  "E4-mpnet": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_unseen_fresh_scenarios": 120,
+   "contrast": "A4 - A1, unseen-family SS, NegPairs-Fresh",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    12.5,
+    3.3333333333333357,
+    13.333333333333336,
+    -3.3333333333333357,
+    -1.6666666666666643,
+    -14.166666666666671,
+    -2.5,
+    0.0,
+    8.333333333333329,
+    0.0
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 1.5833333333333328,
+    "sd": 8.235068792954397,
+    "low": -7.17758195522532,
+    "high": 10.344248621891985,
+    "positive_count": 4
+   },
+   "cluster_interval": {
+    "point": 1.5833333333333357,
+    "low": -13.250000000000002,
+    "high": 16.166666666666668,
+    "n_clusters": [
+     120
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "SS",
+    "subset": "unseen",
+    "conf": 0.9916666666666667,
+    "by_order": false,
+    "contrast": "signed_max - max"
+   },
+   "conf": 0.9916666666666667,
+   "k": 6,
+   "threshold": 15.0,
+   "conditions": {
+    "a_mean_ge_threshold": false,
+    "b_positive_seeds": false,
+    "c_t_interval_above_zero": false,
+    "d_cluster_interval_above_zero": false
+   },
+   "met": false
+  },
+  "E5-bge": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_unseen_fresh_scenarios": 120,
+   "contrast": "A4 - A1, unseen-family SS, NegPairs-Fresh",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    7.5,
+    2.5,
+    16.66666666666667,
+    -0.8333333333333321,
+    5.0,
+    15.83333333333334,
+    -27.499999999999996,
+    6.666666666666657,
+    22.500000000000004,
+    9.166666666666671
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 5.750000000000002,
+    "sd": 13.650453345702841,
+    "low": -8.772096708462417,
+    "high": 20.27209670846242,
+    "positive_count": 8
+   },
+   "cluster_interval": {
+    "point": 5.75,
+    "low": -9.361458333333347,
+    "high": 20.916666666666664,
+    "n_clusters": [
+     120
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "SS",
+    "subset": "unseen",
+    "conf": 0.9916666666666667,
+    "by_order": false,
+    "contrast": "signed_max - max"
+   },
+   "conf": 0.9916666666666667,
+   "k": 6,
+   "threshold": 15.0,
+   "conditions": {
+    "a_mean_ge_threshold": false,
+    "b_positive_seeds": false,
+    "c_t_interval_above_zero": false,
+    "d_cluster_interval_above_zero": false
+   },
+   "met": false
+  },
+  "E6-colbertv2": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_unseen_fresh_scenarios": 120,
+   "contrast": "A4 - A1, unseen-family SS, NegPairs-Fresh",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    19.166666666666664,
+    24.999999999999993,
+    10.833333333333343,
+    20.83333333333333,
+    12.5,
+    8.333333333333336,
+    9.166666666666668,
+    15.833333333333332,
+    20.0,
+    0.8333333333333393
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 14.25,
+    "sd": 7.258987617744491,
+    "low": 6.5274930970624805,
+    "high": 21.972506902937518,
+    "positive_count": 10
+   },
+   "cluster_interval": {
+    "point": 14.25,
+    "low": 1.638541666666656,
+    "high": 27.0,
+    "n_clusters": [
+     120
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "SS",
+    "subset": "unseen",
+    "conf": 0.9916666666666667,
+    "by_order": false,
+    "contrast": "signed_max - max"
+   },
+   "conf": 0.9916666666666667,
+   "k": 6,
+   "threshold": 15.0,
+   "conditions": {
+    "a_mean_ge_threshold": false,
+    "b_positive_seeds": true,
+    "c_t_interval_above_zero": true,
+    "d_cluster_interval_above_zero": true
+   },
+   "met": false
+  },
+  "E0-hash": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_unseen_fresh_scenarios": 120,
+   "contrast": "A4 - A1, unseen-family SS, NegPairs-Fresh",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    24.166666666666664,
+    4.999999999999998,
+    16.666666666666668,
+    20.833333333333336,
+    23.333333333333332,
+    3.3333333333333357,
+    20.0,
+    21.666666666666668,
+    24.166666666666668,
+    20.833333333333336
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 18.0,
+    "sd": 7.629539733379064,
+    "low": 9.883279548069648,
+    "high": 26.11672045193035,
+    "positive_count": 10
+   },
+   "cluster_interval": {
+    "point": 18.0,
+    "low": 8.583333333333332,
+    "high": 28.083333333333332,
+    "n_clusters": [
+     120
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "SS",
+    "subset": "unseen",
+    "conf": 0.9916666666666667,
+    "by_order": false,
+    "contrast": "signed_max - max"
+   },
+   "conf": 0.9916666666666667,
+   "k": 6,
+   "threshold": 15.0,
+   "conditions": {
+    "a_mean_ge_threshold": true,
+    "b_positive_seeds": true,
+    "c_t_interval_above_zero": true,
+    "d_cluster_interval_above_zero": true
+   },
+   "met": true
+  },
+  "E3-glove": {
+   "evaluated": false,
+   "gate_passed": false,
+   "n_unseen_fresh_scenarios": 120,
+   "contrast": "A4 - A1, unseen-family SS, NegPairs-Fresh",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    26.666666666666668,
+    29.166666666666668,
+    33.33333333333333,
+    25.833333333333336,
+    20.000000000000004,
+    24.166666666666664,
+    24.166666666666664,
+    22.500000000000004,
+    15.0,
+    14.999999999999998
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 23.583333333333336,
+    "sd": 5.800835401735226,
+    "low": 17.412088279381322,
+    "high": 29.75457838728535,
+    "positive_count": 10
+   },
+   "cluster_interval": {},
+   "conf": 0.9916666666666667,
+   "k": 6,
+   "threshold": 15.0,
+   "conditions": {
+    "a_mean_ge_threshold": true,
+    "b_positive_seeds": true,
+    "c_t_interval_above_zero": true,
+    "d_cluster_interval_above_zero": false
+   },
+   "met": false
+  }
+ },
+ "R3": {
+  "E1-minilm": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_S_same_scenarios": 231,
+   "contrast": "A6 - A4, flip_O_S on S-same, NegPairs-Fresh",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    -4.329004329004331,
+    0.0,
+    -11.688311688311687,
+    -5.194805194805195,
+    -14.71861471861472,
+    -3.030303030303031,
+    -6.926406926406926,
+    -6.060606060606062,
+    -11.688311688311687,
+    -6.060606060606062
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": -6.969696969696971,
+    "sd": 4.477724390916818,
+    "low": -11.73334437333468,
+    "high": -2.206049566059262,
+    "positive_count": 0
+   },
+   "cluster_interval": {
+    "point": -6.969696969696969,
+    "low": -11.212121212121211,
+    "high": -2.929112554112571,
+    "n_clusters": [
+     231
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "S",
+    "subset": "all",
+    "conf": 0.9916666666666667,
+    "by_order": false,
+    "contrast": "signed_max_sentence - signed_max"
+   },
+   "conf": 0.9916666666666667,
+   "k": 6,
+   "threshold": 10.0,
+   "conditions": {
+    "a_mean_ge_threshold": false,
+    "b_positive_seeds": false,
+    "c_t_interval_above_zero": false,
+    "d_cluster_interval_above_zero": false
+   },
+   "met": false
+  },
+  "E2-deberta": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_S_same_scenarios": 231,
+   "contrast": "A6 - A4, flip_O_S on S-same, NegPairs-Fresh",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    22.510822510822507,
+    19.913419913419915,
+    8.65800865800866,
+    -4.329004329004327,
+    32.467532467532465,
+    43.72294372294372,
+    3.896103896103895,
+    19.480519480519483,
+    16.450216450216452,
+    11.255411255411257
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 17.4025974025974,
+    "sd": 13.849506579711537,
+    "low": 2.668737008255899,
+    "high": 32.1364577969389,
+    "positive_count": 9
+   },
+   "cluster_interval": {
+    "point": 17.4025974025974,
+    "low": 12.554112554112555,
+    "high": 22.294372294372295,
+    "n_clusters": [
+     231
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "S",
+    "subset": "all",
+    "conf": 0.9916666666666667,
+    "by_order": false,
+    "contrast": "signed_max_sentence - signed_max"
+   },
+   "conf": 0.9916666666666667,
+   "k": 6,
+   "threshold": 10.0,
+   "conditions": {
+    "a_mean_ge_threshold": true,
+    "b_positive_seeds": true,
+    "c_t_interval_above_zero": true,
+    "d_cluster_interval_above_zero": true
+   },
+   "met": true
+  },
+  "E4-mpnet": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_S_same_scenarios": 231,
+   "contrast": "A6 - A4, flip_O_S on S-same, NegPairs-Fresh",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    9.09090909090909,
+    -4.329004329004329,
+    -0.8658008658008658,
+    -6.926406926406926,
+    19.913419913419915,
+    -16.883116883116884,
+    25.541125541125542,
+    1.7316017316017316,
+    -5.627705627705627,
+    14.285714285714288
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 3.5930735930735933,
+    "sd": 13.30702413624495,
+    "low": -10.563664393157943,
+    "high": 17.749811579305128,
+    "positive_count": 5
+   },
+   "cluster_interval": {
+    "point": 3.5930735930735906,
+    "low": -2.2077922077922074,
+    "high": 9.134199134199132,
+    "n_clusters": [
+     231
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "S",
+    "subset": "all",
+    "conf": 0.9916666666666667,
+    "by_order": false,
+    "contrast": "signed_max_sentence - signed_max"
+   },
+   "conf": 0.9916666666666667,
+   "k": 6,
+   "threshold": 10.0,
+   "conditions": {
+    "a_mean_ge_threshold": false,
+    "b_positive_seeds": false,
+    "c_t_interval_above_zero": false,
+    "d_cluster_interval_above_zero": false
+   },
+   "met": false
+  },
+  "E5-bge": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_S_same_scenarios": 231,
+   "contrast": "A6 - A4, flip_O_S on S-same, NegPairs-Fresh",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    26.40692640692641,
+    20.77922077922078,
+    -8.225108225108224,
+    5.62770562770563,
+    -3.8961038961038987,
+    19.047619047619044,
+    6.926406926406926,
+    28.571428571428573,
+    -7.35930735930736,
+    9.956709956709954
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 9.783549783549784,
+    "sd": 13.608964893174857,
+    "low": -4.694409246504652,
+    "high": 24.26150881360422,
+    "positive_count": 7
+   },
+   "cluster_interval": {
+    "point": 9.783549783549784,
+    "low": 5.0070346320346255,
+    "high": 14.458874458874458,
+    "n_clusters": [
+     231
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "S",
+    "subset": "all",
+    "conf": 0.9916666666666667,
+    "by_order": false,
+    "contrast": "signed_max_sentence - signed_max"
+   },
+   "conf": 0.9916666666666667,
+   "k": 6,
+   "threshold": 10.0,
+   "conditions": {
+    "a_mean_ge_threshold": false,
+    "b_positive_seeds": false,
+    "c_t_interval_above_zero": false,
+    "d_cluster_interval_above_zero": true
+   },
+   "met": false
+  },
+  "E6-colbertv2": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_S_same_scenarios": 231,
+   "contrast": "A6 - A4, flip_O_S on S-same, NegPairs-Fresh",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    33.33333333333333,
+    26.406926406926406,
+    -12.121212121212123,
+    18.614718614718615,
+    16.017316017316016,
+    -13.852813852813853,
+    3.8961038961038987,
+    29.870129870129873,
+    13.419913419913424,
+    2.1645021645021636
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 11.774891774891774,
+    "sd": 16.51943615040382,
+    "low": -5.799385303675283,
+    "high": 29.34916885345883,
+    "positive_count": 8
+   },
+   "cluster_interval": {
+    "point": 11.774891774891774,
+    "low": 6.580086580086579,
+    "high": 16.623376623376622,
+    "n_clusters": [
+     231
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "S",
+    "subset": "all",
+    "conf": 0.9916666666666667,
+    "by_order": false,
+    "contrast": "signed_max_sentence - signed_max"
+   },
+   "conf": 0.9916666666666667,
+   "k": 6,
+   "threshold": 10.0,
+   "conditions": {
+    "a_mean_ge_threshold": true,
+    "b_positive_seeds": false,
+    "c_t_interval_above_zero": false,
+    "d_cluster_interval_above_zero": true
+   },
+   "met": false
+  },
+  "E0-hash": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_S_same_scenarios": 231,
+   "contrast": "A6 - A4, flip_O_S on S-same, NegPairs-Fresh",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    16.017316017316013,
+    4.761904761904763,
+    1.7316017316017316,
+    -9.523809523809524,
+    60.17316017316018,
+    6.060606060606059,
+    5.194805194805195,
+    4.329004329004327,
+    -2.597402597402599,
+    14.718614718614717
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 10.086580086580087,
+    "sd": 19.096803436293687,
+    "low": -10.229640869675288,
+    "high": 30.402801042835463,
+    "positive_count": 8
+   },
+   "cluster_interval": {
+    "point": 10.086580086580085,
+    "low": 5.021645021645021,
+    "high": 15.151515151515149,
+    "n_clusters": [
+     231
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "S",
+    "subset": "all",
+    "conf": 0.9916666666666667,
+    "by_order": false,
+    "contrast": "signed_max_sentence - signed_max"
+   },
+   "conf": 0.9916666666666667,
+   "k": 6,
+   "threshold": 10.0,
+   "conditions": {
+    "a_mean_ge_threshold": true,
+    "b_positive_seeds": false,
+    "c_t_interval_above_zero": false,
+    "d_cluster_interval_above_zero": true
+   },
+   "met": false
+  },
+  "E3-glove": {
+   "evaluated": false,
+   "gate_passed": false,
+   "n_S_same_scenarios": 231,
+   "contrast": "A6 - A4, flip_O_S on S-same, NegPairs-Fresh",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    -9.090909090909092,
+    -10.389610389610388,
+    2.597402597402599,
+    -11.688311688311687,
+    -10.38961038961039,
+    -7.359307359307358,
+    -15.584415584415584,
+    -15.584415584415583,
+    6.060606060606059,
+    -6.060606060606059
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": -7.748917748917748,
+    "sd": 7.108741242256153,
+    "low": -15.31158436379447,
+    "high": -0.18625113404102578,
+    "positive_count": 2
+   },
+   "cluster_interval": {},
+   "conf": 0.9916666666666667,
+   "k": 6,
+   "threshold": 10.0,
+   "conditions": {
+    "a_mean_ge_threshold": false,
+    "b_positive_seeds": false,
+    "c_t_interval_above_zero": false,
+    "d_cluster_interval_above_zero": false
+   },
+   "met": false
+  }
+ },
+ "R8": {
+  "E1-minilm": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_seen_perm_by_order": {
+    "first": 76,
+    "second": 76
+   },
+   "quantity": "A1 SS_perm_bal, seen families, NegPairs-Perm",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    13.157894736842103,
+    9.868421052631579,
+    1.3157894736842124,
+    17.105263157894733,
+    9.210526315789473,
+    6.578947368421051,
+    9.868421052631579,
+    15.789473684210524,
+    1.973684210526315,
+    13.157894736842099
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 9.802631578947366,
+    "sd": 5.330797094320764,
+    "low": 4.32423413132501,
+    "high": 15.281029026569723,
+    "positive_count": 10
+   },
+   "cluster_interval": {
+    "point": 9.802631578947368,
+    "low": 4.407894736842104,
+    "high": 15.197368421052632,
+    "n_clusters": [
+     76,
+     76
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "SS",
+    "subset": "seen",
+    "conf": 0.99,
+    "by_order": true,
+    "contrast": "max"
+   },
+   "conf": 0.99,
+   "k": 5,
+   "threshold": 10.0,
+   "conditions": {
+    "a_mean_ge_threshold": false,
+    "b_positive_seeds": true,
+    "c_t_interval_above_zero": true,
+    "d_cluster_interval_above_zero": true
+   },
+   "met": false
+  },
+  "E2-deberta": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_seen_perm_by_order": {
+    "first": 76,
+    "second": 76
+   },
+   "quantity": "A1 SS_perm_bal, seen families, NegPairs-Perm",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    15.789473684210526,
+    0.0,
+    1.973684210526315,
+    15.13157894736842,
+    0.6578947368421053,
+    5.2631578947368425,
+    0.0,
+    17.105263157894736,
+    10.526315789473683,
+    12.499999999999998
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 7.894736842105263,
+    "sd": 7.0449028088636005,
+    "low": 0.6547731211181365,
+    "high": 15.13470056309239,
+    "positive_count": 8
+   },
+   "cluster_interval": {
+    "point": 7.894736842105263,
+    "low": 3.7499999999999996,
+    "high": 12.236842105263158,
+    "n_clusters": [
+     76,
+     76
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "SS",
+    "subset": "seen",
+    "conf": 0.99,
+    "by_order": true,
+    "contrast": "max"
+   },
+   "conf": 0.99,
+   "k": 5,
+   "threshold": 10.0,
+   "conditions": {
+    "a_mean_ge_threshold": false,
+    "b_positive_seeds": false,
+    "c_t_interval_above_zero": true,
+    "d_cluster_interval_above_zero": true
+   },
+   "met": false
+  },
+  "E4-mpnet": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_seen_perm_by_order": {
+    "first": 76,
+    "second": 76
+   },
+   "quantity": "A1 SS_perm_bal, seen families, NegPairs-Perm",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    19.73684210526316,
+    19.736842105263158,
+    30.92105263157895,
+    10.526315789473683,
+    16.44736842105263,
+    21.710526315789473,
+    16.447368421052634,
+    21.052631578947366,
+    13.815789473684207,
+    26.97368421052632
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 19.736842105263158,
+    "sd": 6.00572979720577,
+    "low": 13.564824260657147,
+    "high": 25.908859949869168,
+    "positive_count": 10
+   },
+   "cluster_interval": {
+    "point": 19.736842105263158,
+    "low": 12.828947368421053,
+    "high": 26.776315789473685,
+    "n_clusters": [
+     76,
+     76
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "SS",
+    "subset": "seen",
+    "conf": 0.99,
+    "by_order": true,
+    "contrast": "max"
+   },
+   "conf": 0.99,
+   "k": 5,
+   "threshold": 10.0,
+   "conditions": {
+    "a_mean_ge_threshold": true,
+    "b_positive_seeds": true,
+    "c_t_interval_above_zero": true,
+    "d_cluster_interval_above_zero": true
+   },
+   "met": true
+  },
+  "E5-bge": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_seen_perm_by_order": {
+    "first": 76,
+    "second": 76
+   },
+   "quantity": "A1 SS_perm_bal, seen families, NegPairs-Perm",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    15.789473684210527,
+    9.210526315789476,
+    3.9473684210526265,
+    7.2368421052631575,
+    15.131578947368421,
+    0.6578947368421062,
+    9.86842105263158,
+    13.157894736842103,
+    13.815789473684216,
+    15.789473684210524
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 10.460526315789474,
+    "sd": 5.248975775452735,
+    "low": 5.066215674795953,
+    "high": 15.854836956782997,
+    "positive_count": 10
+   },
+   "cluster_interval": {
+    "point": 10.460526315789473,
+    "low": 3.8157894736842106,
+    "high": 17.30263157894737,
+    "n_clusters": [
+     76,
+     76
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "SS",
+    "subset": "seen",
+    "conf": 0.99,
+    "by_order": true,
+    "contrast": "max"
+   },
+   "conf": 0.99,
+   "k": 5,
+   "threshold": 10.0,
+   "conditions": {
+    "a_mean_ge_threshold": true,
+    "b_positive_seeds": true,
+    "c_t_interval_above_zero": true,
+    "d_cluster_interval_above_zero": true
+   },
+   "met": true
+  },
+  "E6-colbertv2": {
+   "evaluated": true,
+   "gate_passed": true,
+   "n_seen_perm_by_order": {
+    "first": 76,
+    "second": 76
+   },
+   "quantity": "A1 SS_perm_bal, seen families, NegPairs-Perm",
+   "seeds": [
+    13,
+    42,
+    71,
+    101,
+    202,
+    303,
+    404,
+    505,
+    1676,
+    7595
+   ],
+   "values": [
+    15.789473684210524,
+    15.131578947368418,
+    14.473684210526319,
+    11.842105263157894,
+    13.157894736842103,
+    15.789473684210527,
+    17.10526315789474,
+    16.44736842105263,
+    13.157894736842106,
+    7.894736842105267
+   ],
+   "t_interval": {
+    "n": 10,
+    "mean": 14.078947368421051,
+    "sd": 2.724951678422643,
+    "low": 11.278546592359062,
+    "high": 16.87934814448304,
+    "positive_count": 10
+   },
+   "cluster_interval": {
+    "point": 14.078947368421053,
+    "low": 7.5,
+    "high": 20.921052631578945,
+    "n_clusters": [
+     76,
+     76
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "SS",
+    "subset": "seen",
+    "conf": 0.99,
+    "by_order": true,
+    "contrast": "max"
+   },
+   "conf": 0.99,
+   "k": 5,
+   "threshold": 10.0,
+   "conditions": {
+    "a_mean_ge_threshold": true,
+    "b_positive_seeds": true,
+    "c_t_interval_above_zero": true,
+    "d_cluster_interval_above_zero": true
+   },
+   "met": true
+  }
+ },
+ "R1_descriptive": {
+  "E0-hash": {
+   "A1_unseen_SS_fresh_by_seed": [
+    0.0,
+    -1.6666666666666665,
+    -2.5,
+    0.0,
+    -1.666666666666667,
+    0.0,
+    0.0,
+    -1.666666666666667,
+    -0.8333333333333334,
+    0.0
+   ],
+   "seed_mean": -0.8333333333333334,
+   "v2_threshold": 5.0,
+   "cluster_interval": {
+    "point": -0.8333333333333334,
+    "low": -1.6666666666666667,
+    "high": -0.08333333333333333,
+    "n_clusters": [
+     120
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "SS",
+    "subset": "unseen",
+    "conf": 0.95,
+    "by_order": false,
+    "contrast": "max"
+   }
+  },
+  "E3-glove": {
+   "A1_unseen_SS_fresh_by_seed": [
+    0.0,
+    0.8333333333333335,
+    0.8333333333333333,
+    0.8333333333333334,
+    0.0,
+    8.333333333333334,
+    6.666666666666667,
+    0.0,
+    -1.6666666666666667,
+    0.8333333333333334
+   ],
+   "seed_mean": 1.6666666666666667,
+   "v2_threshold": 5.0,
+   "cluster_interval": {
+    "point": 1.6666666666666667,
+    "low": 0.5,
+    "high": 2.9166666666666665,
+    "n_clusters": [
+     120
+    ],
+    "n_boot": 10000,
+    "seeds": [
+     13,
+     42,
+     71,
+     101,
+     202,
+     303,
+     404,
+     505,
+     1676,
+     7595
+    ],
+    "kind": "SS",
+    "subset": "unseen",
+    "conf": 0.95,
+    "by_order": false,
+    "contrast": "max"
+   }
+  }
+ },
+ "R5": {
+  "checks": 186,
+  "violations_total": 0,
+  "met": true,
+  "evaluable": true
+ },
+ "R6": {
+  "checks": 142,
+  "score_violations_total": 0,
+  "decision_disagreements_total": 0,
+  "near_ties_total": 0,
+  "met": true,
+  "evaluable": true
+ },
+ "R7": {
+  "checks": 62,
+  "violations_total": 0,
+  "nested_instances": 184,
+  "met": true,
+  "evaluable": true
+ },
+ "subset_sizes": {
+  "fresh_unseen_scenarios": 120,
+  "fresh_S_same_scenarios": 231,
+  "perm_seen_by_order": {
+   "E1-minilm": {
+    "first": 76,
+    "second": 76
+   },
+   "E2-deberta": {
+    "first": 76,
+    "second": 76
+   },
+   "E4-mpnet": {
+    "first": 76,
+    "second": 76
+   },
+   "E5-bge": {
+    "first": 76,
+    "second": 76
+   },
+   "E6-colbertv2": {
+    "first": 76,
+    "second": 76
+   },
+   "E0-hash": {
+    "first": 76,
+    "second": 76
+   },
+   "E3-glove": {
+    "first": 76,
+    "second": 76
+   }
+  }
+ }
+}

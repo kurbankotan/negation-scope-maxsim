@@ -1,0 +1,1 @@
+{"encoder": "E5-bge", "condition": "signed_max_gate", "seed": 404, "selected_epoch": 9, "epochs_run": 14, "dev_acc": 68.80952380952381, "train_time_s": 81.8, "tests": ["v1test", "fresh", "perm"]}

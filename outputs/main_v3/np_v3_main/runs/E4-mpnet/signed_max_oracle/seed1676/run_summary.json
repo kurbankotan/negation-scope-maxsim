@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max",
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 1676,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 768,
+  "parameter_counts": {
+    "scorer": 918146,
+    "aggregator": 1,
+    "total": 918147
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.5847254162984536,
+      "train_acc": 68.02600472813239,
+      "dev_loss": 0.7225007545380365,
+      "dev_acc": 63.333333333333336,
+      "lambda": 0.5305752754211426,
+      "beta": 1.128061294555664,
+      "tau": null,
+      "elapsed_s": 6.5
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.30619644304962024,
+      "train_acc": 88.00236406619385,
+      "dev_loss": 1.261232917081742,
+      "dev_acc": 61.42857142857143,
+      "lambda": 0.5399761199951172,
+      "beta": 1.2790603637695312,
+      "tau": null,
+      "elapsed_s": 13.6
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.14716644852860317,
+      "train_acc": 94.32624113475177,
+      "dev_loss": 1.81641925743648,
+      "dev_acc": 59.04761904761905,
+      "lambda": 0.5201200246810913,
+      "beta": 1.3754667043685913,
+      "tau": null,
+      "elapsed_s": 20.4
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.10267452643325566,
+      "train_acc": 96.33569739952719,
+      "dev_loss": 1.6978554226103284,
+      "dev_acc": 59.04761904761905,
+      "lambda": 0.5195350050926208,
+      "beta": 1.4094887971878052,
+      "tau": null,
+      "elapsed_s": 27.3
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.08571104345987408,
+      "train_acc": 96.74940898345153,
+      "dev_loss": 1.6541534423828126,
+      "dev_acc": 61.42857142857143,
+      "lambda": 0.5197452306747437,
+      "beta": 1.4413635730743408,
+      "tau": null,
+      "elapsed_s": 33.6
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.04787779841726166,
+      "train_acc": 98.22695035460993,
+      "dev_loss": 2.3722346703211468,
+      "dev_acc": 64.04761904761905,
+      "lambda": 0.5198885202407837,
+      "beta": 1.4657368659973145,
+      "tau": null,
+      "elapsed_s": 40.9
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.05371062633760073,
+      "train_acc": 97.99054373522459,
+      "dev_loss": 2.146649759156363,
+      "dev_acc": 58.57142857142857,
+      "lambda": 0.5190961956977844,
+      "beta": 1.4947181940078735,
+      "tau": null,
+      "elapsed_s": 47.8
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.043867142263350756,
+      "train_acc": 98.10874704491725,
+      "dev_loss": 2.157565935452779,
+      "dev_acc": 60.23809523809524,
+      "lambda": 0.5183312892913818,
+      "beta": 1.5085474252700806,
+      "tau": null,
+      "elapsed_s": 56.0
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.054339112880024354,
+      "train_acc": 98.40425531914893,
+      "dev_loss": 2.4286909239632744,
+      "dev_acc": 57.142857142857146,
+      "lambda": 0.5219055414199829,
+      "beta": 1.511191725730896,
+      "tau": null,
+      "elapsed_s": 64.0
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.0280030530796877,
+      "train_acc": 98.93617021276596,
+      "dev_loss": 2.422104301906767,
+      "dev_acc": 63.80952380952381,
+      "lambda": 0.5218058228492737,
+      "beta": 1.5240199565887451,
+      "tau": null,
+      "elapsed_s": 73.0
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.02151913627197506,
+      "train_acc": 99.23167848699764,
+      "dev_loss": 2.6881000689097814,
+      "dev_acc": 58.095238095238095,
+      "lambda": 0.5221626162528992,
+      "beta": 1.5452072620391846,
+      "tau": null,
+      "elapsed_s": 81.8
+    }
+  ],
+  "train_time_s": 82.9,
+  "dev": {
+    "accuracy": 64.04761904761905,
+    "loss": 2.3722346703211468
+  },
+  "condition": "signed_max_oracle",
+  "encoder": "E4-mpnet"
+}

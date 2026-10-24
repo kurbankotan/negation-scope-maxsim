@@ -1,0 +1,105 @@
+{
+  "config": {
+    "aggregator": "option_only",
+    "lr": 0.001,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 303,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 768,
+  "parameter_counts": {
+    "scorer": 197121,
+    "aggregator": 0,
+    "total": 197121
+  },
+  "selected_epoch": 1,
+  "epochs_run": 6,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6799910774467685,
+      "train_acc": 59.39716312056738,
+      "dev_loss": 0.667399635769072,
+      "dev_acc": 62.142857142857146,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 3.5
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.654233620944598,
+      "train_acc": 64.30260047281324,
+      "dev_loss": 0.6636678741091774,
+      "dev_acc": 61.666666666666664,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 9.0
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.6460851254756287,
+      "train_acc": 65.95744680851064,
+      "dev_loss": 0.6620977197374617,
+      "dev_acc": 61.666666666666664,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 13.7
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.6372712154478609,
+      "train_acc": 66.01654846335697,
+      "dev_loss": 0.662797695965994,
+      "dev_acc": 60.714285714285715,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 18.6
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.6355869749618197,
+      "train_acc": 67.08037825059101,
+      "dev_loss": 0.667103180715016,
+      "dev_acc": 60.714285714285715,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 23.5
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.6303630285229244,
+      "train_acc": 67.31678486997636,
+      "dev_loss": 0.6690775831540425,
+      "dev_acc": 60.23809523809524,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 27.9
+    }
+  ],
+  "train_time_s": 28.8,
+  "dev": {
+    "accuracy": 62.142857142857146,
+    "loss": 0.667399635769072
+  },
+  "condition": "option_only",
+  "encoder": "E5-bge"
+}

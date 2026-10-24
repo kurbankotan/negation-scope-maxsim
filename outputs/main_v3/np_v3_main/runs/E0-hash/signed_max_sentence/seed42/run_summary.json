@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max",
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 42,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 384,
+  "parameter_counts": {
+    "scorer": 475778,
+    "aggregator": 1,
+    "total": 475779
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.647996267669308,
+      "train_acc": 58.86524822695036,
+      "dev_loss": 0.686948013305664,
+      "dev_acc": 59.76190476190476,
+      "lambda": 0.4977894723415375,
+      "beta": 1.016739845275879,
+      "tau": null,
+      "elapsed_s": 5.6
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.5639765922763951,
+      "train_acc": 67.02127659574468,
+      "dev_loss": 0.6630989256359282,
+      "dev_acc": 62.61904761904762,
+      "lambda": 0.4897814989089966,
+      "beta": 0.9632471203804016,
+      "tau": null,
+      "elapsed_s": 10.9
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.5136898889186534,
+      "train_acc": 71.33569739952719,
+      "dev_loss": 0.7225759460812523,
+      "dev_acc": 63.095238095238095,
+      "lambda": 0.49511128664016724,
+      "beta": 0.909874439239502,
+      "tau": null,
+      "elapsed_s": 16.4
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.48059768583757656,
+      "train_acc": 74.11347517730496,
+      "dev_loss": 0.7733619633175078,
+      "dev_acc": 62.38095238095238,
+      "lambda": 0.498896062374115,
+      "beta": 0.8876644968986511,
+      "tau": null,
+      "elapsed_s": 21.6
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.46077880242192154,
+      "train_acc": 76.8321513002364,
+      "dev_loss": 0.7884398426328386,
+      "dev_acc": 61.904761904761905,
+      "lambda": 0.5063607692718506,
+      "beta": 0.8909238576889038,
+      "tau": null,
+      "elapsed_s": 26.9
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.4474970103014727,
+      "train_acc": 77.30496453900709,
+      "dev_loss": 0.8144506011690412,
+      "dev_acc": 63.80952380952381,
+      "lambda": 0.5087813138961792,
+      "beta": 0.8673032522201538,
+      "tau": null,
+      "elapsed_s": 32.7
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.42682801662607395,
+      "train_acc": 78.42789598108747,
+      "dev_loss": 0.7522912689617702,
+      "dev_acc": 60.476190476190474,
+      "lambda": 0.522327184677124,
+      "beta": 0.8473523855209351,
+      "tau": null,
+      "elapsed_s": 38.0
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.4218619368600507,
+      "train_acc": 79.49172576832152,
+      "dev_loss": 0.7703853448232015,
+      "dev_acc": 59.523809523809526,
+      "lambda": 0.5462738871574402,
+      "beta": 0.828277587890625,
+      "tau": null,
+      "elapsed_s": 43.6
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.4072556201166013,
+      "train_acc": 78.90070921985816,
+      "dev_loss": 0.8934848070144653,
+      "dev_acc": 60.714285714285715,
+      "lambda": 0.5305807590484619,
+      "beta": 0.821876585483551,
+      "tau": null,
+      "elapsed_s": 49.0
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.40218691608866336,
+      "train_acc": 78.36879432624113,
+      "dev_loss": 0.9345840184461502,
+      "dev_acc": 61.666666666666664,
+      "lambda": 0.5261944532394409,
+      "beta": 0.8203057646751404,
+      "tau": null,
+      "elapsed_s": 54.7
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.382738544163129,
+      "train_acc": 81.32387706855792,
+      "dev_loss": 1.033797232309977,
+      "dev_acc": 61.19047619047619,
+      "lambda": 0.5520528554916382,
+      "beta": 0.8075809478759766,
+      "tau": null,
+      "elapsed_s": 60.3
+    }
+  ],
+  "train_time_s": 60.9,
+  "dev": {
+    "accuracy": 63.80952380952381,
+    "loss": 0.8144506011690412
+  },
+  "condition": "signed_max_sentence",
+  "encoder": "E0-hash"
+}

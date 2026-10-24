@@ -1,0 +1,171 @@
+{
+  "config": {
+    "aggregator": "option_only",
+    "lr": 0.001,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 505,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 128,
+  "parameter_counts": {
+    "scorer": 33281,
+    "aggregator": 0,
+    "total": 33281
+  },
+  "selected_epoch": 7,
+  "epochs_run": 12,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6857571985141042,
+      "train_acc": 56.973995271867615,
+      "dev_loss": 0.6823937291190738,
+      "dev_acc": 57.38095238095238,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 3.0
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.6679130546026478,
+      "train_acc": 61.7612293144208,
+      "dev_loss": 0.676854229541052,
+      "dev_acc": 57.38095238095238,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 5.9
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.6551571296743749,
+      "train_acc": 63.2387706855792,
+      "dev_loss": 0.6763860271090553,
+      "dev_acc": 56.42857142857143,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 8.9
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.6482097771432664,
+      "train_acc": 64.95271867612293,
+      "dev_loss": 0.6752268467630659,
+      "dev_acc": 55.95238095238095,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 11.6
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.6439078870112732,
+      "train_acc": 65.89834515366431,
+      "dev_loss": 0.6777191377821423,
+      "dev_acc": 58.333333333333336,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 14.3
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.6398322186289668,
+      "train_acc": 66.96217494089835,
+      "dev_loss": 0.6768220453035264,
+      "dev_acc": 58.333333333333336,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 17.1
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.6347925298039231,
+      "train_acc": 67.19858156028369,
+      "dev_loss": 0.6779644554569608,
+      "dev_acc": 59.285714285714285,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 20.2
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.6298790397232588,
+      "train_acc": 68.32151300236407,
+      "dev_loss": 0.6800246993700664,
+      "dev_acc": 58.80952380952381,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 23.3
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.626522459459643,
+      "train_acc": 69.32624113475177,
+      "dev_loss": 0.6813264111677806,
+      "dev_acc": 58.80952380952381,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 26.2
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.6214597970599542,
+      "train_acc": 69.73995271867612,
+      "dev_loss": 0.6818548685028439,
+      "dev_acc": 58.333333333333336,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 28.8
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.6205735065694679,
+      "train_acc": 70.0354609929078,
+      "dev_loss": 0.6819740414619446,
+      "dev_acc": 58.333333333333336,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 31.6
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.6169040107980688,
+      "train_acc": 71.27659574468085,
+      "dev_loss": 0.6847683446747916,
+      "dev_acc": 57.857142857142854,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 34.9
+    }
+  ],
+  "train_time_s": 35.4,
+  "dev": {
+    "accuracy": 59.285714285714285,
+    "loss": 0.6779644554569608
+  },
+  "condition": "option_only",
+  "encoder": "E6-colbertv2"
+}

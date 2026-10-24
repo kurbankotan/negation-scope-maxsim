@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max",
+    "lr": 0.001,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 71,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 768,
+  "parameter_counts": {
+    "scorer": 918146,
+    "aggregator": 1,
+    "total": 918147
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6415665976826462,
+      "train_acc": 62.825059101654844,
+      "dev_loss": 0.634797297772907,
+      "dev_acc": 63.095238095238095,
+      "lambda": 0.5154100656509399,
+      "beta": 1.0006978511810303,
+      "tau": null,
+      "elapsed_s": 5.4
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.540432772596959,
+      "train_acc": 74.05437352245863,
+      "dev_loss": 0.682523190407526,
+      "dev_acc": 64.76190476190476,
+      "lambda": 0.5151359438896179,
+      "beta": 1.0019251108169556,
+      "tau": null,
+      "elapsed_s": 10.9
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.46852376655483924,
+      "train_acc": 78.25059101654847,
+      "dev_loss": 0.7360475086030506,
+      "dev_acc": 64.52380952380952,
+      "lambda": 0.5153141021728516,
+      "beta": 1.0171631574630737,
+      "tau": null,
+      "elapsed_s": 16.4
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.40519150633620316,
+      "train_acc": 80.91016548463357,
+      "dev_loss": 1.0218325064295815,
+      "dev_acc": 63.80952380952381,
+      "lambda": 0.5157343745231628,
+      "beta": 1.0301588773727417,
+      "tau": null,
+      "elapsed_s": 21.8
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.35540379418267143,
+      "train_acc": 84.57446808510639,
+      "dev_loss": 1.1899462549459368,
+      "dev_acc": 64.52380952380952,
+      "lambda": 0.5151997208595276,
+      "beta": 1.0397720336914062,
+      "tau": null,
+      "elapsed_s": 27.3
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.32730994361230387,
+      "train_acc": 86.17021276595744,
+      "dev_loss": 1.3530773128781999,
+      "dev_acc": 67.85714285714286,
+      "lambda": 0.5154508948326111,
+      "beta": 1.0448204278945923,
+      "tau": null,
+      "elapsed_s": 33.2
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.3050285117000553,
+      "train_acc": 86.82033096926713,
+      "dev_loss": 1.4851934183211553,
+      "dev_acc": 65.71428571428571,
+      "lambda": 0.5161553621292114,
+      "beta": 1.0532618761062622,
+      "tau": null,
+      "elapsed_s": 39.5
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.26792023212915334,
+      "train_acc": 88.65248226950355,
+      "dev_loss": 1.6357911933036078,
+      "dev_acc": 64.28571428571429,
+      "lambda": 0.5189306735992432,
+      "beta": 1.0590968132019043,
+      "tau": null,
+      "elapsed_s": 45.0
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.2554754047846118,
+      "train_acc": 88.71158392434988,
+      "dev_loss": 1.3775658000083197,
+      "dev_acc": 58.57142857142857,
+      "lambda": 0.5196183919906616,
+      "beta": 1.0600814819335938,
+      "tau": null,
+      "elapsed_s": 50.5
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.22680843482344426,
+      "train_acc": 89.8936170212766,
+      "dev_loss": 2.0847988423847017,
+      "dev_acc": 62.38095238095238,
+      "lambda": 0.524904191493988,
+      "beta": 1.0654246807098389,
+      "tau": null,
+      "elapsed_s": 55.8
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.2173655343464362,
+      "train_acc": 91.31205673758865,
+      "dev_loss": 1.8970360767273675,
+      "dev_acc": 60.0,
+      "lambda": 0.5352832078933716,
+      "beta": 1.061133623123169,
+      "tau": null,
+      "elapsed_s": 60.9
+    }
+  ],
+  "train_time_s": 61.5,
+  "dev": {
+    "accuracy": 67.85714285714286,
+    "loss": 1.3530773128781999
+  },
+  "condition": "signed_max",
+  "encoder": "E5-bge"
+}

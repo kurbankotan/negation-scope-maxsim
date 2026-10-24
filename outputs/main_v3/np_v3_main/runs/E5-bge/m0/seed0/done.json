@@ -1,0 +1,1 @@
+{"encoder": "E5-bge", "condition": "m0", "seed": 0, "tests": ["v1test", "fresh", "perm"]}

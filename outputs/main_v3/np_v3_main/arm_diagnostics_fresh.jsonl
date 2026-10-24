@@ -1,0 +1,960 @@
+{"sample_id": "fresh-aff-00004-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00004-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00004-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00004-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00005-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00005-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00005-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00005-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00009-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00009-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00009-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00009-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00013-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00013-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00013-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00013-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00016-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00016-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00016-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00016-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00017-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00017-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00017-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00017-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00026-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00026-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00026-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00026-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00027-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00027-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00027-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00027-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00032-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00032-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00032-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00032-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00040-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00040-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00040-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00040-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00042-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00042-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00042-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00042-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00043-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00043-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00043-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00043-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00044-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00044-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-aff-00044-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00044-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00047-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00047-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00047-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00047-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00048-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00048-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00048-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00048-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00051-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00051-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00051-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00051-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00064-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00064-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00064-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00064-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00067-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00067-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00067-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00067-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00072-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00072-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00072-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00072-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00076-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00076-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00076-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00076-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00078-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00078-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-aff-00078-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-aff-00078-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00081-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00081-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00081-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00081-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00082-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00082-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00082-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00082-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00084-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00084-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00084-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00084-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00089-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00089-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00089-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00089-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00094-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00094-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00094-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00094-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00108-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00108-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-aff-00108-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00108-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00117-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00117-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00117-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00117-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00124-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00124-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00124-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00124-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00135-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00135-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00135-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00135-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00139-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00139-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00139-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00139-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00141-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00141-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00141-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00141-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00144-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00144-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00144-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00144-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00148-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00148-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00148-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00148-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00149-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00149-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00149-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00149-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00152-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00152-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00152-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00152-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00158-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00158-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-aff-00158-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-aff-00158-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00161-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00161-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00161-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00161-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00164-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00164-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00164-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00164-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00166-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00166-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00166-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00166-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00174-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00174-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00174-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00174-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00175-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00175-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00175-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00175-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00179-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00179-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00179-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00179-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00180-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": false, "decisive_in_scope": null, "same_sentence": null}
+{"sample_id": "fresh-aff-00180-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00180-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00180-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00184-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00184-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00184-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00184-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00185-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00185-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00185-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00185-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00186-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00186-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00186-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00186-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00189-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00189-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00189-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00189-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00191-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00191-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00191-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00191-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00199-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00199-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00199-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00199-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00208-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00208-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00208-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00208-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00211-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00211-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00211-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00211-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00223-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00223-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00223-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00223-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00240-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00240-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00240-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00240-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00242-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00242-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00242-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00242-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00243-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00243-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00243-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00243-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00245-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00245-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00245-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00245-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00247-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00247-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00247-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00247-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00250-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00250-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00250-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00250-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-aff-00251-N", "arm": "N", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-aff-00251-O", "arm": "O", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00251-P", "arm": "P", "family": "affixal", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-aff-00251-S", "arm": "S", "family": "affixal", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00000-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00000-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00000-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00000-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00005-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00005-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00005-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00005-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00015-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00015-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00015-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00015-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00016-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00016-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00016-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00016-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00020-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00020-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00020-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00020-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00025-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00025-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00025-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00025-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00044-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00044-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00044-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00044-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00045-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00045-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00045-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00045-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00047-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00047-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00047-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00047-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00070-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00070-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00070-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00070-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00072-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00072-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00072-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00072-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00078-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00078-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00078-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00078-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00080-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00080-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00080-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00080-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00083-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00083-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00083-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00083-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00085-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00085-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00085-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00085-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00086-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": false, "decisive_in_scope": null, "same_sentence": null}
+{"sample_id": "fresh-lex-00086-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00086-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-lex-00086-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00091-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00091-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00091-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00091-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00095-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00095-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00095-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00095-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00103-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00103-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-lex-00103-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-lex-00103-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00104-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00104-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00104-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00104-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00108-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00108-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00108-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00108-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00109-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00109-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00109-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00109-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00112-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00112-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00112-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00112-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00121-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00121-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00121-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00121-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00134-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00134-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00134-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00134-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00140-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00140-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00140-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00140-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00141-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00141-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00141-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00141-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00161-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00161-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00161-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00161-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00166-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00166-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00166-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00166-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00168-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00168-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00168-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00168-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": false}
+{"sample_id": "fresh-lex-00185-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00185-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00185-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00185-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00191-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": false, "decisive_in_scope": null, "same_sentence": null}
+{"sample_id": "fresh-lex-00191-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00191-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00191-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00193-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00193-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00193-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00193-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00197-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00197-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00197-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00197-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00203-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00203-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00203-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00203-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00209-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00209-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00209-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00209-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00212-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": false, "decisive_in_scope": null, "same_sentence": null}
+{"sample_id": "fresh-lex-00212-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00212-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00212-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00221-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00221-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00221-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00221-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00224-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00224-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00224-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00224-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00226-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00226-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00226-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00226-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00230-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00230-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00230-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00230-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00244-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": false, "decisive_in_scope": null, "same_sentence": null}
+{"sample_id": "fresh-lex-00244-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00244-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00244-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00246-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00246-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00246-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00246-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00264-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00264-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00264-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00264-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00271-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00271-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00271-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00271-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00275-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00275-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00275-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00275-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00288-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00288-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00288-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00288-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00294-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00294-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-lex-00294-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00294-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00304-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00304-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00304-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00304-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00308-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00308-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00308-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00308-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00320-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00320-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00320-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00320-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00321-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": false, "decisive_in_scope": null, "same_sentence": null}
+{"sample_id": "fresh-lex-00321-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00321-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00321-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00326-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00326-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00326-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00326-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00332-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00332-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00332-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00332-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00338-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00338-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00338-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00338-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00344-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": false, "decisive_in_scope": null, "same_sentence": null}
+{"sample_id": "fresh-lex-00344-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00344-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00344-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00345-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00345-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00345-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00345-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00352-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00352-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00352-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00352-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00357-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00357-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00357-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00357-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false, "cue_found": true, "cue_detected": false, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-lex-00358-N", "arm": "N", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-lex-00358-O", "arm": "O", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00358-P", "arm": "P", "family": "lexical", "seen_family": false, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-lex-00358-S", "arm": "S", "family": "lexical", "seen_family": false, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00027-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00027-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00027-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00027-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00029-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00029-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-qua-00029-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00029-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00034-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00034-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00034-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00034-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00036-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00036-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00036-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00036-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00038-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": false, "decisive_in_scope": null, "same_sentence": null}
+{"sample_id": "fresh-qua-00038-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00038-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00038-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00041-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00041-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00041-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00041-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00046-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00046-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00046-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00046-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00047-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00047-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00047-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00047-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00067-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": false, "decisive_in_scope": null, "same_sentence": null}
+{"sample_id": "fresh-qua-00067-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00067-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00067-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00084-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00084-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00084-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00084-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00086-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00086-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00086-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00086-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00089-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00089-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00089-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00089-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00111-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00111-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00111-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00111-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00113-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00113-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00113-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00113-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00115-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00115-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00115-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00115-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00119-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00119-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00119-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00119-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00121-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00121-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00121-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00121-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00123-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00123-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00123-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00123-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00126-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00126-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00126-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00126-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00128-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00128-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00128-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00128-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00136-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00136-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00136-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00136-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00137-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00137-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00137-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00137-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00138-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00138-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00138-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00138-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00142-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00142-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00142-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00142-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00155-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00155-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00155-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00155-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00161-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00161-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00161-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00161-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00169-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00169-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00169-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00169-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00170-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00170-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00170-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00170-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00181-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00181-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00181-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00181-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00182-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00182-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00182-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00182-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00194-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00194-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00194-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-qua-00194-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00198-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00198-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00198-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00198-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00200-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00200-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00200-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00200-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00201-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00201-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00201-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00201-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00202-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": false, "decisive_in_scope": null, "same_sentence": null}
+{"sample_id": "fresh-qua-00202-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00202-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00202-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00213-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00213-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00213-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00213-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00216-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00216-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00216-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00216-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00217-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00217-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00217-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00217-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00229-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00229-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00229-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00229-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00233-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00233-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-qua-00233-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-qua-00233-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00235-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00235-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00235-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00235-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00237-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00237-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00237-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00237-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00249-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00249-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00249-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00249-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00253-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00253-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00253-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00253-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00258-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": false, "decisive_in_scope": null, "same_sentence": null}
+{"sample_id": "fresh-qua-00258-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00258-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00258-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00261-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00261-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00261-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00261-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00268-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00268-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00268-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00268-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00272-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00272-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00272-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00272-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00277-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00277-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00277-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00277-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00278-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": false, "decisive_in_scope": null, "same_sentence": null}
+{"sample_id": "fresh-qua-00278-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00278-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-qua-00278-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00282-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00282-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00282-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00282-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00285-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00285-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-qua-00285-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-qua-00285-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00294-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00294-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00294-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00294-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00307-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00307-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00307-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00307-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00312-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00312-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00312-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00312-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00317-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00317-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00317-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00317-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00318-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00318-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00318-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00318-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00337-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00337-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00337-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00337-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00362-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00362-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00362-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00362-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-qua-00364-N", "arm": "N", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-qua-00364-O", "arm": "O", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00364-P", "arm": "P", "family": "quantifier", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-qua-00364-S", "arm": "S", "family": "quantifier", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00015-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00015-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00015-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-syn-00015-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": false}
+{"sample_id": "fresh-syn-00025-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00025-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-syn-00025-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00025-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00029-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00029-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00029-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00029-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00034-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": false, "decisive_in_scope": null, "same_sentence": null}
+{"sample_id": "fresh-syn-00034-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00034-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00034-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00036-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00036-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00036-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-syn-00036-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00040-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00040-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00040-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00040-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00042-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00042-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00042-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00042-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00043-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00043-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00043-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00043-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00049-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00049-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00049-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00049-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00061-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00061-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00061-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00061-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": false}
+{"sample_id": "fresh-syn-00062-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00062-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00062-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00062-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00063-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00063-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00063-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00063-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00064-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00064-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00064-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00064-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00070-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00070-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00070-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00070-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00075-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00075-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00075-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00075-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": false}
+{"sample_id": "fresh-syn-00078-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00078-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00078-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00078-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00080-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00080-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00080-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00080-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00092-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00092-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00092-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00092-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00093-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00093-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00093-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00093-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00103-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00103-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00103-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00103-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00128-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00128-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00128-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00128-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00130-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00130-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00130-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00130-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00135-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00135-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00135-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00135-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00144-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00144-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00144-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00144-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": false}
+{"sample_id": "fresh-syn-00149-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00149-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00149-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00149-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00152-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00152-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00152-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00152-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": false}
+{"sample_id": "fresh-syn-00159-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00159-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00159-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00159-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00163-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00163-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00163-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-syn-00163-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00165-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00165-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00165-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00165-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00168-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00168-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00168-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00168-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00175-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00175-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00175-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00175-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00176-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00176-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00176-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00176-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00179-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00179-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00179-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00179-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00182-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00182-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00182-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00182-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00187-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00187-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00187-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00187-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00205-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00205-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00205-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00205-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00213-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00213-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00213-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00213-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00220-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00220-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00220-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00220-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00226-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00226-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00226-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00226-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00232-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00232-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00232-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00232-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00234-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00234-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00234-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00234-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00261-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00261-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00261-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00261-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00262-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00262-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00262-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00262-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": false}
+{"sample_id": "fresh-syn-00264-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00264-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00264-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00264-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00267-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00267-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00267-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00267-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00268-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00268-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00268-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00268-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00273-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00273-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00273-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-syn-00273-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": false}
+{"sample_id": "fresh-syn-00284-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00284-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-syn-00284-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true}
+{"sample_id": "fresh-syn-00284-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00285-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00285-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00285-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00285-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00293-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00293-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00293-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00293-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00297-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00297-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00297-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00297-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00301-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00301-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00301-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00301-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00311-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00311-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00311-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00311-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00312-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00312-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00312-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00312-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": false}
+{"sample_id": "fresh-syn-00320-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00320-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00320-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00320-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00325-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00325-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00325-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00325-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00326-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00326-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00326-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00326-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00327-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00327-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00327-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00327-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00352-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": false, "decisive_in_scope": null, "same_sentence": null}
+{"sample_id": "fresh-syn-00352-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00352-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00352-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}
+{"sample_id": "fresh-syn-00362-N", "arm": "N", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": true, "same_sentence": true}
+{"sample_id": "fresh-syn-00362-O", "arm": "O", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00362-P", "arm": "P", "family": "syntactic", "seen_family": true, "any_cue_detected": false, "any_scope": false}
+{"sample_id": "fresh-syn-00362-S", "arm": "S", "family": "syntactic", "seen_family": true, "any_cue_detected": true, "any_scope": true, "cue_found": true, "cue_detected": true, "decisive_found": true, "decisive_in_scope": false, "same_sentence": true}

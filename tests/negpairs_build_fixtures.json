@@ -1,0 +1,230 @@
+{
+ "qua-00000": {
+  "family": "quantifier",
+  "generated": {
+   "usable": true,
+   "question": "What should Lena do before leaving for the gym?",
+   "options": [
+    "Pack gym clothes",
+    "Do laundry first"
+   ],
+   "answer_O": "A",
+   "context_O": "Lena's gym clothes are all clean and folded in her drawer.",
+   "decisive": "clean and folded",
+   "context_P": "All of Lena's workout clothes are neatly washed and ready in her drawer.",
+   "context_N": "None of Lena's gym clothes are clean and folded in her drawer.",
+   "cue_N": "None of",
+   "context_S": "Lena's gym clothes are all clean and folded in her drawer, and nobody borrowed her gym bag.",
+   "cue_S": "nobody"
+  }
+ },
+ "qua-00002": {
+  "family": "quantifier",
+  "generated": {
+   "usable": true,
+   "question": "What should the student do with the notebook?",
+   "options": [
+    "Buy a new notebook",
+    "Keep using it"
+   ],
+   "answer_O": "A",
+   "context_O": "The notebook's spiral binding is broken.",
+   "decisive": "spiral binding is broken",
+   "context_P": "The notebook's metal coil has snapped apart completely.",
+   "context_N": "The notebook's spiral binding has no damage.",
+   "cue_N": "no",
+   "context_S": "The spiral binding is broken, though nobody complained about the cover design.",
+   "cue_S": "nobody"
+  }
+ },
+ "qua-00009": {
+  "family": "quantifier",
+  "generated": {
+   "usable": true,
+   "question": "Which appointment slot should Mia confirm?",
+   "options": [
+    "Confirm the morning slot",
+    "Confirm the afternoon slot"
+   ],
+   "answer_O": "B",
+   "context_O": "Mia's calendar shows free time at 2pm, so the afternoon slot matches her schedule.",
+   "decisive": "the afternoon slot matches her schedule",
+   "context_P": "Her schedule only permits the 2pm meeting, making the afternoon slot the fitting choice.",
+   "context_N": "Mia's calendar shows free time at 2pm, so no afternoon slot matches her schedule.",
+   "cue_N": "no",
+   "context_S": "Mia's calendar shows free time at 2pm, so the afternoon slot matches her schedule; nobody else needs that room.",
+   "cue_S": "nobody"
+  }
+ },
+ "aff-00027": {
+  "family": "affixal",
+  "generated": {
+   "usable": true,
+   "question": "What should Mara do for her presentation?",
+   "options": [
+    "Book the main room",
+    "Use the small office"
+   ],
+   "answer_O": "A",
+   "context_O": "The main conference room's projector is available this afternoon, so Mara can use it for her presentation.",
+   "decisive": "is available",
+   "context_P": "This afternoon, the projector in the main conference room is working and ready for Mara's presentation.",
+   "context_N": "The main conference room's projector is unavailable this afternoon, so Mara can use it for her presentation.",
+   "cue_N": "unavailable",
+   "context_S": "The main conference room's projector is available this afternoon, though the nearby printer is nonfunctional today.",
+   "cue_S": "nonfunctional"
+  }
+ },
+ "qua-00039": {
+  "family": "quantifier",
+  "generated": {
+   "usable": true,
+   "question": "Which appointment slot should Maria book?",
+   "options": [
+    "Book morning slot",
+    "Book afternoon slot"
+   ],
+   "answer_O": "A",
+   "context_O": "Maria has a checkup scheduled, and the dentist recommends the morning slot for her appointment.",
+   "decisive": "the dentist recommends the morning slot",
+   "context_P": "The dentist suggests Maria choose the morning slot for her upcoming checkup.",
+   "context_N": "Maria has a checkup scheduled, and the dentist recommends none of the morning slots for her appointment.",
+   "cue_N": "none of",
+   "context_S": "Nobody else wants the morning slot, and the dentist recommends the morning slot for her appointment.",
+   "cue_S": "Nobody"
+  }
+ },
+ "lex-00017": {
+  "family": "lexical",
+  "generated": {
+   "usable": true,
+   "question": "What should Mia do with the trash bin this morning?",
+   "options": [
+    "Put out bin",
+    "Leave bin inside"
+   ],
+   "answer_O": "A",
+   "context_O": "The household rule allows putting the bin out only when it is full. Mia's bin is full this morning.",
+   "decisive": "Mia's bin is full",
+   "context_P": "House policy permits placing the bin outside only once it reaches capacity. This morning, Mia's bin has reached capacity.",
+   "context_N": "The household rule allows putting the bin out only when it is full. Mia's bin is free of trash this morning.",
+   "cue_N": "is free of",
+   "context_S": "The household rule allows putting the bin out only when it is full. Mia's bin is full this morning, and the lid lacks a lock.",
+   "cue_S": "lacks"
+  }
+ },
+ "lex-00013": {
+  "family": "lexical",
+  "generated": {
+   "usable": true,
+   "question": "What should the lifter do for the squat set?",
+   "options": [
+    "Load the barbell",
+    "Use dumbbells instead"
+   ],
+   "answer_O": "A",
+   "context_O": "The gym has exactly 150kg of plates, matching the lifter's planned squat weight.",
+   "decisive": "has exactly 150kg of plates, matching the lifter's planned squat weight",
+   "context_P": "The gym's available plates total precisely 150kg, enough for the lifter's planned squat.",
+   "context_N": "The gym is out of plates needed for the lifter's planned squat weight.",
+   "cue_N": "is out of",
+   "context_S": "The gym has exactly 150kg of plates, though the lifter lacks a spotter today.",
+   "cue_S": "lacks"
+  }
+ },
+ "qua-00034": {
+  "family": "quantifier",
+  "generated": {
+   "usable": true,
+   "question": "What should the cashier do with the bill?",
+   "options": [
+    "Accept the bill",
+    "Reject the bill"
+   ],
+   "answer_O": "A",
+   "context_O": "The hundred-dollar bill is torn but both pieces are taped firmly together, and the serial numbers match.",
+   "decisive": "both pieces are taped firmly together, and the serial numbers match",
+   "context_P": "Although the bill has a rip, the two halves are securely taped and the serial numbers line up exactly.",
+   "context_N": "The hundred-dollar bill is torn and neither piece has a matching serial number.",
+   "cue_N": "neither",
+   "context_S": "The hundred-dollar bill is torn but both pieces are taped firmly together, and nobody else was in line.",
+   "cue_S": "nobody"
+  }
+ },
+ "syn-00000": {
+  "family": "syntactic",
+  "generated": {
+   "usable": true,
+   "question": "What should the paramedic do about the oxygen tank?",
+   "options": [
+    "Continue using tank",
+    "Switch to backup tank"
+   ],
+   "answer_O": "A",
+   "context_O": "The tank holds 2000 liters, and the patient needs only 500 liters for the trip.",
+   "decisive": "holds 2000 liters",
+   "context_P": "The oxygen tank's capacity is 2000 liters, far exceeding the 500 liters needed for the trip.",
+   "context_N": "The tank cannot hold 2000 liters, and the patient needs only 500 liters for the trip.",
+   "cue_N": "cannot hold",
+   "context_S": "The paramedic does not know the patient's name, but the tank holds 2000 liters, enough for the 500-liter trip.",
+   "cue_S": "does not know"
+  }
+ },
+ "lex-00001": {
+  "family": "lexical",
+  "generated": {
+   "usable": true,
+   "question": "What should the patient do?",
+   "options": [
+    "Get vaccinated today",
+    "Schedule a later visit"
+   ],
+   "answer_O": "A",
+   "context_O": "The pharmacy has the flu vaccine in stock today.",
+   "decisive": "has the flu vaccine in stock",
+   "context_P": "The pharmacy's flu vaccine supply is currently available today.",
+   "context_N": "The pharmacy is out of the flu vaccine today.",
+   "cue_N": "is out of",
+   "context_S": "The pharmacy has the flu vaccine in stock today, despite lacking extra parking spaces.",
+   "cue_S": "lacking"
+  }
+ },
+ "qua-00014": {
+  "family": "quantifier",
+  "generated": {
+   "usable": true,
+   "question": "What should the coordinator do with the new sign-up?",
+   "options": [
+    "Confirm the booking",
+    "Add to waitlist"
+   ],
+   "answer_O": "B",
+   "context_O": "The seminar room holds 20 people, and 20 attendees have already registered for the session.",
+   "decisive": "20 attendees have already registered",
+   "context_P": "All twenty seats in the seminar room are already filled by registered attendees.",
+   "context_N": "The seminar room holds 20 people, and none of the seats have been reserved yet.",
+   "cue_N": "none of",
+   "context_S": "The seminar room holds 20 people, and 20 attendees have already registered; nobody complained about the room's location.",
+   "cue_S": "nobody"
+  }
+ },
+ "syn-00157": {
+  "family": "syntactic",
+  "generated": {
+   "usable": true,
+   "question": "What should the hiker do before camping at this site?",
+   "options": [
+    "Obtain a backcountry permit",
+    "Set up camp anywhere"
+   ],
+   "answer_O": "A",
+   "context_O": "The ranger station requires a permit for camping above 8,000 feet, and the campsite sits at 9,200 feet.",
+   "decisive": "requires a permit",
+   "context_P": "Campers must carry a permit when staying overnight above 8,000 feet, and this site sits at 9,200 feet elevation.",
+   "context_N": "The ranger station does not require a permit for camping above 8,000 feet, and the campsite sits at 9,200 feet.",
+   "cue_N": "does not require",
+   "context_S": "The ranger station requires a permit for camping above 8,000 feet, and the campsite, which never had cell service, sits at 9,200 feet.",
+   "cue_S": "never had"
+  }
+ }
+}

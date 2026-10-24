@@ -1,0 +1,1 @@
+{"encoder": "E6-colbertv2", "condition": "m1", "seed": 404, "selected_epoch": 1, "epochs_run": 6, "dev_acc": 62.142857142857146, "train_time_s": 14.8, "tests": ["v1test", "fresh", "perm"]}

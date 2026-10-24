@@ -1,0 +1,1 @@
+{"encoder": "E0-hash", "condition": "option_only", "seed": 202, "selected_epoch": 2, "epochs_run": 7, "dev_acc": 61.19047619047619, "train_time_s": 33.9, "tests": ["v1test", "fresh", "perm"]}

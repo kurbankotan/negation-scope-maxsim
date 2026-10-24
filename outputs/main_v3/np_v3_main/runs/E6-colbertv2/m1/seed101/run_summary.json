@@ -1,0 +1,105 @@
+{
+  "config": {
+    "aggregator": "m1",
+    "lr": 0.001,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 101,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 128,
+  "parameter_counts": {
+    "scorer": 16384,
+    "aggregator": 0,
+    "total": 16384
+  },
+  "selected_epoch": 1,
+  "epochs_run": 6,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6920671947740775,
+      "train_acc": 59.515366430260045,
+      "dev_loss": 0.6916228424935114,
+      "dev_acc": 60.0,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 2.3
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.6889935860115304,
+      "train_acc": 63.356973995271865,
+      "dev_loss": 0.6891939554895673,
+      "dev_acc": 58.57142857142857,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 4.6
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.681981778454837,
+      "train_acc": 62.5886524822695,
+      "dev_loss": 0.6855088614282154,
+      "dev_acc": 57.142857142857146,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 6.9
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.6727170403122057,
+      "train_acc": 61.46572104018912,
+      "dev_loss": 0.6834570362454369,
+      "dev_acc": 57.38095238095238,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 9.2
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.6648867092234023,
+      "train_acc": 62.529550827423165,
+      "dev_loss": 0.6820903709956578,
+      "dev_acc": 57.38095238095238,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 11.6
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.6586361797988838,
+      "train_acc": 63.4160756501182,
+      "dev_loss": 0.6809738567897252,
+      "dev_acc": 56.904761904761905,
+      "lambda": null,
+      "beta": null,
+      "tau": null,
+      "elapsed_s": 14.4
+    }
+  ],
+  "train_time_s": 14.9,
+  "dev": {
+    "accuracy": 60.0,
+    "loss": 0.6916228424935114
+  },
+  "condition": "m1",
+  "encoder": "E6-colbertv2"
+}

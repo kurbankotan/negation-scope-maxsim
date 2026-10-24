@@ -1,0 +1,1 @@
+{"encoder": "C1-mcft", "condition": "deberta-v3-base-mc-ft", "seed": 202, "dev_acc": 95.95238095238095, "selected_epoch": 2, "tests": ["v1test", "fresh", "perm"]}

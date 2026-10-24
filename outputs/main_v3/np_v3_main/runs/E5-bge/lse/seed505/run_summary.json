@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "lse",
+    "lr": 0.001,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 505,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 768,
+  "parameter_counts": {
+    "scorer": 918146,
+    "aggregator": 1,
+    "total": 918147
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.678331405699394,
+      "train_acc": 59.692671394799056,
+      "dev_loss": 0.6536911765734355,
+      "dev_acc": 61.666666666666664,
+      "lambda": 0.5102882981300354,
+      "beta": null,
+      "tau": 0.991346001625061,
+      "elapsed_s": 5.0
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.6419337331262323,
+      "train_acc": 64.00709219858156,
+      "dev_loss": 0.629898148491269,
+      "dev_acc": 61.666666666666664,
+      "lambda": 0.5103527903556824,
+      "beta": null,
+      "tau": 1.0146671533584595,
+      "elapsed_s": 10.7
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.5854611665926363,
+      "train_acc": 67.02127659574468,
+      "dev_loss": 0.6028960948898678,
+      "dev_acc": 66.66666666666667,
+      "lambda": 0.5122014284133911,
+      "beta": null,
+      "tau": 1.0575889348983765,
+      "elapsed_s": 15.7
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.5285000637631608,
+      "train_acc": 72.63593380614657,
+      "dev_loss": 0.6207912308829171,
+      "dev_acc": 66.42857142857143,
+      "lambda": 0.5242743492126465,
+      "beta": null,
+      "tau": 1.0970795154571533,
+      "elapsed_s": 20.7
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.4796485977674489,
+      "train_acc": 76.53664302600473,
+      "dev_loss": 0.5893029422987075,
+      "dev_acc": 67.38095238095238,
+      "lambda": 0.5420555472373962,
+      "beta": null,
+      "tau": 1.1272121667861938,
+      "elapsed_s": 25.4
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.4407660823059984,
+      "train_acc": 79.01891252955083,
+      "dev_loss": 0.585424724646977,
+      "dev_acc": 70.23809523809524,
+      "lambda": 0.565697193145752,
+      "beta": null,
+      "tau": 1.1638553142547607,
+      "elapsed_s": 30.2
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.39689906431146266,
+      "train_acc": 81.91489361702128,
+      "dev_loss": 0.63845192023686,
+      "dev_acc": 66.42857142857143,
+      "lambda": 0.5878069996833801,
+      "beta": null,
+      "tau": 1.191985845565796,
+      "elapsed_s": 35.1
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.36804585993712674,
+      "train_acc": 83.451536643026,
+      "dev_loss": 0.5925430638449533,
+      "dev_acc": 67.14285714285714,
+      "lambda": 0.6076371669769287,
+      "beta": null,
+      "tau": 1.226638674736023,
+      "elapsed_s": 40.2
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.3345031583985538,
+      "train_acc": 85.81560283687944,
+      "dev_loss": 0.7589855398450579,
+      "dev_acc": 65.95238095238095,
+      "lambda": 0.6295767426490784,
+      "beta": null,
+      "tau": 1.2545946836471558,
+      "elapsed_s": 45.0
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.30804501340039797,
+      "train_acc": 87.29314420803783,
+      "dev_loss": 0.7036404314495268,
+      "dev_acc": 66.66666666666667,
+      "lambda": 0.6492804288864136,
+      "beta": null,
+      "tau": 1.2819281816482544,
+      "elapsed_s": 50.1
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.2761111692052079,
+      "train_acc": 88.53427895981088,
+      "dev_loss": 0.7390168695222764,
+      "dev_acc": 65.47619047619048,
+      "lambda": 0.6674938201904297,
+      "beta": null,
+      "tau": 1.3100472688674927,
+      "elapsed_s": 54.9
+    }
+  ],
+  "train_time_s": 55.4,
+  "dev": {
+    "accuracy": 70.23809523809524,
+    "loss": 0.585424724646977
+  },
+  "condition": "lse",
+  "encoder": "E5-bge"
+}

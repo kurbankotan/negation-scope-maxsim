@@ -1,0 +1,33 @@
+{
+ "v1_files": 9,
+ "v3_files": 9,
+ "train": {
+  "items": 1692,
+  "scenarios": 423
+ },
+ "dev": {
+  "items": 420,
+  "scenarios": 105
+ },
+ "v3_build": {
+  "perm_scenarios": 274,
+  "fresh_scenarios": 240,
+  "built_utc": "2026-10-05T19:36:41.624483+00:00",
+  "manifest_sha256": "57f834c56455cb7cd6b2c997f3599a86b2b7dbf68213dea8986ef2fd1fb1561c"
+ },
+ "test_files_parsed_in_pilot": false,
+ "v1test": {
+  "items": 2240
+ },
+ "fresh": {
+  "items": 960
+ },
+ "perm": {
+  "items": 1096
+ },
+ "nevir": {
+  "instances": 1383,
+  "nested": 184,
+  "revision": "6263585072ce3b435ed09658613553fbf4e74184"
+ }
+}

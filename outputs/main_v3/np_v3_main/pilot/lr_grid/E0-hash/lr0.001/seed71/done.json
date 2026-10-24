@@ -1,0 +1,1 @@
+{"encoder": "E0-hash", "condition": "max", "seed": 71, "selected_epoch": 5, "epochs_run": 10, "dev_acc": 64.04761904761905, "train_time_s": 47.2, "tests": []}

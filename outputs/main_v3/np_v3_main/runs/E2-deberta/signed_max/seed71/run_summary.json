@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max",
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 71,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 768,
+  "parameter_counts": {
+    "scorer": 918146,
+    "aggregator": 1,
+    "total": 918147
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6403750997063116,
+      "train_acc": 61.05200945626478,
+      "dev_loss": 0.6524127721786499,
+      "dev_acc": 58.095238095238095,
+      "lambda": 0.5114889144897461,
+      "beta": 1.0403938293457031,
+      "tau": null,
+      "elapsed_s": 5.6
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.5440988451876538,
+      "train_acc": 69.73995271867612,
+      "dev_loss": 0.6534152116094317,
+      "dev_acc": 64.04761904761905,
+      "lambda": 0.505940854549408,
+      "beta": 1.093239188194275,
+      "tau": null,
+      "elapsed_s": 10.9
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.48016394762846315,
+      "train_acc": 75.82742316784869,
+      "dev_loss": 0.6895679550511497,
+      "dev_acc": 67.85714285714286,
+      "lambda": 0.5027714371681213,
+      "beta": 1.1319361925125122,
+      "tau": null,
+      "elapsed_s": 16.4
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.40179397979526654,
+      "train_acc": 81.38297872340425,
+      "dev_loss": 0.7024313540685745,
+      "dev_acc": 67.61904761904762,
+      "lambda": 0.5048204064369202,
+      "beta": 1.1438452005386353,
+      "tau": null,
+      "elapsed_s": 21.9
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.3462184034199861,
+      "train_acc": 84.86997635933807,
+      "dev_loss": 0.7486817660785857,
+      "dev_acc": 67.14285714285714,
+      "lambda": 0.52578204870224,
+      "beta": 1.1417570114135742,
+      "tau": null,
+      "elapsed_s": 26.9
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.2969326289551196,
+      "train_acc": 87.35224586288416,
+      "dev_loss": 0.8158320753347306,
+      "dev_acc": 71.9047619047619,
+      "lambda": 0.5266009569168091,
+      "beta": 1.1400929689407349,
+      "tau": null,
+      "elapsed_s": 32.4
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.2683268653374192,
+      "train_acc": 89.42080378250591,
+      "dev_loss": 0.8567099122774033,
+      "dev_acc": 69.28571428571429,
+      "lambda": 0.5362460613250732,
+      "beta": 1.1408580541610718,
+      "tau": null,
+      "elapsed_s": 37.4
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.22704638308244393,
+      "train_acc": 91.37115839243499,
+      "dev_loss": 0.9736127260185423,
+      "dev_acc": 71.9047619047619,
+      "lambda": 0.5506774187088013,
+      "beta": 1.146763801574707,
+      "tau": null,
+      "elapsed_s": 42.8
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.21707649627616782,
+      "train_acc": 91.43026004728132,
+      "dev_loss": 0.94630280988557,
+      "dev_acc": 70.95238095238095,
+      "lambda": 0.532917320728302,
+      "beta": 1.15066397190094,
+      "tau": null,
+      "elapsed_s": 48.1
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.1872413329621579,
+      "train_acc": 93.32151300236407,
+      "dev_loss": 1.0868200648398627,
+      "dev_acc": 71.42857142857143,
+      "lambda": 0.5358923673629761,
+      "beta": 1.150900959968567,
+      "tau": null,
+      "elapsed_s": 53.1
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.17501378297171694,
+      "train_acc": 93.91252955082743,
+      "dev_loss": 1.0579101414907546,
+      "dev_acc": 71.66666666666667,
+      "lambda": 0.5472480058670044,
+      "beta": 1.139182686805725,
+      "tau": null,
+      "elapsed_s": 59.0
+    }
+  ],
+  "train_time_s": 59.6,
+  "dev": {
+    "accuracy": 71.9047619047619,
+    "loss": 0.8158320753347306
+  },
+  "condition": "signed_max",
+  "encoder": "E2-deberta"
+}

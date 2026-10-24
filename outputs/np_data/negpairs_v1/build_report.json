@@ -1,0 +1,191 @@
+{
+ "built_utc": "2026-10-03T14:17:29.854049+00:00",
+ "cacsa2_version": "0.2.4",
+ "construction": "v2",
+ "v1": {
+  "settings": {
+   "generator": "claude-sonnet-5",
+   "generator_effort": "medium",
+   "generator_max_tokens": 1200,
+   "verifier": "claude-haiku-4-5-20251001",
+   "verify_prompt": "VERIFY_PROMPT",
+   "filter": "structural_filter (N edit <= 3, S edit <= 8)"
+  },
+  "funnel": {
+   "filter": 522,
+   "verifier": 609,
+   "generator": 83,
+   "error": 154,
+   "kept": 102,
+   "duplicate": 6
+  },
+  "candidates": 1476
+ },
+ "v2": {
+  "settings": {
+   "generator": "claude-sonnet-5",
+   "generator_effort": "low",
+   "generator_max_tokens": 4000,
+   "verifier": "claude-haiku-4-5-20251001",
+   "verifier_temperature": 0.0,
+   "verify_prompt": "VERIFY_PROMPT_V2",
+   "filter": "structural_filter_v2 {'n_max_edit': 5, 's_max_edit': 10}",
+   "prompt_sha256": {
+    "GEN_PROMPT": "8270c1684edaadff9941da5244a8812e7fcdc62b95ada62ea21bfa38e668af35",
+    "VERIFY_PROMPT": "0bc5d895d7974a2db135412cb4661e0806916cd84469030c1c87b33a637a4742",
+    "VERIFY_PROMPT_V2": "1ce31ce47f63c8c7903b22ba4869b5a99c0262a2f9356fec52faa117ce8c3fdd"
+   }
+  },
+  "funnel": {
+   "filter": 824,
+   "kept": 1088,
+   "verifier": 1224,
+   "duplicate": 163,
+   "generator": 1
+  },
+  "funnel_by_source": {
+   "v1-generated/duplicate": 42,
+   "v1-generated/filter": 235,
+   "v1-generated/kept": 505,
+   "v1-generated/verifier": 457,
+   "v2-generated/duplicate": 121,
+   "v2-generated/filter": 589,
+   "v2-generated/generator": 1,
+   "v2-generated/kept": 583,
+   "v2-generated/verifier": 767
+  },
+  "discard_reasons": {
+   "arm N read as 'A'": 449,
+   "arm N read as 'unclear'": 269,
+   "near-duplicate of a kept scenario": 163,
+   "context_N edit distance 6 (must be 1-5 words)": 149,
+   "context_N edit distance 7 (must be 1-5 words)": 110,
+   "arm O read as 'unclear'": 109,
+   "arm N read as 'B'": 95,
+   "decisive words changed in context_S": 84,
+   "arm N judged unnatural": 80,
+   "context_N edit distance 8 (must be 1-5 words)": 76,
+   "arm S read as 'unclear'": 70,
+   "context_S edit too large": 61,
+   "context_N edit distance 9 (must be 1-5 words)": 54,
+   "negation marker in context_P": 39,
+   "arm P read as 'unclear'": 35,
+   "context_N edit distance 11 (must be 1-5 words)": 29,
+   "context_N edit distance 10 (must be 1-5 words)": 28,
+   "arm S read as 'B'": 27,
+   "arm S judged unnatural": 27,
+   "arm O read as 'B'": 17,
+   "context_P introduces a new name or number": 17,
+   "context_N edit distance 12 (must be 1-5 words)": 17,
+   "negation marker in context_O": 15,
+   "context_N introduces a new name or number": 12,
+   "cue_S 'never' is not a lexical cue": 10,
+   "cue_S 'never' is not a quantifier cue": 10,
+   "context_N edit distance 14 (must be 1-5 words)": 10,
+   "context_N edit distance 13 (must be 1-5 words)": 9,
+   "arm N read as None": 9,
+   "arm P read as 'B'": 8,
+   "arm O read as 'A'": 7,
+   "cue_S 'without' is not a syntactic cue": 7,
+   "arm P judged unnatural": 6,
+   "arm S read as 'A'": 6,
+   "cue_S 'never' is not a affixal cue": 5,
+   "cue_S 'nobody' is not a syntactic cue": 5,
+   "arm O judged unnatural": 4,
+   "cue_N 'dysfunctional' is not a affixal cue": 4,
+   "negation marker in an option": 4,
+   "cue_S 'lacks' is not a syntactic cue": 4
+  }
+ },
+ "models": {
+  "generator": "claude-sonnet-5",
+  "verifier": "claude-haiku-4-5-20251001",
+  "audit": "claude-opus-5"
+ },
+ "prompt_sha256": {
+  "GEN_PROMPT": "8270c1684edaadff9941da5244a8812e7fcdc62b95ada62ea21bfa38e668af35",
+  "VERIFY_PROMPT": "0bc5d895d7974a2db135412cb4661e0806916cd84469030c1c87b33a637a4742",
+  "VERIFY_PROMPT_V2": "1ce31ce47f63c8c7903b22ba4869b5a99c0262a2f9356fec52faa117ce8c3fdd"
+ },
+ "targets": {
+  "syntactic": 500,
+  "quantifier": 500,
+  "affixal": 250,
+  "lexical": 250
+ },
+ "seed": 20261003,
+ "kept_scenarios": 1088,
+ "items": 4352,
+ "scenarios_by_split_and_family": {
+  "dev/quantifier": 50,
+  "dev/syntactic": 55,
+  "test/affixal": 228,
+  "test/lexical": 156,
+  "test/quantifier": 84,
+  "test/syntactic": 92,
+  "train/quantifier": 202,
+  "train/syntactic": 221
+ },
+ "label_balance_by_split_and_arm": {
+  "train/O": {
+   "1": 224,
+   "0": 199
+  },
+  "train/P": {
+   "1": 224,
+   "0": 199
+  },
+  "train/N": {
+   "0": 224,
+   "1": 199
+  },
+  "train/S": {
+   "1": 224,
+   "0": 199
+  },
+  "dev/O": {
+   "0": 61,
+   "1": 44
+  },
+  "dev/P": {
+   "0": 61,
+   "1": 44
+  },
+  "dev/N": {
+   "1": 61,
+   "0": 44
+  },
+  "dev/S": {
+   "0": 61,
+   "1": 44
+  },
+  "test/O": {
+   "1": 296,
+   "0": 264
+  },
+  "test/P": {
+   "1": 296,
+   "0": 264
+  },
+  "test/N": {
+   "0": 296,
+   "1": 264
+  },
+  "test/S": {
+   "1": 296,
+   "0": 264
+  }
+ },
+ "opus_audit_v2": {
+  "sample": 109,
+  "checked": 109,
+  "agree_all_arms": 70
+ },
+ "cost_usd_total_metered": 31.98,
+ "cost_usd_this_session": 16.32,
+ "api_calls": 13554,
+ "stopped": {
+  "phase_A": null,
+  "phase_B": null
+ }
+}

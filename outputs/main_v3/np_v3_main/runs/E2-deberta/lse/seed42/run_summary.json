@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "lse",
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 42,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 768,
+  "parameter_counts": {
+    "scorer": 918146,
+    "aggregator": 1,
+    "total": 918147
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6812671714640678,
+      "train_acc": 57.565011820330966,
+      "dev_loss": 0.671361095564706,
+      "dev_acc": 60.714285714285715,
+      "lambda": 0.5105576515197754,
+      "beta": null,
+      "tau": 1.0024946928024292,
+      "elapsed_s": 4.7
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.6709047182513749,
+      "train_acc": 59.515366430260045,
+      "dev_loss": 0.6699283151399522,
+      "dev_acc": 60.714285714285715,
+      "lambda": 0.5242804884910583,
+      "beta": null,
+      "tau": 1.0228787660598755,
+      "elapsed_s": 9.5
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.6613742840205524,
+      "train_acc": 63.2387706855792,
+      "dev_loss": 0.691151902221498,
+      "dev_acc": 59.76190476190476,
+      "lambda": 0.5241990685462952,
+      "beta": null,
+      "tau": 1.0413089990615845,
+      "elapsed_s": 14.1
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.6531986062971976,
+      "train_acc": 63.652482269503544,
+      "dev_loss": 0.6785972714424133,
+      "dev_acc": 59.76190476190476,
+      "lambda": 0.524128794670105,
+      "beta": null,
+      "tau": 1.053683876991272,
+      "elapsed_s": 18.5
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.6484394476487,
+      "train_acc": 66.19385342789599,
+      "dev_loss": 0.6694328319458734,
+      "dev_acc": 60.476190476190474,
+      "lambda": 0.5240604877471924,
+      "beta": null,
+      "tau": 1.0825423002243042,
+      "elapsed_s": 23.5
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.6378793559316766,
+      "train_acc": 65.95744680851064,
+      "dev_loss": 0.6620777953238715,
+      "dev_acc": 61.666666666666664,
+      "lambda": 0.5240233540534973,
+      "beta": null,
+      "tau": 1.0713094472885132,
+      "elapsed_s": 28.2
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.6219647728241363,
+      "train_acc": 66.78486997635933,
+      "dev_loss": 0.6907334435553778,
+      "dev_acc": 59.76190476190476,
+      "lambda": 0.5240086913108826,
+      "beta": null,
+      "tau": 1.0075920820236206,
+      "elapsed_s": 32.8
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.6006300974963122,
+      "train_acc": 67.19858156028369,
+      "dev_loss": 0.6503328170095172,
+      "dev_acc": 61.42857142857143,
+      "lambda": 0.5239280462265015,
+      "beta": null,
+      "tau": 0.9803341031074524,
+      "elapsed_s": 37.7
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.5677526632662924,
+      "train_acc": 69.44444444444444,
+      "dev_loss": 0.6956113378206888,
+      "dev_acc": 60.23809523809524,
+      "lambda": 0.5238940119743347,
+      "beta": null,
+      "tau": 0.9944317936897278,
+      "elapsed_s": 42.3
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.521143630323117,
+      "train_acc": 72.10401891252955,
+      "dev_loss": 0.6850639348938352,
+      "dev_acc": 60.476190476190474,
+      "lambda": 0.5237219929695129,
+      "beta": null,
+      "tau": 1.0064889192581177,
+      "elapsed_s": 47.6
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.4790629375699564,
+      "train_acc": 75.59101654846336,
+      "dev_loss": 0.6868674618857248,
+      "dev_acc": 59.523809523809526,
+      "lambda": 0.5236142873764038,
+      "beta": null,
+      "tau": 1.0215610265731812,
+      "elapsed_s": 52.2
+    }
+  ],
+  "train_time_s": 52.8,
+  "dev": {
+    "accuracy": 61.666666666666664,
+    "loss": 0.6620777953238715
+  },
+  "condition": "lse",
+  "encoder": "E2-deberta"
+}

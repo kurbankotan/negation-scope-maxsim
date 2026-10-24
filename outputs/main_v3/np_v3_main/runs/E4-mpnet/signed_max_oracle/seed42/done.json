@@ -1,0 +1,1 @@
+{"encoder": "E4-mpnet", "condition": "signed_max_oracle", "seed": 42, "selected_epoch": 2, "epochs_run": 7, "dev_acc": 63.095238095238095, "train_time_s": 42.7, "tests": ["v1test", "fresh", "perm"]}

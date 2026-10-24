@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max",
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 71,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 768,
+  "parameter_counts": {
+    "scorer": 918146,
+    "aggregator": 1,
+    "total": 918147
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6367249140784532,
+      "train_acc": 61.111111111111114,
+      "dev_loss": 0.6674997590837024,
+      "dev_acc": 58.57142857142857,
+      "lambda": 0.5235549211502075,
+      "beta": 1.0086274147033691,
+      "tau": null,
+      "elapsed_s": 5.3
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.5325741566382965,
+      "train_acc": 68.43971631205673,
+      "dev_loss": 0.7021389876093184,
+      "dev_acc": 59.285714285714285,
+      "lambda": 0.52349454164505,
+      "beta": 0.9847328662872314,
+      "tau": null,
+      "elapsed_s": 10.5
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.44325699634304,
+      "train_acc": 75.23640661938535,
+      "dev_loss": 0.9458138817832583,
+      "dev_acc": 56.19047619047619,
+      "lambda": 0.5193105936050415,
+      "beta": 0.9570801258087158,
+      "tau": null,
+      "elapsed_s": 15.5
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.3540420876045317,
+      "train_acc": 83.33333333333333,
+      "dev_loss": 1.1593976702008928,
+      "dev_acc": 59.285714285714285,
+      "lambda": 0.5170092582702637,
+      "beta": 0.9440178275108337,
+      "tau": null,
+      "elapsed_s": 21.2
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.2921613166306881,
+      "train_acc": 87.41134751773049,
+      "dev_loss": 1.3180810576393491,
+      "dev_acc": 59.76190476190476,
+      "lambda": 0.5170491933822632,
+      "beta": 0.9262115359306335,
+      "tau": null,
+      "elapsed_s": 26.4
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.23510632176066684,
+      "train_acc": 90.83924349881796,
+      "dev_loss": 1.4479768287567865,
+      "dev_acc": 63.80952380952381,
+      "lambda": 0.518767774105072,
+      "beta": 0.9146785736083984,
+      "tau": null,
+      "elapsed_s": 31.7
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.1928095112138606,
+      "train_acc": 92.31678486997636,
+      "dev_loss": 1.5187730028515771,
+      "dev_acc": 62.142857142857146,
+      "lambda": 0.5203857421875,
+      "beta": 0.9005592465400696,
+      "tau": null,
+      "elapsed_s": 37.0
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.15503325599551765,
+      "train_acc": 94.03073286052009,
+      "dev_loss": 1.528690266609192,
+      "dev_acc": 63.095238095238095,
+      "lambda": 0.5234079360961914,
+      "beta": 0.9002424478530884,
+      "tau": null,
+      "elapsed_s": 42.1
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.1343261217192062,
+      "train_acc": 95.15366430260048,
+      "dev_loss": 1.7121098518371582,
+      "dev_acc": 60.476190476190474,
+      "lambda": 0.527950644493103,
+      "beta": 0.9030938744544983,
+      "tau": null,
+      "elapsed_s": 47.7
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.11463606496832507,
+      "train_acc": 96.15839243498817,
+      "dev_loss": 1.6021021309353056,
+      "dev_acc": 62.61904761904762,
+      "lambda": 0.5309106707572937,
+      "beta": 0.8966018557548523,
+      "tau": null,
+      "elapsed_s": 52.9
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.08680151119466593,
+      "train_acc": 96.98581560283688,
+      "dev_loss": 1.8287586677642096,
+      "dev_acc": 59.523809523809526,
+      "lambda": 0.5164806842803955,
+      "beta": 0.8917234539985657,
+      "tau": null,
+      "elapsed_s": 58.2
+    }
+  ],
+  "train_time_s": 59.1,
+  "dev": {
+    "accuracy": 63.80952380952381,
+    "loss": 1.4479768287567865
+  },
+  "condition": "signed_max_sentence",
+  "encoder": "E4-mpnet"
+}

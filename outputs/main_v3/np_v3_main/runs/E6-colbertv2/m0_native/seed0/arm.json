@@ -1,0 +1,1 @@
+{"directory": "m0_native", "module_kind": "colbert_native", "settings": {"query_maxlen": 32, "doc_maxlen": 180, "dim": 128, "similarity": "cosine", "attend_to_mask_tokens": false, "mask_punctuation": true, "query_marker": "[unused0]", "doc_marker": "[unused1]"}, "trained": false}

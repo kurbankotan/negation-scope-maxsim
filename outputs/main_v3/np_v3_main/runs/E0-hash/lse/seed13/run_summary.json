@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "lse",
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 13,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 384,
+  "parameter_counts": {
+    "scorer": 475778,
+    "aggregator": 1,
+    "total": 475779
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6819525231424517,
+      "train_acc": 56.91489361702128,
+      "dev_loss": 0.6737454385984512,
+      "dev_acc": 59.76190476190476,
+      "lambda": 0.5057363510131836,
+      "beta": null,
+      "tau": 1.0101221799850464,
+      "elapsed_s": 5.4
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.648376889262639,
+      "train_acc": 65.72104018912529,
+      "dev_loss": 0.6608003752572196,
+      "dev_acc": 60.23809523809524,
+      "lambda": 0.5356037020683289,
+      "beta": null,
+      "tau": 0.9852015376091003,
+      "elapsed_s": 10.2
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.6146789132562371,
+      "train_acc": 69.20803782505911,
+      "dev_loss": 0.6330916671525865,
+      "dev_acc": 63.333333333333336,
+      "lambda": 0.5606147050857544,
+      "beta": null,
+      "tau": 0.9793570637702942,
+      "elapsed_s": 15.2
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.57880055157569,
+      "train_acc": 72.87234042553192,
+      "dev_loss": 0.6501922607421875,
+      "dev_acc": 62.61904761904762,
+      "lambda": 0.5898184776306152,
+      "beta": null,
+      "tau": 1.008962631225586,
+      "elapsed_s": 20.2
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.5590795257412795,
+      "train_acc": 73.75886524822695,
+      "dev_loss": 0.6476714911915007,
+      "dev_acc": 61.19047619047619,
+      "lambda": 0.6153150796890259,
+      "beta": null,
+      "tau": 1.0357153415679932,
+      "elapsed_s": 24.7
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.52988981376303,
+      "train_acc": 75.47281323877068,
+      "dev_loss": 0.6409160545894078,
+      "dev_acc": 65.23809523809524,
+      "lambda": 0.6335915923118591,
+      "beta": null,
+      "tau": 1.0616841316223145,
+      "elapsed_s": 29.6
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.5132401455237792,
+      "train_acc": 77.71867612293144,
+      "dev_loss": 0.6661312858263652,
+      "dev_acc": 62.61904761904762,
+      "lambda": 0.6540707945823669,
+      "beta": null,
+      "tau": 1.0686982870101929,
+      "elapsed_s": 34.5
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.5033895169730446,
+      "train_acc": 78.1323877068558,
+      "dev_loss": 0.6812417915889195,
+      "dev_acc": 61.904761904761905,
+      "lambda": 0.6684384942054749,
+      "beta": null,
+      "tau": 1.0934767723083496,
+      "elapsed_s": 39.2
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.5016446269995777,
+      "train_acc": 78.78250591016548,
+      "dev_loss": 0.6886350807689485,
+      "dev_acc": 63.333333333333336,
+      "lambda": 0.6740332841873169,
+      "beta": null,
+      "tau": 1.0916603803634644,
+      "elapsed_s": 44.2
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.4808001339294668,
+      "train_acc": 80.02364066193853,
+      "dev_loss": 0.7869503668376377,
+      "dev_acc": 61.42857142857143,
+      "lambda": 0.6793972849845886,
+      "beta": null,
+      "tau": 1.1021102666854858,
+      "elapsed_s": 49.3
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.47352036065807296,
+      "train_acc": 78.90070921985816,
+      "dev_loss": 0.7949466728028797,
+      "dev_acc": 61.904761904761905,
+      "lambda": 0.6897646188735962,
+      "beta": null,
+      "tau": 1.121538758277893,
+      "elapsed_s": 54.9
+    }
+  ],
+  "train_time_s": 55.8,
+  "dev": {
+    "accuracy": 65.23809523809524,
+    "loss": 0.6409160545894078
+  },
+  "condition": "lse",
+  "encoder": "E0-hash"
+}

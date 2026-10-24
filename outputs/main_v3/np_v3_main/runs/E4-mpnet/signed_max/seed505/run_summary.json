@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max",
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 505,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 768,
+  "parameter_counts": {
+    "scorer": 918146,
+    "aggregator": 1,
+    "total": 918147
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6266256208679073,
+      "train_acc": 63.94799054373522,
+      "dev_loss": 0.7045760625884646,
+      "dev_acc": 61.42857142857143,
+      "lambda": 0.5171055793762207,
+      "beta": 1.0224111080169678,
+      "tau": null,
+      "elapsed_s": 5.2
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.45529519342079794,
+      "train_acc": 77.83687943262412,
+      "dev_loss": 0.8987358297620501,
+      "dev_acc": 57.142857142857146,
+      "lambda": 0.5418673753738403,
+      "beta": 1.0724036693572998,
+      "tau": null,
+      "elapsed_s": 10.5
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.34490198446503767,
+      "train_acc": 84.57446808510639,
+      "dev_loss": 0.9431261931146894,
+      "dev_acc": 63.095238095238095,
+      "lambda": 0.5613445043563843,
+      "beta": 1.0791248083114624,
+      "tau": null,
+      "elapsed_s": 15.6
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.25747427087162683,
+      "train_acc": 88.88888888888889,
+      "dev_loss": 1.0496523458333242,
+      "dev_acc": 59.285714285714285,
+      "lambda": 0.5695608258247375,
+      "beta": 1.0821788311004639,
+      "tau": null,
+      "elapsed_s": 21.3
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.19251642485389192,
+      "train_acc": 91.37115839243499,
+      "dev_loss": 1.1742649892965953,
+      "dev_acc": 61.904761904761905,
+      "lambda": 0.5902805328369141,
+      "beta": 1.100084662437439,
+      "tau": null,
+      "elapsed_s": 26.4
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.1476230689194538,
+      "train_acc": 93.79432624113475,
+      "dev_loss": 1.491481214761734,
+      "dev_acc": 66.9047619047619,
+      "lambda": 0.6069713830947876,
+      "beta": 1.1002470254898071,
+      "tau": null,
+      "elapsed_s": 31.6
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.12389460622594993,
+      "train_acc": 95.44917257683215,
+      "dev_loss": 1.558407143042201,
+      "dev_acc": 59.04761904761905,
+      "lambda": 0.6152685880661011,
+      "beta": 1.08492910861969,
+      "tau": null,
+      "elapsed_s": 37.0
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.09508040977708541,
+      "train_acc": 95.86288416075651,
+      "dev_loss": 1.6480794710772377,
+      "dev_acc": 63.333333333333336,
+      "lambda": 0.6256961226463318,
+      "beta": 1.0929611921310425,
+      "tau": null,
+      "elapsed_s": 42.1
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.09363121143487188,
+      "train_acc": 96.39479905437352,
+      "dev_loss": 1.6615532232182366,
+      "dev_acc": 61.19047619047619,
+      "lambda": 0.6278919577598572,
+      "beta": 1.0877599716186523,
+      "tau": null,
+      "elapsed_s": 47.9
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.07804843535603863,
+      "train_acc": 96.45390070921985,
+      "dev_loss": 1.746079045534134,
+      "dev_acc": 60.476190476190474,
+      "lambda": 0.6368404030799866,
+      "beta": 1.0799176692962646,
+      "tau": null,
+      "elapsed_s": 53.4
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.0638919810436437,
+      "train_acc": 97.34042553191489,
+      "dev_loss": 2.1923529728537514,
+      "dev_acc": 61.666666666666664,
+      "lambda": 0.6467253565788269,
+      "beta": 1.1049972772598267,
+      "tau": null,
+      "elapsed_s": 59.3
+    }
+  ],
+  "train_time_s": 60.1,
+  "dev": {
+    "accuracy": 66.9047619047619,
+    "loss": 1.491481214761734
+  },
+  "condition": "signed_max",
+  "encoder": "E4-mpnet"
+}

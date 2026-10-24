@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max",
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 505,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 300,
+  "parameter_counts": {
+    "scorer": 379010,
+    "aggregator": 1,
+    "total": 379011
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6555844566500779,
+      "train_acc": 59.9290780141844,
+      "dev_loss": 0.6850234275772458,
+      "dev_acc": 56.42857142857143,
+      "lambda": 0.5189788937568665,
+      "beta": 0.9757939577102661,
+      "tau": null,
+      "elapsed_s": 5.5
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.5779700435645191,
+      "train_acc": 65.89834515366431,
+      "dev_loss": 0.752507013366336,
+      "dev_acc": 62.142857142857146,
+      "lambda": 0.504270076751709,
+      "beta": 0.9667139053344727,
+      "tau": null,
+      "elapsed_s": 10.8
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.46814783118295333,
+      "train_acc": 78.66430260047281,
+      "dev_loss": 0.8107507450239999,
+      "dev_acc": 57.142857142857146,
+      "lambda": 0.5075719952583313,
+      "beta": 0.9709103107452393,
+      "tau": null,
+      "elapsed_s": 16.1
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.4051432864603985,
+      "train_acc": 82.68321513002364,
+      "dev_loss": 0.962215180624099,
+      "dev_acc": 61.42857142857143,
+      "lambda": 0.5103148818016052,
+      "beta": 0.9672626256942749,
+      "tau": null,
+      "elapsed_s": 21.6
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.3621328469568392,
+      "train_acc": 84.33806146572104,
+      "dev_loss": 1.3240436031704856,
+      "dev_acc": 58.80952380952381,
+      "lambda": 0.5245768427848816,
+      "beta": 0.9711911082267761,
+      "tau": null,
+      "elapsed_s": 26.9
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.34480902172149497,
+      "train_acc": 86.28841607565012,
+      "dev_loss": 1.008390702520098,
+      "dev_acc": 62.61904761904762,
+      "lambda": 0.5431435704231262,
+      "beta": 0.9658268690109253,
+      "tau": null,
+      "elapsed_s": 33.4
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.3246337265551231,
+      "train_acc": 85.99290780141844,
+      "dev_loss": 1.2213814235868907,
+      "dev_acc": 59.04761904761905,
+      "lambda": 0.5476356148719788,
+      "beta": 0.9695253968238831,
+      "tau": null,
+      "elapsed_s": 38.9
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.3147110989400963,
+      "train_acc": 87.11583924349881,
+      "dev_loss": 1.4465992757252284,
+      "dev_acc": 60.23809523809524,
+      "lambda": 0.5622602701187134,
+      "beta": 0.957050085067749,
+      "tau": null,
+      "elapsed_s": 44.0
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.30952599708070144,
+      "train_acc": 87.11583924349881,
+      "dev_loss": 1.2208246253785633,
+      "dev_acc": 61.904761904761905,
+      "lambda": 0.572844386100769,
+      "beta": 0.9591196775436401,
+      "tau": null,
+      "elapsed_s": 49.5
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.2856575371103084,
+      "train_acc": 87.94326241134752,
+      "dev_loss": 1.544355873834519,
+      "dev_acc": 59.04761904761905,
+      "lambda": 0.5975727438926697,
+      "beta": 0.9601473212242126,
+      "tau": null,
+      "elapsed_s": 54.8
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.29321952555196507,
+      "train_acc": 87.76595744680851,
+      "dev_loss": 1.3594347329366774,
+      "dev_acc": 58.80952380952381,
+      "lambda": 0.6211338639259338,
+      "beta": 0.9620856046676636,
+      "tau": null,
+      "elapsed_s": 61.1
+    }
+  ],
+  "train_time_s": 61.8,
+  "dev": {
+    "accuracy": 62.61904761904762,
+    "loss": 1.008390702520098
+  },
+  "condition": "signed_max_sentence",
+  "encoder": "E3-glove"
+}

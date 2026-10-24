@@ -1,0 +1,1 @@
+{"encoder": "E4-mpnet", "condition": "m1", "seed": 505, "selected_epoch": 28, "epochs_run": 30, "dev_acc": 69.04761904761905, "train_time_s": 119.0, "tests": ["v1test", "fresh", "perm"]}

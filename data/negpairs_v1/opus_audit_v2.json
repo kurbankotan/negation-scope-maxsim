@@ -1,0 +1,2208 @@
+{
+ "aff-00010": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "aff-00012": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "aff-00013": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "aff-00048": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "aff-00055": {
+  "agrees": false,
+  "reason": "arm N read as 'unclear'",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "unclear",
+    "natural": false
+   }
+  }
+ },
+ "aff-00087": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "aff-00119": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": true
+   },
+   "S": {
+    "answer": "B",
+    "natural": true
+   }
+  }
+ },
+ "aff-00134": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "aff-00172": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "aff-00174": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "aff-00178": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "aff-00181": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": true
+   },
+   "S": {
+    "answer": "B",
+    "natural": true
+   }
+  }
+ },
+ "aff-00189": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "aff-00194": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "aff-00238": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "aff-00260": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "aff-00264": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "aff-00314": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "aff-00350": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": true
+   },
+   "S": {
+    "answer": "B",
+    "natural": true
+   }
+  }
+ },
+ "aff-00380": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": false
+   }
+  }
+ },
+ "aff-00391": {
+  "agrees": false,
+  "reason": "arm N read as 'unclear'",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "unclear",
+    "natural": true
+   }
+  }
+ },
+ "aff-00432": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "aff-00485": {
+  "agrees": false,
+  "reason": "arm S judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": false
+   }
+  }
+ },
+ "aff-00527": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "lex-00003": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "lex-00126": {
+  "agrees": false,
+  "reason": "arm S judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": false
+   }
+  }
+ },
+ "lex-00146": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "lex-00175": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "lex-00182": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "lex-00195": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "lex-00212": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "lex-00270": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "lex-00282": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "lex-00312": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "lex-00332": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "lex-00364": {
+  "agrees": false,
+  "reason": "arm N read as 'A'",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": false
+   }
+  }
+ },
+ "lex-00392": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "lex-00413": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "lex-00474": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "lex-00527": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "lex-00531": {
+  "agrees": false,
+  "reason": "arm N read as 'A'",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": false
+   }
+  }
+ },
+ "qua-00020": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "qua-00129": {
+  "agrees": false,
+  "reason": "arm O read as 'A'",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00147": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00158": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": true
+   },
+   "S": {
+    "answer": "B",
+    "natural": true
+   }
+  }
+ },
+ "qua-00170": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": true
+   },
+   "S": {
+    "answer": "B",
+    "natural": true
+   }
+  }
+ },
+ "qua-00205": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00224": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": true
+   },
+   "S": {
+    "answer": "B",
+    "natural": true
+   }
+  }
+ },
+ "qua-00233": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00280": {
+  "agrees": false,
+  "reason": "arm O judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": false
+   }
+  }
+ },
+ "qua-00330": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": false
+   }
+  }
+ },
+ "qua-00357": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00388": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00418": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00429": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00459": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00493": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00500": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": true
+   },
+   "S": {
+    "answer": "B",
+    "natural": true
+   }
+  }
+ },
+ "qua-00502": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00589": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00666": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00702": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00706": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00723": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "qua-00726": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00752": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "qua-00804": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00835": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00916": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00917": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00929": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-00976": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-01054": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-01057": {
+  "agrees": false,
+  "reason": "arm O judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "qua-01067": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "qua-01089": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "syn-00025": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "syn-00131": {
+  "agrees": false,
+  "reason": "arm N read as 'unclear'",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "unclear",
+    "natural": true
+   }
+  }
+ },
+ "syn-00158": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "syn-00180": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "syn-00185": {
+  "agrees": false,
+  "reason": "arm N read as 'A'",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "syn-00191": {
+  "agrees": false,
+  "reason": "arm N read as 'unclear'",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "unclear",
+    "natural": true
+   }
+  }
+ },
+ "syn-00204": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "syn-00222": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": true
+   },
+   "S": {
+    "answer": "B",
+    "natural": true
+   }
+  }
+ },
+ "syn-00228": {
+  "agrees": false,
+  "reason": "arm O judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": false
+   }
+  }
+ },
+ "syn-00233": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "syn-00275": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "syn-00282": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "syn-00312": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "syn-00316": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "syn-00328": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "syn-00354": {
+  "agrees": false,
+  "reason": "arm S judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": false
+   }
+  }
+ },
+ "syn-00410": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "syn-00476": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "syn-00512": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": false
+   }
+  }
+ },
+ "syn-00525": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "syn-00642": {
+  "agrees": false,
+  "reason": "arm P judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": false
+   }
+  }
+ },
+ "syn-00687": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "syn-00739": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": true
+   },
+   "S": {
+    "answer": "B",
+    "natural": true
+   }
+  }
+ },
+ "syn-00758": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": true
+   },
+   "S": {
+    "answer": "B",
+    "natural": true
+   }
+  }
+ },
+ "syn-00777": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": true
+   },
+   "S": {
+    "answer": "B",
+    "natural": true
+   }
+  }
+ },
+ "syn-00898": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": true
+   },
+   "S": {
+    "answer": "B",
+    "natural": true
+   }
+  }
+ },
+ "syn-00905": {
+  "agrees": false,
+  "reason": "arm O read as 'unclear'",
+  "verdicts": {
+   "O": {
+    "answer": "unclear",
+    "natural": true
+   }
+  }
+ },
+ "syn-00952": {
+  "agrees": false,
+  "reason": "arm N read as 'unclear'",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "unclear",
+    "natural": false
+   }
+  }
+ },
+ "syn-00989": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ },
+ "syn-01006": {
+  "agrees": false,
+  "reason": "arm O judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": false
+   }
+  }
+ },
+ "syn-01049": {
+  "agrees": false,
+  "reason": "arm S judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": false
+   }
+  }
+ },
+ "syn-01063": {
+  "agrees": false,
+  "reason": "arm N judged unnatural",
+  "verdicts": {
+   "O": {
+    "answer": "B",
+    "natural": true
+   },
+   "P": {
+    "answer": "B",
+    "natural": true
+   },
+   "N": {
+    "answer": "A",
+    "natural": false
+   }
+  }
+ },
+ "syn-01081": {
+  "agrees": true,
+  "reason": null,
+  "verdicts": {
+   "O": {
+    "answer": "A",
+    "natural": true
+   },
+   "P": {
+    "answer": "A",
+    "natural": true
+   },
+   "N": {
+    "answer": "B",
+    "natural": true
+   },
+   "S": {
+    "answer": "A",
+    "natural": true
+   }
+  }
+ }
+}

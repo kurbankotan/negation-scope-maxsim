@@ -1,0 +1,1 @@
+{"encoder": "E1-minilm", "condition": "signed_max_gate", "seed": 202, "selected_epoch": 9, "epochs_run": 14, "dev_acc": 72.14285714285714, "train_time_s": 75.6, "tests": ["v1test", "fresh", "perm"]}

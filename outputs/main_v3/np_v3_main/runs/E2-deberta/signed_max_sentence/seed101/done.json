@@ -1,0 +1,1 @@
+{"encoder": "E2-deberta", "condition": "signed_max_sentence", "seed": 101, "selected_epoch": 21, "epochs_run": 26, "dev_acc": 68.57142857142857, "train_time_s": 136.7, "tests": ["v1test", "fresh", "perm"]}

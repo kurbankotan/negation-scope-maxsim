@@ -1,0 +1,1 @@
+{"encoder": "E3-glove", "condition": "lse", "seed": 101, "selected_epoch": 2, "epochs_run": 7, "dev_acc": 60.23809523809524, "train_time_s": 34.6, "tests": ["v1test", "fresh", "perm"]}

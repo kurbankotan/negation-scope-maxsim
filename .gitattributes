@@ -1,0 +1,3 @@
+# keep every file byte-identical to the release (no line-ending conversion): the SHA-256 manifests
+# (FILE_MANIFEST_SHA256.csv) and the frozen manifest hash cover these files
+* -text

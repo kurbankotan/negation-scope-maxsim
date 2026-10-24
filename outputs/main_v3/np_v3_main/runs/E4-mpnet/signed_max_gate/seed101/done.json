@@ -1,0 +1,1 @@
+{"encoder": "E4-mpnet", "condition": "signed_max_gate", "seed": 101, "selected_epoch": 6, "epochs_run": 11, "dev_acc": 66.19047619047619, "train_time_s": 58.5, "tests": ["v1test", "fresh", "perm"]}

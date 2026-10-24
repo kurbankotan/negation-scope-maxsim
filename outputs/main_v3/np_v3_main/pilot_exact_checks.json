@@ -1,0 +1,150 @@
+{
+ "E0-hash": {
+  "dev_items": 420,
+  "dev_insertion_pairs": 84,
+  "permutation": {
+   "max": {
+    "n_scores": 4200,
+    "violations": 0,
+    "largest_abs_diff": 0.0
+   },
+   "mean": {
+    "n_scores": 4200,
+    "violations": 0,
+    "largest_abs_diff": 2.0816681711721685e-17
+   },
+   "lse": {
+    "n_scores": 4200,
+    "violations": 0,
+    "largest_abs_diff": 1.3322676295501878e-15
+   },
+   "signed_max_gate": {
+    "n_scores": 4200,
+    "violations": 0,
+    "largest_abs_diff": 0.0
+   },
+   "m1": {
+    "n_scores": 4200,
+    "violations": 0,
+    "largest_abs_diff": 0.0
+   },
+   "head_only": {
+    "n_scores": 4200,
+    "violations": 0,
+    "largest_abs_diff": 0.0
+   }
+  },
+  "insertion": {
+   "max": {
+    "pairs": 84,
+    "n_scores": 840,
+    "violations": 0,
+    "largest_decrease": 0.0,
+    "expected_zero": true
+   },
+   "lse": {
+    "pairs": 84,
+    "n_scores": 840,
+    "violations": 0,
+    "largest_decrease": -0.03499523234636914,
+    "expected_zero": true
+   },
+   "m1": {
+    "pairs": 84,
+    "n_scores": 840,
+    "violations": 0,
+    "largest_decrease": 0.0,
+    "expected_zero": true
+   },
+   "mean": {
+    "pairs": 84,
+    "n_scores": 840,
+    "violations": 426,
+    "largest_decrease": 0.0007699835856449511,
+    "expected_zero": false
+   },
+   "signed_max": {
+    "pairs": 84,
+    "n_scores": 840,
+    "violations": 811,
+    "largest_decrease": 0.05759843078247143,
+    "expected_zero": false
+   }
+  },
+  "passed": true
+ },
+ "E3-glove": {
+  "dev_items": 420,
+  "dev_insertion_pairs": 84,
+  "permutation": {
+   "max": {
+    "n_scores": 4200,
+    "violations": 0,
+    "largest_abs_diff": 0.0
+   },
+   "mean": {
+    "n_scores": 4200,
+    "violations": 0,
+    "largest_abs_diff": 2.0816681711721685e-17
+   },
+   "lse": {
+    "n_scores": 4200,
+    "violations": 0,
+    "largest_abs_diff": 8.881784197001252e-16
+   },
+   "signed_max_gate": {
+    "n_scores": 4200,
+    "violations": 0,
+    "largest_abs_diff": 0.0
+   },
+   "m1": {
+    "n_scores": 4200,
+    "violations": 0,
+    "largest_abs_diff": 0.0
+   },
+   "head_only": {
+    "n_scores": 4200,
+    "violations": 0,
+    "largest_abs_diff": 0.0
+   }
+  },
+  "insertion": {
+   "max": {
+    "pairs": 84,
+    "n_scores": 840,
+    "violations": 0,
+    "largest_decrease": 0.0,
+    "expected_zero": true
+   },
+   "lse": {
+    "pairs": 84,
+    "n_scores": 840,
+    "violations": 0,
+    "largest_decrease": -0.03515194783731257,
+    "expected_zero": true
+   },
+   "m1": {
+    "pairs": 84,
+    "n_scores": 840,
+    "violations": 0,
+    "largest_decrease": 0.0,
+    "expected_zero": true
+   },
+   "mean": {
+    "pairs": 84,
+    "n_scores": 840,
+    "violations": 234,
+    "largest_decrease": 0.0005953990907828161,
+    "expected_zero": false
+   },
+   "signed_max": {
+    "pairs": 84,
+    "n_scores": 840,
+    "violations": 840,
+    "largest_decrease": 0.05593523912279045,
+    "expected_zero": false
+   }
+  },
+  "passed": true
+ }
+}

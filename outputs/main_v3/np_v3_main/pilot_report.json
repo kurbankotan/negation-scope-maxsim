@@ -1,0 +1,17 @@
+{
+ "exact_checks_passed": {
+  "E0-hash": true,
+  "E3-glove": true
+ },
+ "c1_check_dev_acc_OP": 96.19047619047619,
+ "learning_rates": {
+  "E1-minilm": 0.003,
+  "E2-deberta": 0.003,
+  "E4-mpnet": 0.003,
+  "E5-bge": 0.001,
+  "E6-colbertv2": 0.001,
+  "E0-hash": 0.003,
+  "E3-glove": 0.003
+ },
+ "stop_conditions_met": []
+}

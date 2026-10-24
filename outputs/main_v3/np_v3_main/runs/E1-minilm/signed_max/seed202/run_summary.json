@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max",
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 202,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 384,
+  "parameter_counts": {
+    "scorer": 475778,
+    "aggregator": 1,
+    "total": 475779
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6273903991877328,
+      "train_acc": 61.938534278959814,
+      "dev_loss": 0.6689040138607933,
+      "dev_acc": 56.19047619047619,
+      "lambda": 0.5246784090995789,
+      "beta": 1.0128092765808105,
+      "tau": null,
+      "elapsed_s": 5.1
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.512201943577886,
+      "train_acc": 73.04964539007092,
+      "dev_loss": 0.648878938811166,
+      "dev_acc": 64.52380952380952,
+      "lambda": 0.5357586741447449,
+      "beta": 1.0455399751663208,
+      "tau": null,
+      "elapsed_s": 10.2
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.40349708811047513,
+      "train_acc": 79.90543735224587,
+      "dev_loss": 0.7110240686507452,
+      "dev_acc": 64.76190476190476,
+      "lambda": 0.5566295981407166,
+      "beta": 1.0472556352615356,
+      "tau": null,
+      "elapsed_s": 15.4
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.2963045715369795,
+      "train_acc": 87.35224586288416,
+      "dev_loss": 1.184847446850368,
+      "dev_acc": 62.857142857142854,
+      "lambda": 0.5798900723457336,
+      "beta": 1.049377679824829,
+      "tau": null,
+      "elapsed_s": 20.7
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.227616308534399,
+      "train_acc": 91.13475177304964,
+      "dev_loss": 1.1244378646214803,
+      "dev_acc": 61.904761904761905,
+      "lambda": 0.60891193151474,
+      "beta": 1.0646963119506836,
+      "tau": null,
+      "elapsed_s": 26.1
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.1719268690134194,
+      "train_acc": 93.5579196217494,
+      "dev_loss": 1.4599459528923036,
+      "dev_acc": 66.42857142857143,
+      "lambda": 0.6441500186920166,
+      "beta": 1.071230173110962,
+      "tau": null,
+      "elapsed_s": 31.4
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.14175467633468322,
+      "train_acc": 94.73995271867612,
+      "dev_loss": 1.6423831922667367,
+      "dev_acc": 65.95238095238095,
+      "lambda": 0.6751104593276978,
+      "beta": 1.078145146369934,
+      "tau": null,
+      "elapsed_s": 36.6
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.1239582455318518,
+      "train_acc": 94.68085106382979,
+      "dev_loss": 1.6761237530481248,
+      "dev_acc": 62.857142857142854,
+      "lambda": 0.6981862187385559,
+      "beta": 1.0886931419372559,
+      "tau": null,
+      "elapsed_s": 42.5
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.09383932597842728,
+      "train_acc": 96.27659574468085,
+      "dev_loss": 2.032682776451111,
+      "dev_acc": 64.52380952380952,
+      "lambda": 0.719029426574707,
+      "beta": 1.0945749282836914,
+      "tau": null,
+      "elapsed_s": 47.6
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.08750336647614942,
+      "train_acc": 96.74940898345153,
+      "dev_loss": 1.926018648488181,
+      "dev_acc": 64.76190476190476,
+      "lambda": 0.7340565919876099,
+      "beta": 1.0950427055358887,
+      "tau": null,
+      "elapsed_s": 53.0
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.07197216918568697,
+      "train_acc": 97.22222222222223,
+      "dev_loss": 2.046044381459554,
+      "dev_acc": 61.904761904761905,
+      "lambda": 0.749016523361206,
+      "beta": 1.104448914527893,
+      "tau": null,
+      "elapsed_s": 58.5
+    }
+  ],
+  "train_time_s": 59.2,
+  "dev": {
+    "accuracy": 66.42857142857143,
+    "loss": 1.4599459528923036
+  },
+  "condition": "signed_max",
+  "encoder": "E1-minilm"
+}

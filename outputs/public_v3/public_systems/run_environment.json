@@ -1,0 +1,431 @@
+[
+ {
+  "timestamp_utc": "2026-10-21T18:42:01.189131+00:00",
+  "python": "3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "torch": "2.11.0+cu130",
+  "cuda_available": true,
+  "cuda_version": "13.0",
+  "gpu": "NVIDIA L4, 23034 MiB, 580.82.07",
+  "packages": {
+   "transformers": "5.20.1",
+   "tokenizers": "0.23.3",
+   "spacy": "3.8.16",
+   "wordfreq": null,
+   "scipy": "1.16.3",
+   "numpy": "2.1.3",
+   "datasets": "4.8.5",
+   "huggingface_hub": "1.33.0"
+  },
+  "run_name": "public_systems",
+  "cacsa2_version": "0.3.3",
+  "package_zip_sha256": "a91119b3f284aa51e0d111ea1d85a394882d0f6bd036b5f27d103f80f8d5e368",
+  "gpu_gb": 22.0,
+  "packages_extra": {
+   "sentence-transformers": "5.7.0",
+   "torch": "2.11.0+cu130",
+   "sentencepiece": "0.2.2",
+   "anthropic": null
+  },
+  "config": {
+   "nevir": {
+    "dataset": "orionweller/NevIR",
+    "split": "test",
+    "revision": "6263585072ce3b435ed09658613553fbf4e74184"
+   },
+   "n_boot": 10000,
+   "systems": [
+    {
+     "name": "colbertv2",
+     "type": "colbert_checkpoint",
+     "repo": "colbert-ir/colbertv2.0",
+     "revision": "c1e84128e85ef755c096a95bdb06b47793b13acf",
+     "label": "ColBERTv2 (native scoring)",
+     "batch": 32
+    },
+    {
+     "name": "answerai-colbert-small-v1",
+     "type": "colbert_checkpoint",
+     "repo": "answerdotai/answerai-colbert-small-v1",
+     "label": "answerai-colbert-small-v1",
+     "batch": 32
+    },
+    {
+     "name": "gte-moderncolbert-v1",
+     "type": "st_colbert",
+     "repo": "lightonai/GTE-ModernColBERT-v1",
+     "label": "GTE-ModernColBERT-v1 (PyLate format)",
+     "batch": 32
+    },
+    {
+     "name": "bge-m3",
+     "type": "bgem3",
+     "repo": "BAAI/bge-m3",
+     "label": "bge-m3 (dense, sparse and colbert heads)",
+     "batch": 16,
+     "purge": true
+    },
+    {
+     "name": "bge-base-en-v1.5",
+     "type": "dense",
+     "repo": "BAAI/bge-base-en-v1.5",
+     "revision": "a5beb1e3e68b9ab74eb54cfd186867f64f240e1a",
+     "query_prefix": "Represent this sentence for searching relevant passages: ",
+     "label": "bge-base-en-v1.5",
+     "batch": 64
+    },
+    {
+     "name": "e5-base-v2",
+     "type": "dense",
+     "repo": "intfloat/e5-base-v2",
+     "query_prefix": "query: ",
+     "doc_prefix": "passage: ",
+     "label": "e5-base-v2",
+     "batch": 64
+    },
+    {
+     "name": "all-mpnet-base-v2",
+     "type": "dense",
+     "repo": "sentence-transformers/all-mpnet-base-v2",
+     "revision": "e8c3b32edf5434bc2275fc9bab85f82640a19130",
+     "label": "all-mpnet-base-v2",
+     "batch": 64
+    },
+    {
+     "name": "gte-modernbert-base",
+     "type": "dense",
+     "repo": "Alibaba-NLP/gte-modernbert-base",
+     "label": "gte-modernbert-base",
+     "batch": 64
+    },
+    {
+     "name": "splade-cocondenser-ensembledistil",
+     "type": "splade",
+     "repo": "naver/splade-cocondenser-ensembledistil",
+     "label": "SPLADE (cocondenser-ensembledistil)",
+     "batch": 32
+    },
+    {
+     "name": "ms-marco-minilm-l6-v2",
+     "type": "cross_encoder",
+     "repo": "cross-encoder/ms-marco-MiniLM-L6-v2",
+     "alt_repos": [
+      "cross-encoder/ms-marco-MiniLM-L-6-v2"
+     ],
+     "label": "ms-marco-MiniLM-L6-v2",
+     "batch": 64
+    },
+    {
+     "name": "bge-reranker-base",
+     "type": "cross_encoder",
+     "repo": "BAAI/bge-reranker-base",
+     "label": "bge-reranker-base",
+     "batch": 32
+    },
+    {
+     "name": "bge-reranker-v2-m3",
+     "type": "cross_encoder",
+     "repo": "BAAI/bge-reranker-v2-m3",
+     "label": "bge-reranker-v2-m3",
+     "batch": 32,
+     "purge": true
+    },
+    {
+     "name": "mxbai-rerank-base-v1",
+     "type": "cross_encoder",
+     "repo": "mixedbread-ai/mxbai-rerank-base-v1",
+     "label": "mxbai-rerank-base-v1",
+     "batch": 32
+    },
+    {
+     "name": "monot5-base",
+     "type": "monot5",
+     "repo": "castorini/monot5-base-msmarco-10k",
+     "label": "monoT5-base",
+     "batch": 32
+    },
+    {
+     "name": "monot5-3b",
+     "type": "monot5",
+     "repo": "castorini/monot5-3b-msmarco-10k",
+     "label": "monoT5-3B",
+     "batch": 8,
+     "purge": true,
+     "large": true
+    },
+    {
+     "name": "phi-4-mini-instruct",
+     "type": "llm_pointwise",
+     "repo": "microsoft/Phi-4-mini-instruct",
+     "label": "Phi-4-mini-instruct (3.8B)",
+     "batch": 8,
+     "purge": true,
+     "large": true,
+     "trust_remote_code_fallback": true
+    },
+    {
+     "name": "olmo-2-7b-instruct",
+     "type": "llm_pointwise",
+     "repo": "allenai/OLMo-2-1124-7B-Instruct",
+     "label": "OLMo-2-1124-7B-Instruct",
+     "batch": 8,
+     "purge": true,
+     "large": true
+    },
+    {
+     "name": "qwen3-8b",
+     "type": "llm_pointwise",
+     "repo": "Qwen/Qwen3-8B",
+     "chat_kwargs": {
+      "enable_thinking": false
+     },
+     "label": "Qwen3-8B (thinking off)",
+     "batch": 8,
+     "purge": true,
+     "large": true,
+     "note": "same developer as verifier 2 (Qwen2.5-7B-Instruct); later generation"
+    },
+    {
+     "name": "llama-3.1-8b-instruct",
+     "type": "llm_pointwise",
+     "repo": "meta-llama/Llama-3.1-8B-Instruct",
+     "label": "Llama-3.1-8B-Instruct",
+     "batch": 8,
+     "purge": true,
+     "large": true,
+     "gated": true
+    }
+   ],
+   "skip": [],
+   "only": null,
+   "force_large": false,
+   "run_api_nevir": false,
+   "api": {
+    "model": "claude-haiku-4-5-20251001",
+    "price": [
+     1.0,
+     5.0
+    ],
+    "cap_usd": 4.0
+   }
+  }
+ },
+ {
+  "timestamp_utc": "2026-10-22T03:43:33.593488+00:00",
+  "python": "3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "torch": "2.11.0+cu130",
+  "cuda_available": true,
+  "cuda_version": "13.0",
+  "gpu": "NVIDIA L4, 23034 MiB, 580.82.07",
+  "packages": {
+   "transformers": "5.20.1",
+   "tokenizers": "0.23.3",
+   "spacy": "3.8.16",
+   "wordfreq": null,
+   "scipy": "1.16.3",
+   "numpy": "2.1.3",
+   "datasets": "4.8.5",
+   "huggingface_hub": "1.33.0"
+  },
+  "run_name": "public_systems",
+  "cacsa2_version": "0.3.4",
+  "package_zip_sha256": "cc11d3e8b1b0fe317ed5cbf1155c552b7ac262ebf3e4d793a19f3e2dce9b80df",
+  "gpu_gb": 22.0,
+  "packages_extra": {
+   "sentence-transformers": "5.7.0",
+   "torch": "2.11.0+cu130",
+   "sentencepiece": "0.2.2",
+   "anthropic": null
+  },
+  "config": {
+   "nevir": {
+    "dataset": "orionweller/NevIR",
+    "split": "test",
+    "revision": "6263585072ce3b435ed09658613553fbf4e74184"
+   },
+   "n_boot": 10000,
+   "systems": [
+    {
+     "name": "colbertv2",
+     "type": "colbert_checkpoint",
+     "repo": "colbert-ir/colbertv2.0",
+     "revision": "c1e84128e85ef755c096a95bdb06b47793b13acf",
+     "label": "ColBERTv2 (native scoring)",
+     "batch": 32
+    },
+    {
+     "name": "answerai-colbert-small-v1",
+     "type": "colbert_checkpoint",
+     "repo": "answerdotai/answerai-colbert-small-v1",
+     "label": "answerai-colbert-small-v1",
+     "batch": 32
+    },
+    {
+     "name": "gte-moderncolbert-v1",
+     "type": "st_colbert",
+     "repo": "lightonai/GTE-ModernColBERT-v1",
+     "label": "GTE-ModernColBERT-v1 (PyLate format)",
+     "batch": 32
+    },
+    {
+     "name": "bge-m3",
+     "type": "bgem3",
+     "repo": "BAAI/bge-m3",
+     "label": "bge-m3 (dense, sparse and colbert heads)",
+     "batch": 16,
+     "purge": true
+    },
+    {
+     "name": "bge-base-en-v1.5",
+     "type": "dense",
+     "repo": "BAAI/bge-base-en-v1.5",
+     "revision": "a5beb1e3e68b9ab74eb54cfd186867f64f240e1a",
+     "query_prefix": "Represent this sentence for searching relevant passages: ",
+     "label": "bge-base-en-v1.5",
+     "batch": 64
+    },
+    {
+     "name": "e5-base-v2",
+     "type": "dense",
+     "repo": "intfloat/e5-base-v2",
+     "query_prefix": "query: ",
+     "doc_prefix": "passage: ",
+     "label": "e5-base-v2",
+     "batch": 64
+    },
+    {
+     "name": "all-mpnet-base-v2",
+     "type": "dense",
+     "repo": "sentence-transformers/all-mpnet-base-v2",
+     "revision": "e8c3b32edf5434bc2275fc9bab85f82640a19130",
+     "label": "all-mpnet-base-v2",
+     "batch": 64
+    },
+    {
+     "name": "gte-modernbert-base",
+     "type": "dense",
+     "repo": "Alibaba-NLP/gte-modernbert-base",
+     "label": "gte-modernbert-base",
+     "batch": 64
+    },
+    {
+     "name": "splade-cocondenser-ensembledistil",
+     "type": "splade",
+     "repo": "naver/splade-cocondenser-ensembledistil",
+     "label": "SPLADE (cocondenser-ensembledistil)",
+     "batch": 32
+    },
+    {
+     "name": "ms-marco-minilm-l6-v2",
+     "type": "cross_encoder",
+     "repo": "cross-encoder/ms-marco-MiniLM-L6-v2",
+     "alt_repos": [
+      "cross-encoder/ms-marco-MiniLM-L-6-v2"
+     ],
+     "label": "ms-marco-MiniLM-L6-v2",
+     "batch": 64
+    },
+    {
+     "name": "bge-reranker-base",
+     "type": "cross_encoder",
+     "repo": "BAAI/bge-reranker-base",
+     "label": "bge-reranker-base",
+     "batch": 32
+    },
+    {
+     "name": "bge-reranker-v2-m3",
+     "type": "cross_encoder",
+     "repo": "BAAI/bge-reranker-v2-m3",
+     "label": "bge-reranker-v2-m3",
+     "batch": 32,
+     "purge": true
+    },
+    {
+     "name": "mxbai-rerank-base-v1",
+     "type": "cross_encoder",
+     "repo": "mixedbread-ai/mxbai-rerank-base-v1",
+     "label": "mxbai-rerank-base-v1",
+     "batch": 32
+    },
+    {
+     "name": "monot5-base",
+     "type": "monot5",
+     "repo": "castorini/monot5-base-msmarco-10k",
+     "label": "monoT5-base",
+     "batch": 32
+    },
+    {
+     "name": "monot5-3b",
+     "type": "monot5",
+     "repo": "castorini/monot5-3b-msmarco-10k",
+     "label": "monoT5-3B",
+     "batch": 8,
+     "purge": true,
+     "large": true
+    },
+    {
+     "name": "phi-4-mini-instruct",
+     "type": "llm_pointwise",
+     "repo": "microsoft/Phi-4-mini-instruct",
+     "label": "Phi-4-mini-instruct (3.8B)",
+     "batch": 8,
+     "purge": true,
+     "large": true,
+     "trust_remote_code_fallback": true
+    },
+    {
+     "name": "olmo-2-7b-instruct",
+     "type": "llm_pointwise",
+     "repo": "allenai/OLMo-2-1124-7B-Instruct",
+     "label": "OLMo-2-1124-7B-Instruct",
+     "batch": 8,
+     "purge": true,
+     "large": true
+    },
+    {
+     "name": "qwen3-8b",
+     "type": "llm_pointwise",
+     "repo": "Qwen/Qwen3-8B",
+     "chat_kwargs": {
+      "enable_thinking": false
+     },
+     "label": "Qwen3-8B (thinking off)",
+     "batch": 8,
+     "purge": true,
+     "large": true,
+     "note": "same developer as verifier 2 (Qwen2.5-7B-Instruct); later generation"
+    },
+    {
+     "name": "llama-3.1-8b-instruct",
+     "type": "llm_pointwise",
+     "repo": "meta-llama/Llama-3.1-8B-Instruct",
+     "label": "Llama-3.1-8B-Instruct",
+     "batch": 8,
+     "purge": true,
+     "large": true,
+     "gated": true
+    }
+   ],
+   "skip": [],
+   "only": null,
+   "rescore": [
+    "monot5-base",
+    "monot5-3b",
+    "phi-4-mini-instruct",
+    "olmo-2-7b-instruct",
+    "qwen3-8b"
+   ],
+   "force_large": false,
+   "run_api_nevir": false,
+   "api": {
+    "model": "claude-haiku-4-5-20251001",
+    "price": [
+     1.0,
+     5.0
+    ],
+    "cap_usd": 4.0
+   }
+  }
+ }
+]

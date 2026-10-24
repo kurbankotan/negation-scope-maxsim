@@ -1,0 +1,1 @@
+{"encoder": "E6-colbertv2", "condition": "m0_native", "seed": 0, "tests": ["v1test", "fresh", "perm"]}

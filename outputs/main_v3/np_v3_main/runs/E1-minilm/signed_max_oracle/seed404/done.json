@@ -1,0 +1,1 @@
+{"encoder": "E1-minilm", "condition": "signed_max_oracle", "seed": 404, "selected_epoch": 2, "epochs_run": 7, "dev_acc": 72.61904761904762, "train_time_s": 47.5, "tests": ["v1test", "fresh", "perm"]}

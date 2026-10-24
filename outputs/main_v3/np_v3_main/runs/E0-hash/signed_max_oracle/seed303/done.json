@@ -1,0 +1,1 @@
+{"encoder": "E0-hash", "condition": "signed_max_oracle", "seed": 303, "selected_epoch": 3, "epochs_run": 8, "dev_acc": 69.52380952380952, "train_time_s": 47.6, "tests": ["v1test", "fresh", "perm"]}

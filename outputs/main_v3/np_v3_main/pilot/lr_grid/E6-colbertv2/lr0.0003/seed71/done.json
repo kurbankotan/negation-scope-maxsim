@@ -1,0 +1,1 @@
+{"encoder": "E6-colbertv2", "condition": "max", "seed": 71, "selected_epoch": 1, "epochs_run": 6, "dev_acc": 59.285714285714285, "train_time_s": 27.9, "tests": []}

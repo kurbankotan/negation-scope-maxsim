@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max_gate",
+    "lr": 0.001,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 42,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 768,
+  "parameter_counts": {
+    "scorer": 918146,
+    "aggregator": 770,
+    "total": 918916
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6796567365351016,
+      "train_acc": 60.047281323877066,
+      "dev_loss": 0.6555846021288917,
+      "dev_acc": 61.19047619047619,
+      "lambda": 0.5087525844573975,
+      "beta": 0.9748963713645935,
+      "tau": null,
+      "elapsed_s": 5.6
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.6408695233347286,
+      "train_acc": 64.53900709219859,
+      "dev_loss": 0.6411599306833177,
+      "dev_acc": 59.04761904761905,
+      "lambda": 0.5089055895805359,
+      "beta": 0.9763839840888977,
+      "tau": null,
+      "elapsed_s": 11.0
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.591912581213259,
+      "train_acc": 66.903073286052,
+      "dev_loss": 0.6516301507041568,
+      "dev_acc": 60.714285714285715,
+      "lambda": 0.5236719250679016,
+      "beta": 0.9605268239974976,
+      "tau": null,
+      "elapsed_s": 16.6
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.5654890954353567,
+      "train_acc": 68.97163120567376,
+      "dev_loss": 0.6158963248843239,
+      "dev_acc": 66.66666666666667,
+      "lambda": 0.5318407416343689,
+      "beta": 0.9628633856773376,
+      "tau": null,
+      "elapsed_s": 22.3
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.5062080566764723,
+      "train_acc": 72.34042553191489,
+      "dev_loss": 0.6365481572491782,
+      "dev_acc": 65.0,
+      "lambda": 0.5480352640151978,
+      "beta": 0.9433198571205139,
+      "tau": null,
+      "elapsed_s": 28.7
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.4599550205412768,
+      "train_acc": 77.36406619385343,
+      "dev_loss": 0.6067839403947194,
+      "dev_acc": 67.61904761904762,
+      "lambda": 0.571002185344696,
+      "beta": 0.9287772178649902,
+      "tau": null,
+      "elapsed_s": 34.5
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.4106787677775038,
+      "train_acc": 80.73286052009456,
+      "dev_loss": 0.6787852397986821,
+      "dev_acc": 67.14285714285714,
+      "lambda": 0.597266435623169,
+      "beta": 0.9096450805664062,
+      "tau": null,
+      "elapsed_s": 39.7
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.3999145588271725,
+      "train_acc": 81.38297872340425,
+      "dev_loss": 0.64595947265625,
+      "dev_acc": 65.47619047619048,
+      "lambda": 0.6192906498908997,
+      "beta": 0.8983936309814453,
+      "tau": null,
+      "elapsed_s": 45.3
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.33973886132522113,
+      "train_acc": 84.57446808510639,
+      "dev_loss": 0.7922144835903531,
+      "dev_acc": 64.76190476190476,
+      "lambda": 0.642784059047699,
+      "beta": 0.8843286633491516,
+      "tau": null,
+      "elapsed_s": 50.6
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.3219010268401874,
+      "train_acc": 86.11111111111111,
+      "dev_loss": 0.7575630432083493,
+      "dev_acc": 66.9047619047619,
+      "lambda": 0.6625596284866333,
+      "beta": 0.874179482460022,
+      "tau": null,
+      "elapsed_s": 56.0
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.2980558111312542,
+      "train_acc": 87.64775413711584,
+      "dev_loss": 0.7248062684422447,
+      "dev_acc": 65.47619047619048,
+      "lambda": 0.6801414489746094,
+      "beta": 0.8653597235679626,
+      "tau": null,
+      "elapsed_s": 61.6
+    }
+  ],
+  "train_time_s": 62.2,
+  "dev": {
+    "accuracy": 67.61904761904762,
+    "loss": 0.6067839403947194
+  },
+  "condition": "signed_max_gate",
+  "encoder": "E5-bge"
+}

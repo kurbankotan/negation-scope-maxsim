@@ -1,0 +1,459 @@
+{
+ "computed_utc": "2026-10-07T15:58:58.389046+00:00",
+ "cacsa2_version": "0.3.2",
+ "runs_rescored": 202,
+ "item_decision_disagreements_gpu_vs_f64": {
+  "total": 1282,
+  "items_per_run": 1096,
+  "by_run_nonzero": {
+   "E0-hash/max/7595": 4,
+   "E0-hash/max/71": 2,
+   "E0-hash/max/202": 10,
+   "E0-hash/max/42": 1,
+   "E0-hash/max/505": 3,
+   "E0-hash/max/13": 1,
+   "E0-hash/max/1676": 4,
+   "E0-hash/max/404": 8,
+   "E0-hash/mean/42": 1,
+   "E0-hash/mean/13": 4,
+   "E0-hash/mean/1676": 2,
+   "E0-hash/mean/505": 1,
+   "E0-hash/mean/7595": 3,
+   "E0-hash/mean/303": 3,
+   "E0-hash/mean/71": 4,
+   "E0-hash/lse/7595": 2,
+   "E0-hash/lse/202": 2,
+   "E0-hash/lse/101": 1,
+   "E0-hash/lse/1676": 5,
+   "E0-hash/signed_max/13": 11,
+   "E0-hash/signed_max/1676": 3,
+   "E0-hash/signed_max/42": 5,
+   "E0-hash/signed_max/404": 12,
+   "E0-hash/signed_max/101": 7,
+   "E0-hash/signed_max/505": 11,
+   "E0-hash/signed_max/7595": 25,
+   "E0-hash/signed_max/303": 4,
+   "E0-hash/signed_max/71": 5,
+   "E0-hash/signed_max/202": 7,
+   "E0-hash/signed_max_gate/71": 2,
+   "E0-hash/signed_max_gate/202": 5,
+   "E0-hash/signed_max_gate/303": 1,
+   "E0-hash/signed_max_gate/13": 2,
+   "E0-hash/signed_max_gate/1676": 5,
+   "E0-hash/signed_max_gate/404": 6,
+   "E0-hash/signed_max_sentence/13": 12,
+   "E0-hash/signed_max_sentence/1676": 2,
+   "E0-hash/signed_max_sentence/42": 11,
+   "E0-hash/signed_max_sentence/404": 16,
+   "E0-hash/signed_max_sentence/101": 39,
+   "E0-hash/signed_max_sentence/505": 10,
+   "E0-hash/signed_max_sentence/7595": 7,
+   "E0-hash/signed_max_sentence/303": 7,
+   "E0-hash/signed_max_sentence/71": 8,
+   "E0-hash/signed_max_sentence/202": 6,
+   "E0-hash/signed_max_oracle/71": 5,
+   "E0-hash/signed_max_oracle/202": 3,
+   "E0-hash/signed_max_oracle/7595": 5,
+   "E0-hash/signed_max_oracle/303": 7,
+   "E0-hash/signed_max_oracle/42": 7,
+   "E0-hash/signed_max_oracle/101": 4,
+   "E0-hash/signed_max_oracle/505": 9,
+   "E0-hash/signed_max_oracle/13": 4,
+   "E0-hash/signed_max_oracle/1676": 7,
+   "E0-hash/signed_max_oracle/404": 1,
+   "E0-hash/m1/1676": 2,
+   "E0-hash/m1/404": 4,
+   "E0-hash/m1/303": 3,
+   "E0-hash/m1/71": 2,
+   "E0-hash/m1/202": 1,
+   "E0-hash/head_only/7595": 6,
+   "E0-hash/head_only/42": 4,
+   "E0-hash/head_only/303": 7,
+   "E0-hash/head_only/71": 2,
+   "E0-hash/head_only/101": 4,
+   "E0-hash/head_only/13": 5,
+   "E0-hash/head_only/505": 8,
+   "E0-hash/head_only/202": 6,
+   "E0-hash/head_only/404": 6,
+   "E0-hash/option_only/42": 4,
+   "E0-hash/option_only/404": 8,
+   "E0-hash/option_only/202": 4,
+   "E0-hash/m0/0": 209,
+   "E3-glove/max/7595": 4,
+   "E3-glove/max/303": 5,
+   "E3-glove/max/42": 7,
+   "E3-glove/max/13": 4,
+   "E3-glove/max/1676": 4,
+   "E3-glove/max/404": 1,
+   "E3-glove/mean/1676": 4,
+   "E3-glove/mean/42": 2,
+   "E3-glove/mean/202": 4,
+   "E3-glove/lse/202": 3,
+   "E3-glove/lse/42": 1,
+   "E3-glove/lse/505": 3,
+   "E3-glove/lse/13": 1,
+   "E3-glove/lse/1676": 1,
+   "E3-glove/signed_max/13": 17,
+   "E3-glove/signed_max/1676": 8,
+   "E3-glove/signed_max/404": 7,
+   "E3-glove/signed_max/42": 6,
+   "E3-glove/signed_max/101": 12,
+   "E3-glove/signed_max/505": 25,
+   "E3-glove/signed_max/7595": 5,
+   "E3-glove/signed_max/303": 8,
+   "E3-glove/signed_max/71": 2,
+   "E3-glove/signed_max/202": 11,
+   "E3-glove/signed_max_gate/7595": 5,
+   "E3-glove/signed_max_gate/303": 3,
+   "E3-glove/signed_max_gate/101": 9,
+   "E3-glove/signed_max_gate/13": 9,
+   "E3-glove/signed_max_gate/1676": 1,
+   "E3-glove/signed_max_gate/404": 5,
+   "E3-glove/signed_max_sentence/13": 12,
+   "E3-glove/signed_max_sentence/1676": 11,
+   "E3-glove/signed_max_sentence/404": 6,
+   "E3-glove/signed_max_sentence/42": 23,
+   "E3-glove/signed_max_sentence/101": 2,
+   "E3-glove/signed_max_sentence/505": 4,
+   "E3-glove/signed_max_sentence/303": 11,
+   "E3-glove/signed_max_sentence/71": 6,
+   "E3-glove/signed_max_sentence/202": 8,
+   "E3-glove/signed_max_oracle/71": 6,
+   "E3-glove/signed_max_oracle/202": 8,
+   "E3-glove/signed_max_oracle/7595": 5,
+   "E3-glove/signed_max_oracle/303": 14,
+   "E3-glove/signed_max_oracle/42": 12,
+   "E3-glove/signed_max_oracle/101": 7,
+   "E3-glove/signed_max_oracle/505": 8,
+   "E3-glove/signed_max_oracle/13": 8,
+   "E3-glove/signed_max_oracle/1676": 2,
+   "E3-glove/signed_max_oracle/404": 14,
+   "E3-glove/m1/13": 1,
+   "E3-glove/m1/7595": 2,
+   "E3-glove/m1/202": 5,
+   "E3-glove/head_only/7595": 2,
+   "E3-glove/head_only/303": 9,
+   "E3-glove/head_only/42": 13,
+   "E3-glove/head_only/101": 14,
+   "E3-glove/head_only/71": 11,
+   "E3-glove/head_only/505": 23,
+   "E3-glove/head_only/13": 9,
+   "E3-glove/head_only/202": 15,
+   "E3-glove/head_only/1676": 7,
+   "E3-glove/head_only/404": 11,
+   "E3-glove/option_only/202": 4,
+   "E3-glove/m0/0": 185
+  }
+ },
+ "seed_mean_differences": [
+  {
+   "encoder": "E0-hash",
+   "aggregator": "lse",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 3.2846715328467155,
+   "gpu": 3.211678832116788
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "m0",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 6.569343065693431,
+   "gpu": 7.664233576642336
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "m1",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 3.6496350364963503,
+   "gpu": 3.576642335766423
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "max",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 1.8978102189781023,
+   "gpu": 1.861313868613139
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "mean",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 2.956204379562044,
+   "gpu": 2.883211678832117
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max",
+   "metric": "seen.SS_bal",
+   "float64": 12.828947368421051,
+   "gpu": 12.23684210526316
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max",
+   "metric": "seen.pooled.SS",
+   "float64": 12.828947368421051,
+   "gpu": 12.236842105263161
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max",
+   "metric": "seen.first.SS",
+   "float64": 10.657894736842106,
+   "gpu": 9.73684210526316
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max",
+   "metric": "seen.second.SS",
+   "float64": 15.0,
+   "gpu": 14.73684210526316
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max",
+   "metric": "seen.pooled.joint_NS_acc",
+   "float64": 26.842105263157897,
+   "gpu": 26.907894736842103
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max",
+   "metric": "unseen.SS_bal",
+   "float64": 8.483729833196609,
+   "gpu": 8.701121137544437
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max",
+   "metric": "unseen.pooled.joint_NS_acc",
+   "float64": 18.524590163934427,
+   "gpu": 18.360655737704917
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max_gate",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 3.2481751824817513,
+   "gpu": 3.1386861313868613
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max_oracle",
+   "metric": "seen.SS_bal",
+   "float64": 32.30263157894737,
+   "gpu": 31.77631578947369
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max_oracle",
+   "metric": "seen.pooled.SS",
+   "float64": 32.30263157894737,
+   "gpu": 31.77631578947369
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max_oracle",
+   "metric": "seen.first.SS",
+   "float64": 30.263157894736842,
+   "gpu": 30.13157894736842
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max_oracle",
+   "metric": "seen.second.SS",
+   "float64": 34.3421052631579,
+   "gpu": 33.421052631578945
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max_oracle",
+   "metric": "seen.pooled.joint_NS_acc",
+   "float64": 23.88157894736842,
+   "gpu": 23.684210526315788
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max_oracle",
+   "metric": "unseen.SS_bal",
+   "float64": 31.978397593656002,
+   "gpu": 32.26825266611977
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max_oracle",
+   "metric": "unseen.pooled.joint_NS_acc",
+   "float64": 29.83606557377049,
+   "gpu": 29.91803278688525
+  },
+  {
+   "encoder": "E0-hash",
+   "aggregator": "signed_max_oracle",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 1.094890510948905,
+   "gpu": 1.0218978102189782
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "head_only",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 3.43065693430657,
+   "gpu": 3.5036496350364965
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "lse",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 1.4233576642335766,
+   "gpu": 1.4598540145985401
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "m0",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 4.744525547445256,
+   "gpu": 5.839416058394161
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "m1",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 1.5693430656934306,
+   "gpu": 1.4963503649635037
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "max",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 1.5693430656934306,
+   "gpu": 1.7518248175182483
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max",
+   "metric": "seen.SS_bal",
+   "float64": 13.026315789473685,
+   "gpu": 12.894736842105265
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max",
+   "metric": "seen.pooled.SS",
+   "float64": 13.026315789473681,
+   "gpu": 12.894736842105264
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max",
+   "metric": "seen.first.SS",
+   "float64": 14.736842105263156,
+   "gpu": 14.473684210526319
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max",
+   "metric": "seen.pooled.joint_NS_acc",
+   "float64": 30.986842105263158,
+   "gpu": 31.513157894736842
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max",
+   "metric": "unseen.SS_bal",
+   "float64": 4.938474159146842,
+   "gpu": 4.2206726825266605
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 3.0656934306569346,
+   "gpu": 3.211678832116788
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max_gate",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 1.167883211678832,
+   "gpu": 1.2408759124087592
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max_oracle",
+   "metric": "seen.SS_bal",
+   "float64": 70.0657894736842,
+   "gpu": 68.88157894736841
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max_oracle",
+   "metric": "seen.pooled.SS",
+   "float64": 70.0657894736842,
+   "gpu": 68.88157894736842
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max_oracle",
+   "metric": "seen.first.SS",
+   "float64": 70.26315789473685,
+   "gpu": 69.21052631578948
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max_oracle",
+   "metric": "seen.second.SS",
+   "float64": 69.86842105263159,
+   "gpu": 68.55263157894737
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max_oracle",
+   "metric": "seen.pooled.joint_NS_acc",
+   "float64": 45.328947368421055,
+   "gpu": 45.526315789473685
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max_oracle",
+   "metric": "unseen.SS_bal",
+   "float64": 19.548810500410173,
+   "gpu": 19.954881050041017
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max_oracle",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 0.36496350364963503,
+   "gpu": 0.4014598540145985
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max_sentence",
+   "metric": "seen.SS_bal",
+   "float64": 0.06578947368421062,
+   "gpu": 0.0
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max_sentence",
+   "metric": "seen.pooled.SS",
+   "float64": 0.06578947368421098,
+   "gpu": 0.0
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max_sentence",
+   "metric": "seen.second.SS",
+   "float64": 0.13157894736842124,
+   "gpu": 0.0
+  },
+  {
+   "encoder": "E3-glove",
+   "aggregator": "signed_max_sentence",
+   "metric": "all.pooled.flip_O_P",
+   "float64": 2.372262773722628,
+   "gpu": 2.4452554744525545
+  }
+ ],
+ "n_differences": 44
+}

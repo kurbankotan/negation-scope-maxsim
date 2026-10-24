@@ -1,0 +1,21 @@
+{
+ "colbertv2": "done",
+ "answerai-colbert-small-v1": "done",
+ "gte-moderncolbert-v1": "done",
+ "bge-m3": "done",
+ "bge-base-en-v1.5": "done",
+ "e5-base-v2": "done",
+ "all-mpnet-base-v2": "done",
+ "gte-modernbert-base": "done",
+ "splade-cocondenser-ensembledistil": "done",
+ "ms-marco-minilm-l6-v2": "done",
+ "bge-reranker-base": "done",
+ "bge-reranker-v2-m3": "done",
+ "mxbai-rerank-base-v1": "done",
+ "monot5-base": "scored in 49s (revision f15657ab3d2a)",
+ "monot5-3b": "scored in 209s (revision bc0c419a438c)",
+ "phi-4-mini-instruct": "scored in 318s (revision cfbefacb9925)",
+ "olmo-2-7b-instruct": "scored in 702s (revision 470b1fba1ae0)",
+ "qwen3-8b": "scored in 697s (revision b968826d9c46)",
+ "llama-3.1-8b-instruct": "skipped: gated checkpoint and no HF_TOKEN"
+}

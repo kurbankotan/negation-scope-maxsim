@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max_gate",
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 101,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 768,
+  "parameter_counts": {
+    "scorer": 918146,
+    "aggregator": 770,
+    "total": 918916
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.688828868082511,
+      "train_acc": 56.08747044917258,
+      "dev_loss": 0.6834304928779602,
+      "dev_acc": 57.38095238095238,
+      "lambda": 0.502512514591217,
+      "beta": 1.001101016998291,
+      "tau": null,
+      "elapsed_s": 5.1
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.6670430535120322,
+      "train_acc": 63.4160756501182,
+      "dev_loss": 0.6548992832501729,
+      "dev_acc": 60.23809523809524,
+      "lambda": 0.5051633715629578,
+      "beta": 1.012723684310913,
+      "tau": null,
+      "elapsed_s": 10.7
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.6385885588384408,
+      "train_acc": 66.19385342789599,
+      "dev_loss": 0.656970979486193,
+      "dev_acc": 59.76190476190476,
+      "lambda": 0.5342779755592346,
+      "beta": 1.0056217908859253,
+      "tau": null,
+      "elapsed_s": 15.9
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.5955780331688288,
+      "train_acc": 68.2033096926714,
+      "dev_loss": 0.6428547558330354,
+      "dev_acc": 64.04761904761905,
+      "lambda": 0.5903681516647339,
+      "beta": 0.9651588201522827,
+      "tau": null,
+      "elapsed_s": 21.4
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.5244117436961361,
+      "train_acc": 75.0,
+      "dev_loss": 0.5963974450315748,
+      "dev_acc": 65.0,
+      "lambda": 0.6493979692459106,
+      "beta": 0.9501062631607056,
+      "tau": null,
+      "elapsed_s": 26.7
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.4262610237085509,
+      "train_acc": 81.32387706855792,
+      "dev_loss": 0.6336359583196186,
+      "dev_acc": 66.19047619047619,
+      "lambda": 0.6918249726295471,
+      "beta": 0.9486819505691528,
+      "tau": null,
+      "elapsed_s": 31.7
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.33470734756607257,
+      "train_acc": 85.63829787234043,
+      "dev_loss": 0.7319134786015465,
+      "dev_acc": 64.76190476190476,
+      "lambda": 0.7258452773094177,
+      "beta": 0.9660847187042236,
+      "tau": null,
+      "elapsed_s": 37.1
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.2680491933656359,
+      "train_acc": 88.4160756501182,
+      "dev_loss": 0.9647488473426729,
+      "dev_acc": 65.71428571428571,
+      "lambda": 0.7519824504852295,
+      "beta": 0.9858159422874451,
+      "tau": null,
+      "elapsed_s": 42.4
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.22087890917245942,
+      "train_acc": 91.07565011820331,
+      "dev_loss": 0.8816443571022579,
+      "dev_acc": 62.857142857142854,
+      "lambda": 0.7698653936386108,
+      "beta": 1.0066951513290405,
+      "tau": null,
+      "elapsed_s": 47.6
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.1798907543926656,
+      "train_acc": 92.73049645390071,
+      "dev_loss": 0.9861535427116213,
+      "dev_acc": 63.80952380952381,
+      "lambda": 0.7822076678276062,
+      "beta": 1.0269269943237305,
+      "tau": null,
+      "elapsed_s": 52.9
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.15570360679293918,
+      "train_acc": 93.14420803782505,
+      "dev_loss": 1.0491828651655288,
+      "dev_acc": 63.57142857142857,
+      "lambda": 0.7926779389381409,
+      "beta": 1.036207914352417,
+      "tau": null,
+      "elapsed_s": 57.9
+    }
+  ],
+  "train_time_s": 58.5,
+  "dev": {
+    "accuracy": 66.19047619047619,
+    "loss": 0.6336359583196186
+  },
+  "condition": "signed_max_gate",
+  "encoder": "E4-mpnet"
+}

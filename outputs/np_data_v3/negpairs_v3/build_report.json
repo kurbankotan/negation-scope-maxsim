@@ -1,0 +1,419 @@
+{
+ "built_utc": "2026-10-05T19:36:41.624483+00:00",
+ "cacsa2_version": "0.3.0",
+ "package_zip_sha256": "d011ccca2c9911dcf0160a09b9f37aacae1894ab5f10e8c4b28a5577d4e146df",
+ "manifest": {
+  "file": "CACSA_manifest_v3_0.md",
+  "sha256": "57f834c56455cb7cd6b2c997f3599a86b2b7dbf68213dea8986ef2fd1fb1561c"
+ },
+ "models": {
+  "generator": "claude-sonnet-5",
+  "generator_effort": "low",
+  "generator_max_tokens": 4000,
+  "verifier": "claude-haiku-4-5-20251001",
+  "verifier_temperature": 0.0,
+  "audit": "claude-opus-5",
+  "audit_effort": "low",
+  "qwen": "Qwen/Qwen2.5-7B-Instruct",
+  "qwen_revision": null,
+  "qwen_dtype": "bfloat16 weights, float32 letter logits"
+ },
+ "prompt_sha256": {
+  "PERM_GEN_PROMPT": "12ecbd2475c43497d160e8e2c4b94af2979e8ca7c13c2f8d4793287b531dfc74",
+  "QWEN_VERIFY_PROMPT": "818f46ad91106d988ccc5349bfb891b98bc8a1400ff6ade153f022b62f60661d",
+  "PERM_PATTERNS.syntactic.pattern_desc": "4b72ae115883be933e21c1e4f806a36502b0d1a359f5da57390cc9a9d46be3da",
+  "PERM_PATTERNS.syntactic.negated_form_desc": "c1ec01050e8b58dd2e96f774d507b47a4d393614b4a24ceb7279541390fc4349",
+  "PERM_PATTERNS.quantifier.pattern_desc": "c872365872da723ca30429af162aab7133e048bf89b4f35192c8af19fd89b9c9",
+  "PERM_PATTERNS.quantifier.negated_form_desc": "dbf7116b6b84c88d375fdc981cd6b1cf17f7d4a1586025df4b681fa8ecfae46e",
+  "PERM_PATTERNS.affixal.pattern_desc": "00c69444f7251a0dae28590a80bd47666c33df52b0dcc9e5e5a167abc5fa9f67",
+  "PERM_PATTERNS.affixal.negated_form_desc": "677be83bc308a36b997ee08b5c470710930c3a335a036775c50136b17e99e282",
+  "PERM_PATTERNS.lexical.pattern_desc": "8510dc14de0895cf073179b84b02322c1db5a735657447e968f91d0ea44a3f65",
+  "PERM_PATTERNS.lexical.negated_form_desc": "a8e17098bea3776fdd914a569ff3a809fa02f642de0f1084467e6c34ce689ea6",
+  "GEN_PROMPT": "8270c1684edaadff9941da5244a8812e7fcdc62b95ada62ea21bfa38e668af35",
+  "VERIFY_PROMPT_V2": "1ce31ce47f63c8c7903b22ba4869b5a99c0262a2f9356fec52faa117ce8c3fdd"
+ },
+ "price_table_usd_per_million_tokens": {
+  "claude-opus-5": [
+   5.0,
+   25.0
+  ],
+  "claude-sonnet-5": [
+   2.0,
+   10.0
+  ],
+  "claude-haiku-4-5-20251001": [
+   1.0,
+   5.0
+  ]
+ },
+ "seeds": {
+  "perm_schedule": 20261020,
+  "perm_clause_order": 20261022,
+  "perm_option_order": 20261021,
+  "perm_audit": 20261027,
+  "fresh_schedule": 20261005,
+  "fresh_option_order": 20261006,
+  "fresh_audit": 20261012
+ },
+ "scheduled_per_family": {
+  "perm": 600,
+  "fresh": 480
+ },
+ "budget_caps_usd": {
+  "perm_phase": 12.0,
+  "fresh_phase": 22.0,
+  "hard": 24.0
+ },
+ "perm": {
+  "candidates": 1434,
+  "stages": {
+   "verifier": 814,
+   "qwen": 205,
+   "accepted": 274,
+   "filter": 129,
+   "duplicate": 10,
+   "generator": 1,
+   "cap": 1
+  },
+  "accepted_by_stratum": {
+   "affixal|first": 15,
+   "affixal|second": 32,
+   "lexical|first": 38,
+   "lexical|second": 37,
+   "quantifier|first": 38,
+   "quantifier|second": 38,
+   "syntactic|first": 38,
+   "syntactic|second": 38
+  },
+  "caps": {
+   "syntactic|first": 38,
+   "syntactic|second": 38,
+   "quantifier|first": 38,
+   "quantifier|second": 38,
+   "affixal|first": 38,
+   "affixal|second": 38,
+   "lexical|first": 38,
+   "lexical|second": 38
+  },
+  "stages_by_stratum": {
+   "affixal|first": {
+    "verifier": 138,
+    "filter": 53,
+    "accepted": 15,
+    "qwen": 7
+   },
+   "affixal|second": {
+    "verifier": 114,
+    "accepted": 32,
+    "filter": 38,
+    "qwen": 23,
+    "generator": 1
+   },
+   "lexical|first": {
+    "verifier": 131,
+    "accepted": 38,
+    "qwen": 37,
+    "filter": 8,
+    "duplicate": 1,
+    "cap": 1
+   },
+   "lexical|second": {
+    "verifier": 127,
+    "qwen": 34,
+    "accepted": 37,
+    "filter": 4,
+    "duplicate": 1
+   },
+   "quantifier|first": {
+    "verifier": 86,
+    "accepted": 38,
+    "qwen": 24,
+    "filter": 4,
+    "duplicate": 2
+   },
+   "quantifier|second": {
+    "qwen": 24,
+    "verifier": 59,
+    "accepted": 38,
+    "filter": 7,
+    "duplicate": 2
+   },
+   "syntactic|first": {
+    "verifier": 104,
+    "accepted": 38,
+    "qwen": 32,
+    "filter": 9,
+    "duplicate": 4
+   },
+   "syntactic|second": {
+    "qwen": 24,
+    "verifier": 55,
+    "filter": 6,
+    "accepted": 38
+   }
+  },
+  "qwen": {
+   "checked": 480,
+   "passed": 275
+  },
+  "discard_reasons": {
+   "arm O read as 'unclear'": 332,
+   "arm N read as 'unclear'": 111,
+   "arm N read as 'A'": 81,
+   "qwen arm N read as 'inconsistent'": 68,
+   "arm O read as 'B'": 61,
+   "3 marks: each mark must stand alone between spaces": 60,
+   "arm P read as 'unclear'": 51,
+   "qwen arm O read as 'inconsistent'": 44,
+   "qwen arm N read as 0": 31,
+   "arm P judged unnatural": 28,
+   "arm O judged unnatural": 26,
+   "arm S read as 'unclear'": 23,
+   "arm N judged unnatural": 21,
+   "arm N read as 'B'": 21,
+   "arm S judged unnatural": 20,
+   "6 negation marker in context P": 19,
+   "qwen arm P read as 'inconsistent'": 19,
+   "arm O read as 'A'": 15,
+   "arm S read as 'B'": 14,
+   "qwen arm O read as 1": 12,
+   "qwen arm S read as 'inconsistent'": 10,
+   "near-duplicate (before verification)": 10,
+   "qwen arm N read as 1": 8,
+   "11 context P introduces a new name or number": 7,
+   "arm P read as 'B'": 5,
+   "4 pattern: 'uncertified' has Zipf frequency below 2.0": 5,
+   "qwen arm O read as 0": 5,
+   "qwen arm P read as 1": 4,
+   "4 pattern: 'unbooked' has Zipf frequency below 2.0": 3,
+   "arm N read as None": 3,
+   "3 connector: found 0 times between the marks (must be 1)": 3,
+   "qwen arm S read as 1": 3,
+   "8 decisive words not inside the decisive clause of O": 3,
+   "4 pattern: the two marked words differ": 3,
+   "4 pattern: 'unstocked' has Zipf frequency below 2.0": 3,
+   "4 pattern: 'uncalibrated' has Zipf frequency below 2.0": 2,
+   "arm S read as None": 2,
+   "4 pattern: 'unsynced' has Zipf frequency below 2.0": 2,
+   "4 pattern: word before an insertion mark is 'smells', not an auxiliary of the list": 1,
+   "4 pattern: 'unfresh' has Zipf frequency below 2.0": 1
+  },
+  "halted": "budget",
+  "accepted_by_family_and_order": {
+   "affixal|second": 32,
+   "affixal|first": 15,
+   "lexical|second": 37,
+   "lexical|first": 38,
+   "quantifier|second": 38,
+   "quantifier|first": 38,
+   "syntactic|second": 38,
+   "syntactic|first": 38
+  },
+  "bag_assertion": {
+   "scenarios": 274,
+   "equal_E0_bags_N_S": 274
+  },
+  "label_balance": {
+   "O": {
+    "0": 133,
+    "1": 141
+   },
+   "P": {
+    "0": 133,
+    "1": 141
+   },
+   "N": {
+    "1": 133,
+    "0": 141
+   },
+   "S": {
+    "0": 133,
+    "1": 141
+   }
+  }
+ },
+ "fresh": {
+  "candidates": 1348,
+  "stages": {
+   "verifier": 494,
+   "filter": 408,
+   "accepted": 240,
+   "duplicate": 98,
+   "qwen": 108
+  },
+  "accepted_by_stratum": {
+   "affixal": 60,
+   "lexical": 60,
+   "quantifier": 60,
+   "syntactic": 60
+  },
+  "caps": {
+   "syntactic": 60,
+   "quantifier": 60,
+   "affixal": 60,
+   "lexical": 60
+  },
+  "stages_by_stratum": {
+   "affixal": {
+    "verifier": 133,
+    "filter": 32,
+    "accepted": 60,
+    "qwen": 13,
+    "duplicate": 14
+   },
+   "lexical": {
+    "accepted": 60,
+    "verifier": 112,
+    "duplicate": 25,
+    "filter": 136,
+    "qwen": 31
+   },
+   "quantifier": {
+    "filter": 140,
+    "verifier": 105,
+    "qwen": 37,
+    "duplicate": 26,
+    "accepted": 60
+   },
+   "syntactic": {
+    "verifier": 144,
+    "filter": 100,
+    "duplicate": 33,
+    "accepted": 60,
+    "qwen": 27
+   }
+  },
+  "qwen": {
+   "checked": 348,
+   "passed": 240
+  },
+  "discard_reasons": {
+   "arm N read as 'A'": 217,
+   "near-duplicate of a kept scenario": 98,
+   "arm N read as 'unclear'": 91,
+   "context_N edit distance 6 (must be 1-5 words)": 76,
+   "arm N read as 'B'": 48,
+   "context_N edit distance 7 (must be 1-5 words)": 44,
+   "qwen arm N read as 'inconsistent'": 41,
+   "negation marker in context_P": 38,
+   "decisive words changed in context_S": 37,
+   "arm N judged unnatural": 36,
+   "arm O read as 'unclear'": 32,
+   "qwen arm N read as 0": 28,
+   "context_N edit distance 9 (must be 1-5 words)": 26,
+   "context_N edit distance 8 (must be 1-5 words)": 24,
+   "arm S read as 'unclear'": 24,
+   "context_S edit too large": 20,
+   "context_N edit distance 10 (must be 1-5 words)": 15,
+   "context_N edit distance 11 (must be 1-5 words)": 13,
+   "negation marker in context_O": 13,
+   "arm P read as 'unclear'": 12,
+   "qwen arm P read as 'inconsistent'": 11,
+   "qwen arm O read as 'inconsistent'": 10,
+   "context_N edit distance 13 (must be 1-5 words)": 9,
+   "context_N edit distance 12 (must be 1-5 words)": 8,
+   "qwen arm S read as 'inconsistent'": 7,
+   "arm S judged unnatural": 6,
+   "cue_S 'never' is not a lexical cue": 6,
+   "cue_S 'never' is not a affixal cue": 6,
+   "arm P read as 'B'": 5,
+   "arm S read as 'B'": 5,
+   "arm O read as 'B'": 5,
+   "arm N read as None": 4,
+   "context_P introduces a new name or number": 4,
+   "cue_S 'never' is not a quantifier cue": 4,
+   "cue_N 'no longer' is not a syntactic cue": 4,
+   "cue_S not found in context_S": 3,
+   "context_N edit distance 14 (must be 1-5 words)": 3,
+   "arm O read as 'A'": 3,
+   "context_N edit distance 15 (must be 1-5 words)": 3,
+   "qwen arm O read as 1": 3
+  },
+  "halted": "caps reached",
+  "accepted_by_family": {
+   "affixal": 60,
+   "lexical": 60,
+   "quantifier": 60,
+   "syntactic": 60
+  },
+  "label_balance": {
+   "O": {
+    "1": 123,
+    "0": 117
+   },
+   "P": {
+    "1": 123,
+    "0": 117
+   },
+   "N": {
+    "0": 123,
+    "1": 117
+   },
+   "S": {
+    "1": 123,
+    "0": 117
+   }
+  }
+ },
+ "opus_audit": {
+  "perm": {
+   "sample": 27,
+   "checked": 27,
+   "agree_all_arms": 9,
+   "stopped": null
+  },
+  "fresh": {
+   "sample": 24,
+   "checked": 24,
+   "agree_all_arms": 18,
+   "stopped": null
+  }
+ },
+ "cost_metered": {
+  "usd": 21.39223100000002,
+  "calls": 9269,
+  "in": 3840015,
+  "out": 1602812,
+  "by_model": {
+   "claude-sonnet-5": [
+    18.35792000000003,
+    2788,
+    2730405,
+    1289711
+   ],
+   "claude-haiku-4-5-20251001": [
+    2.5853160000000064,
+    6277,
+    1063221,
+    304419
+   ],
+   "claude-opus-5": [
+    0.44899499999999987,
+    204,
+    46389,
+    8682
+   ]
+  }
+ },
+ "gpu": "NVIDIA L4, 23034 MiB",
+ "environment": {
+  "timestamp_utc": "2026-10-05T19:36:41.651513+00:00",
+  "python": "3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "torch": "2.11.0+cu130",
+  "cuda_available": true,
+  "cuda_version": "13.0",
+  "gpu": "NVIDIA L4, 23034 MiB, 580.82.07",
+  "packages": {
+   "transformers": "5.18.0",
+   "tokenizers": "0.23.2",
+   "spacy": "3.8.16",
+   "wordfreq": "3.1.1",
+   "scipy": "1.16.3",
+   "numpy": "2.1.3",
+   "datasets": "4.8.5",
+   "huggingface_hub": "1.33.0"
+  }
+ },
+ "human_verification": "not performed (author decision, 5 October 2026)"
+}

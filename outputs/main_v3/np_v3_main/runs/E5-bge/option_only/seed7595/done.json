@@ -1,0 +1,1 @@
+{"encoder": "E5-bge", "condition": "option_only", "seed": 7595, "selected_epoch": 3, "epochs_run": 8, "dev_acc": 62.61904761904762, "train_time_s": 40.6, "tests": ["v1test", "fresh", "perm"]}

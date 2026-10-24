@@ -1,0 +1,2522 @@
+[
+ {
+  "encoder": "E1-minilm",
+  "seed": 13,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 37,
+  "c": 61,
+  "p": 0.019690184799846844
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 42,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 36,
+  "c": 46,
+  "p": 0.3202933636380142
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 71,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 36,
+  "c": 66,
+  "p": 0.003865583588338323
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 101,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 49,
+  "c": 49,
+  "p": 1.0
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 202,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 38,
+  "c": 64,
+  "p": 0.012920451911126197
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 303,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 40,
+  "c": 36,
+  "p": 0.7310088822226056
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 404,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 43,
+  "c": 58,
+  "p": 0.16327926185142758
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 505,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 58,
+  "c": 41,
+  "p": 0.10735158653318887
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 1676,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 43,
+  "c": 54,
+  "p": 0.30993353423900727
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 7595,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 40,
+  "c": 42,
+  "p": 0.9121566075526022
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 13,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 22,
+  "c": 30,
+  "p": 0.3317497633694906
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 42,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 19,
+  "c": 34,
+  "p": 0.053438810537711046
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 71,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 20,
+  "c": 34,
+  "p": 0.0759047294891014
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 101,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 29,
+  "c": 27,
+  "p": 0.8938530948350216
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 202,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 19,
+  "c": 32,
+  "p": 0.09191454981585423
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 303,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 21,
+  "c": 21,
+  "p": 1.0
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 404,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 19,
+  "c": 34,
+  "p": 0.053438810537711046
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 505,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 36,
+  "c": 20,
+  "p": 0.044046546102150766
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 1676,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 28,
+  "c": 28,
+  "p": 1.0
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 7595,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 21,
+  "c": 23,
+  "p": 0.880395821280672
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 13,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 54,
+  "c": 45,
+  "p": 0.4215233436157706
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 42,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 36,
+  "c": 35,
+  "p": 0.9999999999999998
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 71,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 38,
+  "c": 49,
+  "p": 0.2836071084054854
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 101,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 30,
+  "c": 40,
+  "p": 0.281978921793656
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 202,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 21,
+  "c": 42,
+  "p": 0.011141407415305074
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 303,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 22,
+  "c": 27,
+  "p": 0.5681724128491652
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 404,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 28,
+  "c": 30,
+  "p": 0.8956832138895906
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 505,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 37,
+  "c": 42,
+  "p": 0.6529643755164601
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 1676,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 25,
+  "c": 48,
+  "p": 0.009542211425865477
+ },
+ {
+  "encoder": "E1-minilm",
+  "seed": 7595,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 40,
+  "c": 43,
+  "p": 0.8264047244491923
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 13,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 41,
+  "c": 60,
+  "p": 0.07275700687752398
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 42,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 105,
+  "c": 40,
+  "p": 6.493107355315605e-08
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 71,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 79,
+  "c": 33,
+  "p": 1.6356858141740275e-05
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 101,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 71,
+  "c": 36,
+  "p": 0.0009231579958033549
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 202,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 98,
+  "c": 35,
+  "p": 4.292058431471203e-08
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 303,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 57,
+  "c": 50,
+  "p": 0.5620926850537896
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 404,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 80,
+  "c": 38,
+  "p": 0.00013823849699097512
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 505,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 68,
+  "c": 43,
+  "p": 0.022297954801947985
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 1676,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 87,
+  "c": 36,
+  "p": 4.848718134555307e-06
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 7595,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 68,
+  "c": 37,
+  "p": 0.0032209898687985275
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 13,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 20,
+  "c": 34,
+  "p": 0.0759047294891014
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 42,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 47,
+  "c": 19,
+  "p": 0.0007561070639613921
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 71,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 43,
+  "c": 18,
+  "p": 0.001868101030975251
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 101,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 45,
+  "c": 23,
+  "p": 0.01033766119369546
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 202,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 34,
+  "c": 15,
+  "p": 0.009399241523873059
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 303,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 18,
+  "c": 23,
+  "p": 0.5327092552361137
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 404,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 19,
+  "c": 14,
+  "p": 0.48685024166479707
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 505,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 34,
+  "c": 25,
+  "p": 0.2975952082844287
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 1676,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 50,
+  "c": 19,
+  "p": 0.00024439701657757496
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 7595,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 39,
+  "c": 16,
+  "p": 0.0026672623828598026
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 13,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 49,
+  "c": 49,
+  "p": 1.0
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 42,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 45,
+  "c": 34,
+  "p": 0.2604255258972435
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 71,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 33,
+  "c": 44,
+  "p": 0.2543046661477
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 101,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 36,
+  "c": 42,
+  "p": 0.5715867180030723
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 202,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 64,
+  "c": 34,
+  "p": 0.0031886785048038917
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 303,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 72,
+  "c": 50,
+  "p": 0.05682268892317546
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 404,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 34,
+  "c": 35,
+  "p": 0.9999999999999998
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 505,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 64,
+  "c": 37,
+  "p": 0.009335048120644805
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 1676,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 49,
+  "c": 30,
+  "p": 0.04216544399495113
+ },
+ {
+  "encoder": "E2-deberta",
+  "seed": 7595,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 46,
+  "c": 46,
+  "p": 1.0
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 13,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 41,
+  "c": 58,
+  "p": 0.10735158653318887
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 42,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 43,
+  "c": 61,
+  "p": 0.09504367479940828
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 71,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 47,
+  "c": 63,
+  "p": 0.15233780606025227
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 101,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 48,
+  "c": 50,
+  "p": 0.9196068309220428
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 202,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 51,
+  "c": 60,
+  "p": 0.4478061321437484
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 303,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 37,
+  "c": 79,
+  "p": 0.00012034422931947831
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 404,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 53,
+  "c": 59,
+  "p": 0.6367997716142331
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 505,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 52,
+  "c": 66,
+  "p": 0.23126568219748722
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 1676,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 52,
+  "c": 59,
+  "p": 0.5692202278035756
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 7595,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 36,
+  "c": 63,
+  "p": 0.008633586943417947
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 13,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 24,
+  "c": 35,
+  "p": 0.19252645776146274
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 42,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 19,
+  "c": 35,
+  "p": 0.04022356409571669
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 71,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 20,
+  "c": 37,
+  "p": 0.03314396778750544
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 101,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 20,
+  "c": 32,
+  "p": 0.12634707581392135
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 202,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 18,
+  "c": 40,
+  "p": 0.005354859650800294
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 303,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 16,
+  "c": 50,
+  "p": 3.328235017032062e-05
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 404,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 27,
+  "c": 36,
+  "p": 0.31350305329645284
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 505,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 24,
+  "c": 42,
+  "p": 0.03558272445223169
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 1676,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 24,
+  "c": 32,
+  "p": 0.34968195298368476
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 7595,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 18,
+  "c": 39,
+  "p": 0.0075081755341502
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 13,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 45,
+  "c": 49,
+  "p": 0.7571890741424067
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 42,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 41,
+  "c": 29,
+  "p": 0.18821620302302766
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 71,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 37,
+  "c": 35,
+  "p": 0.906294324703081
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 101,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 36,
+  "c": 40,
+  "p": 0.7310088822226056
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 202,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 57,
+  "c": 40,
+  "p": 0.10376938287271793
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 303,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 35,
+  "c": 55,
+  "p": 0.04459752462791592
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 404,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 68,
+  "c": 50,
+  "p": 0.11721294197631478
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 505,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 45,
+  "c": 34,
+  "p": 0.2604255258972435
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 1676,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 37,
+  "c": 44,
+  "p": 0.5052364407669357
+ },
+ {
+  "encoder": "E4-mpnet",
+  "seed": 7595,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 58,
+  "c": 47,
+  "p": 0.3291371261661389
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 13,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 40,
+  "c": 58,
+  "p": 0.0854105891128046
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 42,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 53,
+  "c": 48,
+  "p": 0.6908264239959597
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 71,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 72,
+  "c": 47,
+  "p": 0.027379102500930338
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 101,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 46,
+  "c": 62,
+  "p": 0.14857634761056238
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 202,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 46,
+  "c": 55,
+  "p": 0.4261600154669939
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 303,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 51,
+  "c": 52,
+  "p": 0.9999999999999993
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 404,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 37,
+  "c": 72,
+  "p": 0.0010329356216356765
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 505,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 47,
+  "c": 52,
+  "p": 0.6878853435796917
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 1676,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 50,
+  "c": 49,
+  "p": 0.9999999999999991
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 7595,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 47,
+  "c": 55,
+  "p": 0.48843446453263273
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 13,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 15,
+  "c": 31,
+  "p": 0.02589608179323477
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 42,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 23,
+  "c": 31,
+  "p": 0.3408909412200971
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 71,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 32,
+  "c": 25,
+  "p": 0.42704285650325524
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 101,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 19,
+  "c": 34,
+  "p": 0.053438810537711046
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 202,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 19,
+  "c": 35,
+  "p": 0.04022356409571669
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 303,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 27,
+  "c": 32,
+  "p": 0.6029232012571504
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 404,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 16,
+  "c": 35,
+  "p": 0.010973562899720513
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 505,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 23,
+  "c": 27,
+  "p": 0.6718110337653656
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 1676,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 26,
+  "c": 26,
+  "p": 1.0
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 7595,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 15,
+  "c": 28,
+  "p": 0.0659940344557981
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 13,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 52,
+  "c": 29,
+  "p": 0.013999473719986937
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 42,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 54,
+  "c": 43,
+  "p": 0.30993353423900727
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 71,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 29,
+  "c": 42,
+  "p": 0.1539127693264563
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 101,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 44,
+  "c": 35,
+  "p": 0.3681876338306311
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 202,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 28,
+  "c": 29,
+  "p": 1.0
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 303,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 67,
+  "c": 47,
+  "p": 0.0746925300797661
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 404,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 45,
+  "c": 37,
+  "p": 0.439705429185822
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 505,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 67,
+  "c": 44,
+  "p": 0.03630649114131777
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 1676,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 24,
+  "c": 41,
+  "p": 0.0463534743329112
+ },
+ {
+  "encoder": "E5-bge",
+  "seed": 7595,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 38,
+  "c": 32,
+  "p": 0.5504125118224712
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 13,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 35,
+  "c": 35,
+  "p": 1.0
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 42,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 54,
+  "c": 32,
+  "p": 0.02298259190715704
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 71,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 46,
+  "c": 33,
+  "p": 0.17661055306016424
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 101,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 48,
+  "c": 34,
+  "p": 0.15067520762630385
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 202,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 40,
+  "c": 40,
+  "p": 1.0
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 303,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 59,
+  "c": 46,
+  "p": 0.24143171756517778
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 404,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 53,
+  "c": 38,
+  "p": 0.14179337454474714
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 505,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 49,
+  "c": 38,
+  "p": 0.2836071084054854
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 1676,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 47,
+  "c": 34,
+  "p": 0.18207674694084314
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 7595,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 37,
+  "c": 32,
+  "p": 0.6304564917867981
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 13,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 20,
+  "c": 20,
+  "p": 1.0
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 42,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 35,
+  "c": 14,
+  "p": 0.003801654409748778
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 71,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 25,
+  "c": 19,
+  "p": 0.4513808323961257
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 101,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 31,
+  "c": 16,
+  "p": 0.03998605682605215
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 202,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 21,
+  "c": 24,
+  "p": 0.765991824244793
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 303,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 36,
+  "c": 16,
+  "p": 0.0077874363057435225
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 404,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 31,
+  "c": 21,
+  "p": 0.21160856876151612
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 505,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 26,
+  "c": 24,
+  "p": 0.887724827340783
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 1676,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 27,
+  "c": 18,
+  "p": 0.23269319190831084
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 7595,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 23,
+  "c": 17,
+  "p": 0.42959050784338615
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 13,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 76,
+  "c": 40,
+  "p": 0.0010650742732639187
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 42,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 65,
+  "c": 36,
+  "p": 0.005077381119448144
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 71,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 35,
+  "c": 29,
+  "p": 0.5323087760278422
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 101,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 70,
+  "c": 32,
+  "p": 0.0002133912534118648
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 202,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 58,
+  "c": 28,
+  "p": 0.0016055649295642408
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 303,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 36,
+  "c": 27,
+  "p": 0.31350305329645284
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 404,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 55,
+  "c": 36,
+  "p": 0.058573528410188855
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 505,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 76,
+  "c": 36,
+  "p": 0.00019823699855458433
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 1676,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 60,
+  "c": 32,
+  "p": 0.004609105461459271
+ },
+ {
+  "encoder": "E6-colbertv2",
+  "seed": 7595,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 48,
+  "c": 28,
+  "p": 0.028626655508737896
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 13,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 90,
+  "c": 37,
+  "p": 2.872030486807259e-06
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 42,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 56,
+  "c": 32,
+  "p": 0.013750385738502912
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 71,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 60,
+  "c": 41,
+  "p": 0.07275700687752398
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 101,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 64,
+  "c": 48,
+  "p": 0.15606630199376736
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 202,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 74,
+  "c": 38,
+  "p": 0.0008605684481792975
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 303,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 95,
+  "c": 40,
+  "p": 2.4722651029795295e-06
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 404,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 78,
+  "c": 37,
+  "p": 0.00016552386897451067
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 505,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 50,
+  "c": 46,
+  "p": 0.7596492883236297
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 1676,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 71,
+  "c": 40,
+  "p": 0.004195534185394861
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 7595,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 84,
+  "c": 37,
+  "p": 2.3164303287606513e-05
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 13,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 42,
+  "c": 13,
+  "p": 0.00011361060320691506
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 42,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 35,
+  "c": 12,
+  "p": 0.0010885382064742541
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 71,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 32,
+  "c": 12,
+  "p": 0.003657766827927844
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 101,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 31,
+  "c": 20,
+  "p": 0.16077960181198847
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 202,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 38,
+  "c": 15,
+  "p": 0.0021901868838920535
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 303,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 35,
+  "c": 13,
+  "p": 0.0020881073339964478
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 404,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 28,
+  "c": 15,
+  "p": 0.0659940344557981
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 505,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 27,
+  "c": 20,
+  "p": 0.38169339766321275
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 1676,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 32,
+  "c": 15,
+  "p": 0.018623836615006432
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 7595,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 32,
+  "c": 20,
+  "p": 0.12634707581392135
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 13,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 63,
+  "c": 42,
+  "p": 0.05044215663996969
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 42,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 53,
+  "c": 41,
+  "p": 0.2564423489329692
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 71,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 50,
+  "c": 47,
+  "p": 0.8392136618440825
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 101,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 34,
+  "c": 41,
+  "p": 0.48868297090314317
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 202,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 104,
+  "c": 41,
+  "p": 1.6967766819869324e-07
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 303,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 46,
+  "c": 42,
+  "p": 0.7493290032022805
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 404,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 46,
+  "c": 38,
+  "p": 0.4452046690465761
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 505,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 47,
+  "c": 51,
+  "p": 0.7620362195292438
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 1676,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 38,
+  "c": 42,
+  "p": 0.7375543089843226
+ },
+ {
+  "encoder": "E0-hash",
+  "seed": 7595,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 65,
+  "c": 39,
+  "p": 0.013836195066747886
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 13,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 102,
+  "c": 39,
+  "p": 1.1042203333800955e-07
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 42,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 77,
+  "c": 56,
+  "p": 0.08249129252516192
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 71,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 110,
+  "c": 42,
+  "p": 3.274898504639186e-08
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 101,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 104,
+  "c": 34,
+  "p": 1.9152268319067758e-09
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 202,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 87,
+  "c": 44,
+  "p": 0.00021577652478126048
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 303,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 67,
+  "c": 59,
+  "p": 0.5330527502675584
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 404,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 74,
+  "c": 45,
+  "p": 0.009966324337995335
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 505,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 91,
+  "c": 39,
+  "p": 5.876389856455313e-06
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 1676,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 74,
+  "c": 37,
+  "p": 0.0005701181048309126
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 7595,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "all",
+  "b": 80,
+  "c": 41,
+  "p": 0.0004985619576974186
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 13,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 44,
+  "c": 19,
+  "p": 0.0022275315109880345
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 42,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 47,
+  "c": 24,
+  "p": 0.008554538502693429
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 71,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 45,
+  "c": 20,
+  "p": 0.0026263768106840374
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 101,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 46,
+  "c": 17,
+  "p": 0.00033670934946623826
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 202,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 31,
+  "c": 22,
+  "p": 0.27167916606550335
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 303,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 42,
+  "c": 26,
+  "p": 0.06811867428409976
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 404,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 37,
+  "c": 21,
+  "p": 0.047940324071666984
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 505,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 45,
+  "c": 18,
+  "p": 0.0008980471786680215
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 1676,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 23,
+  "c": 19,
+  "p": 0.6439689563703723
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 7595,
+  "contrast": "signed_max vs max",
+  "arms": [
+   "N"
+  ],
+  "subset": "unseen",
+  "b": 26,
+  "c": 19,
+  "p": 0.3712980344710104
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 13,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 18,
+  "c": 35,
+  "p": 0.027008317653722358
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 42,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 41,
+  "c": 63,
+  "p": 0.03895793340131169
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 71,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 28,
+  "c": 38,
+  "p": 0.2678116648465871
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 101,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 25,
+  "c": 47,
+  "p": 0.012774595538064901
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 202,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 31,
+  "c": 36,
+  "p": 0.6254068289416483
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 303,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 33,
+  "c": 52,
+  "p": 0.050250895335291444
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 404,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 35,
+  "c": 52,
+  "p": 0.08568897435916664
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 505,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 30,
+  "c": 54,
+  "p": 0.011634454119925825
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 1676,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 44,
+  "c": 31,
+  "p": 0.16542794172425662
+ },
+ {
+  "encoder": "E3-glove",
+  "seed": 7595,
+  "contrast": "signed_max vs signed_max_sentence",
+  "arms": [
+   "S"
+  ],
+  "subset": "S_same",
+  "b": 44,
+  "c": 42,
+  "p": 0.9142116370824498
+ }
+]

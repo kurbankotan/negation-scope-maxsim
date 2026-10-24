@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max",
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 303,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 384,
+  "parameter_counts": {
+    "scorer": 475778,
+    "aggregator": 1,
+    "total": 475779
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.5952838311240465,
+      "train_acc": 65.89834515366431,
+      "dev_loss": 0.6465502574330284,
+      "dev_acc": 64.04761904761905,
+      "lambda": 0.5404955148696899,
+      "beta": 1.1443591117858887,
+      "tau": null,
+      "elapsed_s": 5.0
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.4047627412223083,
+      "train_acc": 81.85579196217495,
+      "dev_loss": 0.7731866836547852,
+      "dev_acc": 67.14285714285714,
+      "lambda": 0.5756823420524597,
+      "beta": 1.3014836311340332,
+      "tau": null,
+      "elapsed_s": 9.8
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.23339794942532308,
+      "train_acc": 91.84397163120568,
+      "dev_loss": 1.10188132808322,
+      "dev_acc": 67.14285714285714,
+      "lambda": 0.579767644405365,
+      "beta": 1.4226621389389038,
+      "tau": null,
+      "elapsed_s": 14.9
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.12071620996592315,
+      "train_acc": 95.50827423167848,
+      "dev_loss": 1.5100432271049136,
+      "dev_acc": 66.9047619047619,
+      "lambda": 0.5945280194282532,
+      "beta": 1.501818060874939,
+      "tau": null,
+      "elapsed_s": 19.8
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.09652584562205817,
+      "train_acc": 96.6903073286052,
+      "dev_loss": 1.913152669724964,
+      "dev_acc": 63.57142857142857,
+      "lambda": 0.6004880666732788,
+      "beta": 1.5415738821029663,
+      "tau": null,
+      "elapsed_s": 25.0
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.07554988374154195,
+      "train_acc": 97.51773049645391,
+      "dev_loss": 1.9737980831237065,
+      "dev_acc": 68.0952380952381,
+      "lambda": 0.6055338382720947,
+      "beta": 1.580828070640564,
+      "tau": null,
+      "elapsed_s": 30.2
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.05266339612748236,
+      "train_acc": 98.22695035460993,
+      "dev_loss": 1.899250044141497,
+      "dev_acc": 66.9047619047619,
+      "lambda": 0.6129859089851379,
+      "beta": 1.6182944774627686,
+      "tau": null,
+      "elapsed_s": 35.5
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.06048552726723483,
+      "train_acc": 98.22695035460993,
+      "dev_loss": 1.5348549172991799,
+      "dev_acc": 66.66666666666667,
+      "lambda": 0.6219426989555359,
+      "beta": 1.6382503509521484,
+      "tau": null,
+      "elapsed_s": 40.6
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.052884031430626595,
+      "train_acc": 98.3451536643026,
+      "dev_loss": 1.701284941037496,
+      "dev_acc": 62.857142857142854,
+      "lambda": 0.6308079957962036,
+      "beta": 1.6539421081542969,
+      "tau": null,
+      "elapsed_s": 45.8
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.03564677467397975,
+      "train_acc": 98.69976359338061,
+      "dev_loss": 2.4032902808416456,
+      "dev_acc": 65.95238095238095,
+      "lambda": 0.6363087892532349,
+      "beta": 1.6829454898834229,
+      "tau": null,
+      "elapsed_s": 51.2
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.03588972263033755,
+      "train_acc": 98.58156028368795,
+      "dev_loss": 2.2628164393561225,
+      "dev_acc": 64.04761904761905,
+      "lambda": 0.6475776433944702,
+      "beta": 1.7059566974639893,
+      "tau": null,
+      "elapsed_s": 56.2
+    }
+  ],
+  "train_time_s": 56.8,
+  "dev": {
+    "accuracy": 68.0952380952381,
+    "loss": 1.9737980831237065
+  },
+  "condition": "signed_max_oracle",
+  "encoder": "E1-minilm"
+}

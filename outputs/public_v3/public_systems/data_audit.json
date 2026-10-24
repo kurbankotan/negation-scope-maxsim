@@ -1,0 +1,20 @@
+{
+ "perm": {
+  "items": 1096,
+  "scenarios": 274
+ },
+ "fresh": {
+  "items": 960,
+  "scenarios": 240
+ },
+ "nevir": {
+  "instances": 1383,
+  "nested": 184,
+  "equal_bags": 36,
+  "revision": "6263585072ce3b435ed09658613553fbf4e74184"
+ },
+ "files": {
+  "perm.jsonl": "0a1673da78a13ef1f3728d4d3863bfb1980bdeae0cdb6841b0e774ed00b88de3",
+  "fresh.jsonl": "83944035b91f5521671c88b122a4ba5b60bf96fc427d1c654847211eb84b7596"
+ }
+}

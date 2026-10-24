@@ -1,0 +1,28 @@
+{
+ "v1": {
+  "train_items": 1692,
+  "train_scenarios": 423,
+  "dev_items": 420
+ },
+ "perm": {
+  "items": 1096
+ },
+ "fresh": {
+  "items": 960
+ },
+ "nevir": {
+  "instances": 1383,
+  "nested": 184,
+  "equal_bags": 36,
+  "train": 948,
+  "validation": 225,
+  "revision": "6263585072ce3b435ed09658613553fbf4e74184"
+ },
+ "scifact": {
+  "url": "https://public.ukp.informatik.tu-darmstadt.de/thakur/BEIR/datasets/scifact.zip",
+  "zip_sha256": "536e14446a0ba56ed1398ab1055f39fe852686ecad24a6306c80c490fa8e0165",
+  "n_corpus": 5183,
+  "n_test_queries": 300,
+  "n_qrels": 339
+ }
+}

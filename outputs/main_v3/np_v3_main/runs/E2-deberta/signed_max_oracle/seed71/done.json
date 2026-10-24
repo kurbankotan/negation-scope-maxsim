@@ -1,0 +1,1 @@
+{"encoder": "E2-deberta", "condition": "signed_max_oracle", "seed": 71, "selected_epoch": 12, "epochs_run": 17, "dev_acc": 77.61904761904762, "train_time_s": 91.7, "tests": ["v1test", "fresh", "perm"]}

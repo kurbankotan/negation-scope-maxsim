@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or the NegPairs data, please cite them as below."
+title: "Negation Scope in MaxSim-Family Scorers: code and data (NegPairs)"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Kotan
+    given-names: Kurban
+    affiliation: Manisa Celal Bayar University
+    orcid: "https://orcid.org/0000-0002-6660-0565"
+license: MIT
+repository-code: "https://github.com/kurbankotan/negation-scope-maxsim"
+abstract: >-
+  Code, data and provenance records for the article "Negation Scope in MaxSim-Family Scorers:
+  Exact Limits, Permutation Minimal Pairs, and the Behavior of Released Systems": the NegPairs
+  minimal-pair data sets (v1, Fresh and the permutation set Perm), the analysis package, the Colab
+  notebooks of every run, the run outputs, the independent recomputation and the manuscript
+  pipeline that rebuilds every reported number from the run outputs.
+keywords:
+  - negation
+  - negation scope
+  - late interaction
+  - ColBERT
+  - MaxSim
+  - minimal pairs
+  - information retrieval
+  - evaluation

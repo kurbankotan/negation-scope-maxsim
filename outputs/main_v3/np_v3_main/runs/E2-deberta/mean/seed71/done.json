@@ -1,0 +1,1 @@
+{"encoder": "E2-deberta", "condition": "mean", "seed": 71, "selected_epoch": 11, "epochs_run": 16, "dev_acc": 74.04761904761905, "train_time_s": 75.3, "tests": ["v1test", "fresh", "perm"]}

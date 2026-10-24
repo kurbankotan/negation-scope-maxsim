@@ -1,0 +1,1 @@
+{"encoder": "E1-minilm", "condition": "option_only", "seed": 101, "selected_epoch": 1, "epochs_run": 6, "dev_acc": 60.714285714285715, "train_time_s": 29.4, "tests": ["v1test", "fresh", "perm"]}

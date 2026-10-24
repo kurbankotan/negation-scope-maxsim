@@ -1,0 +1,19 @@
+{
+ "perm": {
+  "negpairs_items": 1096,
+  "negpairs_decision_agreement_pct": 99.36131386861314,
+  "negpairs_max_abs_diff": 0.10168075561523438,
+  "nevir_instances": 1383,
+  "nevir_comparison_agreement_pct": 96.81851048445408,
+  "nevir_max_abs_diff": 0.2476806640625
+ },
+ "fresh": {
+  "negpairs_items": 960,
+  "negpairs_decision_agreement_pct": 99.79166666666667,
+  "negpairs_max_abs_diff": 0.10959434509277344,
+  "nevir_instances": 1383,
+  "nevir_comparison_agreement_pct": 96.81851048445408,
+  "nevir_max_abs_diff": 0.2476806640625
+ },
+ "note": "main run scored the E6 model in its session dtype (bfloat16 on the GPU); this run in float32"
+}

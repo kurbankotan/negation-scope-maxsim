@@ -1,0 +1,160 @@
+{
+  "config": {
+    "aggregator": "signed_max",
+    "lr": 0.003,
+    "weight_decay": 0.01,
+    "batch_size": 16,
+    "epochs": 30,
+    "patience": 5,
+    "proj": 128,
+    "hidden": 256,
+    "dropout": 0.1,
+    "seed": 42,
+    "device": "cuda",
+    "grad_clip": 1.0,
+    "max_ctx_tokens": null,
+    "label_set": [
+      "A",
+      "B"
+    ],
+    "amp": true
+  },
+  "dim": 768,
+  "parameter_counts": {
+    "scorer": 918146,
+    "aggregator": 1,
+    "total": 918147
+  },
+  "selected_epoch": 6,
+  "epochs_run": 11,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.6193877313435783,
+      "train_acc": 63.061465721040186,
+      "dev_loss": 0.6016669273376465,
+      "dev_acc": 70.95238095238095,
+      "lambda": 0.511768639087677,
+      "beta": 1.1286766529083252,
+      "tau": null,
+      "elapsed_s": 5.5
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.4676384732091962,
+      "train_acc": 79.19621749408984,
+      "dev_loss": 0.6253971616427104,
+      "dev_acc": 68.0952380952381,
+      "lambda": 0.5070189833641052,
+      "beta": 1.304879069328308,
+      "tau": null,
+      "elapsed_s": 11.9
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.36775590370169203,
+      "train_acc": 84.63356973995272,
+      "dev_loss": 0.8519633611043295,
+      "dev_acc": 71.9047619047619,
+      "lambda": 0.5025879144668579,
+      "beta": 1.402484655380249,
+      "tau": null,
+      "elapsed_s": 18.5
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.2713074592199731,
+      "train_acc": 89.53900709219859,
+      "dev_loss": 1.0146023880867732,
+      "dev_acc": 69.04761904761905,
+      "lambda": 0.5004489421844482,
+      "beta": 1.480198860168457,
+      "tau": null,
+      "elapsed_s": 26.6
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.22795584959904916,
+      "train_acc": 92.43498817966903,
+      "dev_loss": 0.9085033053443545,
+      "dev_acc": 72.85714285714286,
+      "lambda": 0.5040911436080933,
+      "beta": 1.5046465396881104,
+      "tau": null,
+      "elapsed_s": 33.3
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.15977047961513482,
+      "train_acc": 95.44917257683215,
+      "dev_loss": 1.052723290806725,
+      "dev_acc": 73.80952380952381,
+      "lambda": 0.5170795917510986,
+      "beta": 1.5658400058746338,
+      "tau": null,
+      "elapsed_s": 40.3
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.14814606639193306,
+      "train_acc": 95.09456264775413,
+      "dev_loss": 1.0946872227248692,
+      "dev_acc": 72.61904761904762,
+      "lambda": 0.5212542414665222,
+      "beta": 1.5855393409729004,
+      "tau": null,
+      "elapsed_s": 48.3
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.12435100105619741,
+      "train_acc": 96.33569739952719,
+      "dev_loss": 1.252318350190208,
+      "dev_acc": 73.33333333333333,
+      "lambda": 0.512535810470581,
+      "beta": 1.6186147928237915,
+      "tau": null,
+      "elapsed_s": 54.7
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.10940538998362971,
+      "train_acc": 96.80851063829788,
+      "dev_loss": 1.371642209802355,
+      "dev_acc": 71.42857142857143,
+      "lambda": 0.5123031139373779,
+      "beta": 1.638827919960022,
+      "tau": null,
+      "elapsed_s": 61.5
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.0843476827562419,
+      "train_acc": 97.28132387706856,
+      "dev_loss": 1.7676426305657342,
+      "dev_acc": 72.85714285714286,
+      "lambda": 0.5120987892150879,
+      "beta": 1.6576005220413208,
+      "tau": null,
+      "elapsed_s": 67.9
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.08414322578174284,
+      "train_acc": 97.63593380614657,
+      "dev_loss": 1.500055007707505,
+      "dev_acc": 72.85714285714286,
+      "lambda": 0.5120255351066589,
+      "beta": 1.6677707433700562,
+      "tau": null,
+      "elapsed_s": 74.5
+    }
+  ],
+  "train_time_s": 75.4,
+  "dev": {
+    "accuracy": 73.80952380952381,
+    "loss": 1.052723290806725
+  },
+  "condition": "signed_max_oracle",
+  "encoder": "E2-deberta"
+}
